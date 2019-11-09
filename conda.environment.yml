@@ -1,0 +1,37 @@
+name: D:\git\privat\open-data-crunch-dd-2019\venv
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - django=2.2.5=py37_1
+  - python=3.7.4=h5263a28_0
+  - pytz=2019.3=py_0
+  - sqlite=3.29.0=he774522_0
+  - sqlparse=0.3.0=py_0
+  - vc=14.1=h21ff451_3
+  - vs2015_runtime=15.5.2=3
+  - ca-certificates=2019.9.11=hecc5488_0
+  - certifi=2019.9.11=py37_0
+  - cffi=1.13.2=py37hb32ad35_0
+  - chardet=3.0.4=py37_1003
+  - cryptography=2.8=py37hb32ad35_0
+  - idna=2.8=py37_1000
+  - openssl=1.1.1d=hfa6e2cd_0
+  - owslib=0.18.0=py_0
+  - proj=6.2.0=ha7a8c7b_1
+  - pycparser=2.19=py37_1
+  - pyopenssl=19.0.0=py37_0
+  - pyproj=2.4.1=py37h77f86b8_0
+  - pysocks=1.7.1=py37_0
+  - python-dateutil=2.8.1=py_0
+  - requests=2.22.0=py37_1
+  - six=1.13.0=py37_0
+  - urllib3=1.25.6=py37_0
+  - win_inet_pton=1.1.0=py37_0
+  - pip=19.3.1=py37_0
+  - setuptools=41.6.0=py37_0
+  - wheel=0.33.6=py37_0
+  - wincertstore=0.2=py37_0
+prefix: D:\git\privat\open-data-crunch-dd-2019\venv
+
