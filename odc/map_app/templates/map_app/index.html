@@ -1,0 +1,20 @@
+{% load static %}
+<!DOCTYPE link PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+    <head>
+        <link rel="stylesheet" href="{% static 'leaflet/dist/leaflet.css' %}" />
+        <link rel="stylesheet" href="{% static 'map_app/index.css' %}" />
+    </head>
+    <body>
+    <div id="mapid"></div>
+    
+     <script src="{% static 'jquery/dist/jquery.min.js' %}"></script>
+     <script src="{% static 'leaflet/dist/leaflet.js' %}"></script>
+     <script src="{% static 'map_app/epsg3857.js' %}"></script>
+     <script src="{% static 'map_app/leaflet-tilelayer-wmts-src.js' %}"></script>
+     <script src="{% static 'map_app/xml2json.js' %}"></script>
+     
+     <script src="{% static 'map_app/index.js' %}"></script>
+     
+    </body>
+</html>

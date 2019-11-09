@@ -1,0 +1,1179 @@
+"Jahr";"Stadtteil zus.";"Stadtbezirk mit zugeordneten Ortschaften";"Stadtraum";"Wohnungen gesamt";"Wohnungen mit 1Raum";"Wohnungen mit 2 Räumen";"Wohnungen mit 3 Räumen";"Wohnungen mit 4 Räumen";"Wohnungen mit 5 Räumen";"Wohnungen mit 6 Räumen";"Wohnungen mit 7 u.mehr Räumen";"Gebäudeanzahl"
+"1999";"01 Innere Altstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";1013;106;458;271;142;34;2;0;80
+"1999";"02 Pirnaische Vorstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4205;695;2200;1063;238;7;0;2;208
+"1999";"03 Seevorstadt-Ost";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4165;1461;1053;1430;167;39;11;4;275
+"1999";"04 Wilsdruffer Vs./Seevs.-West";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4951;448;2128;1892;459;21;3;0;370
+"1999";"05 Friedrichstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4152;622;1681;1383;380;75;11;0;375
+"1999";"06 Johannstadt-Nord";"StB 0 Altstadt";"02 Johannstadt";5951;541;2384;2379;570;64;8;5;308
+"1999";"07 Johannstadt-Süd";"StB 0 Altstadt";"02 Johannstadt";7279;552;3302;3081;322;16;1;5;466
+"1999";"11 Äußere Neustadt (Antonstadt)";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";9316;893;4053;2885;1021;352;69;43;1098
+"1999";"12 Radeberger Vorstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";4181;510;1174;1519;702;191;54;31;622
+"1999";"13 Innere Neustadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";3557;443;1072;1355;530;112;31;14;402
+"1999";"14 Leipziger Vorstadt";"StB 1 Neustadt";"04 Leipziger Vorstadt, Pieschen";6560;456;2932;2310;700;129;26;7;773
+"1999";"15 Albertstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";1113;115;496;383;93;25;0;1;132
+"1999";"21 Pieschen-Süd";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6407;432;3120;2249;469;108;19;10;785
+"1999";"22 Mickten";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";6998;588;2953;2746;565;123;16;7;895
+"1999";"23 Kaditz";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";3080;197;1438;1019;259;101;45;21;883
+"1999";"24 Trachau";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";5391;212;1866;2126;908;201;58;20;1224
+"1999";"25 Pieschen-N/Trachenberge";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6967;504;3188;2341;704;183;35;12;1039
+"1999";"31 Klotzsche";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";7039;948;1808;2518;1257;325;126;57;1604
+"1999";"32 Hellerau/Wilschdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2806;100;631;869;629;356;158;63;1885
+"1999";"35 Weixdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2437;63;530;723;558;382;135;46;1568
+"1999";"36 Langebrück/Schönborn";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";1711;35;292;567;381;264;147;25;972
+"1999";"41 Loschwitz/Wachwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";2658;139;755;774;542;232;128;88;1124
+"1999";"42 Bühlau/Weißer Hirsch";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";5295;300;1253;1722;1139;537;210;134;2133
+"1999";"43 Hosterwitz/Pillnitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1582;55;435;496;301;165;88;42;835
+"1999";"45 Weißig";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";2841;361;1061;702;332;244;83;58;998
+"1999";"46 Gönnsdorf/Pappritz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1398;74;266;350;274;270;91;73;872
+"1999";"47 Schönfeld/Schullwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1384;49;241;371;333;240;93;57;910
+"1999";"51 Blasewitz";"StB 5 Blasewitz";"08 Blasewitz, Striesen";4882;391;1645;1516;831;343;89;67;1040
+"1999";"52 Striesen-Ost";"StB 5 Blasewitz";"08 Blasewitz, Striesen";6620;391;2641;2228;982;263;89;26;742
+"1999";"53 Striesen-Süd";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5840;623;2276;2154;638;107;22;20;531
+"1999";"54 Striesen-West";"StB 5 Blasewitz";"08 Blasewitz, Striesen";6525;435;2659;2753;515;113;31;19;627
+"1999";"55 Tolkewitz/Seidnitz-Nord";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";6631;428;1955;3436;661;123;18;10;818
+"1999";"56 Seidnitz/Dobritz";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7719;988;2939;2878;774;114;21;5;965
+"1999";"57 Gruna";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7129;680;1839;3300;1041;208;35;26;1066
+"1999";"61 Leuben";"StB 6 Leuben";"10 StB Leuben";7235;322;3097;2943;686;138;7;42;936
+"1999";"62 Laubegast";"StB 6 Leuben";"10 StB Leuben";6523;610;2612;2556;531;163;38;13;1082
+"1999";"63 Kleinzschachwitz";"StB 6 Leuben";"10 StB Leuben";4100;255;1140;1344;809;360;119;73;1740
+"1999";"64 Großzschachwitz";"StB 6 Leuben";"10 StB Leuben";3735;719;923;1417;522;139;10;5;516
+"1999";"71 Prohlis-Nord";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";4033;690;1073;1735;455;74;4;2;284
+"1999";"72 Prohlis-Süd";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";5395;1312;1219;2071;633;160;0;0;256
+"1999";"73 Niedersedlitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";4248;395;1325;1600;695;138;67;28;1020
+"1999";"74 Lockwitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";2247;94;621;768;424;186;114;40;1140
+"1999";"75 Leubnitz-Neuostra";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";7416;755;1879;2777;1454;369;110;72;2001
+"1999";"76 Strehlen";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";3332;989;590;1129;623;0;0;1;226
+"1999";"76 Strehlen";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";3054;179;802;1189;583;232;39;30;736
+"1999";"77 Reick";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";3187;237;1141;1268;427;102;11;1;519
+"1999";"81 Südvorstadt-West";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";5864;319;1723;2629;998;152;28;15;555
+"1999";"82 Südvorstadt-Ost";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";2951;771;849;992;224;75;20;20;311
+"1999";"83 Räcknitz/Zschertnitz";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";5709;1169;1054;2223;1114;115;21;13;669
+"1999";"84 Kleinpestitz/Mockritz";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";3897;503;837;1450;808;182;73;44;891
+"1999";"85 Coschütz/Gittersee";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";3021;257;1112;1052;394;140;50;16;1031
+"1999";"86 Plauen";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";5384;317;1634;1966;1079;298;70;20;921
+"1999";"90 Cossebaude/Mobschatz/Oberw.";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";3589;211;996;1206;671;336;105;64;1493
+"1999";"91 Cotta";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6455;382;3382;2189;384;79;31;8;826
+"1999";"92 Löbtau-Nord";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";4873;239;2247;1878;426;62;18;3;448
+"1999";"93 Löbtau-Süd";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6444;433;3230;2235;442;81;18;5;667
+"1999";"94 Naußlitz";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";5034;324;2268;1260;707;302;120;53;1674
+"1999";"95 Gorbitz-Süd";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";5641;2141;838;1763;735;152;7;5;537
+"1999";"96 Gorbitz-Ost";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";3899;1017;678;1502;619;82;0;1;256
+"1999";"97 Gorbitz-Nord/Neu-Omsewitz";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";4957;1265;642;2000;1037;13;0;0;344
+"1999";"98 Briesnitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";5793;444;1991;1919;883;357;127;72;2026
+"1999";"99 Altfranken/Gompitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";1472;60;350;373;218;305;121;45;836
+"2000";"01 Innere Altstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";1012;106;458;270;142;34;2;0;80
+"2000";"02 Pirnaische Vorstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4205;695;2200;1063;238;7;0;2;208
+"2000";"03 Seevorstadt-Ost";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4167;1458;1057;1431;167;39;11;4;274
+"2000";"04 Wilsdruffer Vs./Seevs.-West";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4932;447;2122;1882;457;21;3;0;368
+"2000";"05 Friedrichstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4159;642;1694;1364;374;74;11;0;374
+"2000";"06 Johannstadt-Nord";"StB 0 Altstadt";"02 Johannstadt";6008;539;2441;2378;574;63;8;5;310
+"2000";"07 Johannstadt-Süd";"StB 0 Altstadt";"02 Johannstadt";7279;652;3301;2984;321;15;1;5;466
+"2000";"11 Äußere Neustadt (Antonstadt)";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";9392;934;4087;2896;1020;348;66;41;1112
+"2000";"12 Radeberger Vorstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";4248;519;1209;1544;700;190;52;34;641
+"2000";"13 Innere Neustadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";3591;451;1077;1373;547;98;31;14;406
+"2000";"14 Leipziger Vorstadt";"StB 1 Neustadt";"04 Leipziger Vorstadt, Pieschen";6497;438;2840;2342;714;131;25;7;768
+"2000";"15 Albertstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";1123;130;473;395;99;25;0;1;134
+"2000";"21 Pieschen-Süd";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6445;443;3140;2266;464;102;20;10;785
+"2000";"22 Mickten";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";7176;622;2995;2820;596;119;17;7;910
+"2000";"23 Kaditz";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";3082;200;1440;1007;266;103;45;21;881
+"2000";"24 Trachau";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";5399;240;1896;2073;911;201;58;20;1225
+"2000";"25 Pieschen-N/Trachenberge";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6999;505;3175;2369;706;192;38;14;1057
+"2000";"31 Klotzsche";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";7114;955;1827;2505;1291;341;134;61;1651
+"2000";"32 Hellerau/Wilschdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2845;114;635;869;638;363;161;65;1905
+"2000";"35 Weixdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2515;64;530;732;600;402;137;50;1642
+"2000";"36 Langebrück/Schönborn";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";1756;42;298;565;397;273;148;33;1006
+"2000";"41 Loschwitz/Wachwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";2687;142;762;788;549;230;128;88;1133
+"2000";"42 Bühlau/Weißer Hirsch";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";5361;297;1275;1749;1150;546;209;135;2149
+"2000";"43 Hosterwitz/Pillnitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1587;55;436;493;302;167;91;43;841
+"2000";"45 Weißig";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";2910;371;1063;706;345;257;93;75;1046
+"2000";"46 Gönnsdorf/Pappritz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1509;82;282;363;319;275;99;89;949
+"2000";"47 Schönfeld/Schullwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1408;53;236;371;347;245;97;59;933
+"2000";"51 Blasewitz";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5068;427;1675;1615;838;352;93;68;1063
+"2000";"52 Striesen-Ost";"StB 5 Blasewitz";"08 Blasewitz, Striesen";6746;412;2709;2254;982;275;86;28;751
+"2000";"53 Striesen-Süd";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5829;569;2301;2156;649;114;22;18;532
+"2000";"54 Striesen-West";"StB 5 Blasewitz";"08 Blasewitz, Striesen";6524;417;2605;2822;506;124;31;19;627
+"2000";"55 Tolkewitz/Seidnitz-Nord";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";6680;423;1950;3441;710;127;19;10;825
+"2000";"56 Seidnitz/Dobritz";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7771;995;2970;2884;782;114;21;5;969
+"2000";"57 Gruna";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7133;680;1850;3301;1033;208;35;26;1065
+"2000";"61 Leuben";"StB 6 Leuben";"10 StB Leuben";7225;327;3068;2949;692;141;7;41;938
+"2000";"62 Laubegast";"StB 6 Leuben";"10 StB Leuben";6595;609;2611;2579;571;171;39;15;1133
+"2000";"63 Kleinzschachwitz";"StB 6 Leuben";"10 StB Leuben";4190;238;1132;1396;841;379;124;80;1792
+"2000";"64 Großzschachwitz";"StB 6 Leuben";"10 StB Leuben";3736;721;924;1405;528;141;13;4;522
+"2000";"71 Prohlis-Nord";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";4066;698;1090;1713;484;74;5;2;317
+"2000";"72 Prohlis-Süd";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";5395;1312;1219;2070;634;160;0;0;256
+"2000";"73 Niedersedlitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";4292;395;1335;1605;709;146;70;32;1047
+"2000";"74 Lockwitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";2537;94;724;834;488;233;120;44;1262
+"2000";"75 Leubnitz-Neuostra";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";7509;759;1880;2803;1471;406;114;76;2062
+"2000";"76 Strehlen";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";3332;989;590;1129;623;0;0;1;226
+"2000";"76 Strehlen";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";3130;187;825;1226;586;237;40;29;746
+"2000";"77 Reick";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";3192;237;1150;1263;428;102;11;1;520
+"2000";"81 Südvorstadt-West";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";5904;388;1679;2684;961;149;28;15;559
+"2000";"82 Südvorstadt-Ost";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";2990;791;858;1003;224;73;21;20;314
+"2000";"83 Räcknitz/Zschertnitz";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";5728;1170;1058;2222;1126;117;22;13;674
+"2000";"84 Kleinpestitz/Mockritz";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";3910;501;832;1458;814;181;78;46;901
+"2000";"85 Coschütz/Gittersee";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";3033;259;1096;1050;414;148;49;17;1053
+"2000";"86 Plauen";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";5506;344;1430;2052;1287;310;63;20;931
+"2000";"90 Cossebaude/Mobschatz/Oberw.";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";3635;207;1013;1223;683;331;113;65;1518
+"2000";"91 Cotta";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6514;402;3327;2239;430;80;30;6;841
+"2000";"92 Löbtau-Nord";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";4963;267;2316;1875;426;58;18;3;453
+"2000";"93 Löbtau-Süd";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6451;481;3224;2222;421;80;18;5;667
+"2000";"94 Naußlitz";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";5051;316;2228;1301;719;309;124;54;1694
+"2000";"95 Gorbitz-Süd";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";5645;2141;838;1765;737;152;7;5;540
+"2000";"96 Gorbitz-Ost";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";3899;1017;678;1502;619;82;0;1;256
+"2000";"97 Gorbitz-Nord/Neu-Omsewitz";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";4958;1265;642;2000;1037;14;0;0;345
+"2000";"98 Briesnitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";5825;459;1983;1939;885;359;127;73;2036
+"2000";"99 Altfranken/Gompitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";1589;59;366;388;276;322;131;47;909
+"2001";"01 Innere Altstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";1026;118;462;271;140;33;2;0;79
+"2001";"02 Pirnaische Vorstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4205;695;2200;1063;238;7;0;2;208
+"2001";"03 Seevorstadt-Ost";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4175;1457;1059;1437;168;38;11;5;277
+"2001";"04 Wilsdruffer Vs./Seevs.-West";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4951;463;2127;1880;457;21;3;0;369
+"2001";"05 Friedrichstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4119;637;1664;1355;376;76;11;0;373
+"2001";"06 Johannstadt-Nord";"StB 0 Altstadt";"02 Johannstadt";5991;559;2436;2357;554;72;8;5;310
+"2001";"07 Johannstadt-Süd";"StB 0 Altstadt";"02 Johannstadt";7277;637;3291;3014;312;17;1;5;468
+"2001";"11 Äußere Neustadt (Antonstadt)";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";9417;974;4100;2886;1007;345;64;41;1115
+"2001";"12 Radeberger Vorstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";4324;526;1235;1558;712;204;53;36;674
+"2001";"13 Innere Neustadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";3721;493;1128;1400;560;96;30;14;423
+"2001";"14 Leipziger Vorstadt";"StB 1 Neustadt";"04 Leipziger Vorstadt, Pieschen";6530;465;2831;2359;712;132;24;7;768
+"2001";"15 Albertstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";1166;158;481;396;103;27;0;1;140
+"2001";"21 Pieschen-Süd";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6511;441;3150;2314;472;105;19;10;787
+"2001";"22 Mickten";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";7206;626;3054;2752;607;136;22;9;917
+"2001";"23 Kaditz";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";3076;204;1426;1011;267;102;45;21;880
+"2001";"24 Trachau";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";5401;245;1895;2058;920;201;61;21;1229
+"2001";"25 Pieschen-N/Trachenberge";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";7012;509;3169;2378;709;197;37;13;1067
+"2001";"31 Klotzsche";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";7164;957;1841;2519;1291;358;134;64;1690
+"2001";"32 Hellerau/Wilschdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2861;114;635;868;645;370;163;66;1917
+"2001";"35 Weixdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2571;67;537;739;627;409;141;51;1683
+"2001";"36 Langebrück/Schönborn";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";1795;43;298;586;409;278;149;32;1022
+"2001";"41 Loschwitz/Wachwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";2719;146;765;803;550;235;130;90;1150
+"2001";"42 Bühlau/Weißer Hirsch";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";5393;299;1277;1756;1160;555;209;137;2167
+"2001";"43 Hosterwitz/Pillnitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1614;55;442;497;312;170;94;44;860
+"2001";"45 Weißig";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";2905;370;1050;708;345;261;95;76;1063
+"2001";"46 Gönnsdorf/Pappritz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1549;85;279;376;329;281;104;95;981
+"2001";"47 Schönfeld/Schullwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1427;53;238;376;354;247;100;59;948
+"2001";"51 Blasewitz";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5096;421;1678;1624;858;345;101;69;1086
+"2001";"52 Striesen-Ost";"StB 5 Blasewitz";"08 Blasewitz, Striesen";6824;416;2729;2302;995;272;84;26;756
+"2001";"53 Striesen-Süd";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5783;519;2308;2153;646;117;22;18;532
+"2001";"54 Striesen-West";"StB 5 Blasewitz";"08 Blasewitz, Striesen";6582;422;2633;2828;522;127;31;19;633
+"2001";"55 Tolkewitz/Seidnitz-Nord";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";6705;421;1971;3436;720;129;18;10;828
+"2001";"56 Seidnitz/Dobritz";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7784;993;2992;2883;773;116;22;5;971
+"2001";"57 Gruna";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7136;676;1848;3302;1037;212;35;26;1072
+"2001";"61 Leuben";"StB 6 Leuben";"10 StB Leuben";7293;380;3068;2957;697;143;7;41;946
+"2001";"62 Laubegast";"StB 6 Leuben";"10 StB Leuben";6652;615;2610;2594;600;178;40;15;1169
+"2001";"63 Kleinzschachwitz";"StB 6 Leuben";"10 StB Leuben";4198;237;1122;1387;848;389;134;81;1812
+"2001";"64 Großzschachwitz";"StB 6 Leuben";"10 StB Leuben";3735;721;911;1406;533;145;15;4;526
+"2001";"71 Prohlis-Nord";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";4073;698;1093;1716;484;75;5;2;318
+"2001";"72 Prohlis-Süd";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";5349;1419;1412;1741;634;131;12;0;256
+"2001";"73 Niedersedlitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";4294;381;1320;1617;715;154;73;34;1061
+"2001";"74 Lockwitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";2605;93;718;843;534;247;123;47;1331
+"2001";"75 Leubnitz-Neuostra";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";7546;756;1880;2809;1466;438;116;81;2099
+"2001";"76 Strehlen";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";3333;989;590;1129;624;0;0;1;227
+"2001";"76 Strehlen";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";3147;180;834;1241;581;242;40;29;759
+"2001";"77 Reick";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";3196;237;1153;1263;428;103;11;1;523
+"2001";"81 Südvorstadt-West";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";5940;428;1678;2688;958;147;28;13;561
+"2001";"82 Südvorstadt-Ost";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";2860;729;808;966;239;74;24;20;321
+"2001";"83 Räcknitz/Zschertnitz";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";5721;1168;1058;2219;1120;121;22;13;675
+"2001";"84 Kleinpestitz/Mockritz";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";3924;503;824;1470;822;181;78;46;915
+"2001";"85 Coschütz/Gittersee";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";3059;265;1090;1059;421;157;50;17;1075
+"2001";"86 Plauen";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";5553;355;1448;2048;1296;320;66;20;944
+"2001";"90 Cossebaude/Mobschatz/Oberw.";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";3677;207;1017;1217;708;348;116;64;1558
+"2001";"91 Cotta";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6519;419;3317;2220;436;91;30;6;863
+"2001";"92 Löbtau-Nord";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";4970;273;2315;1880;423;58;18;3;457
+"2001";"93 Löbtau-Süd";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6477;481;3233;2231;424;84;19;5;671
+"2001";"94 Naußlitz";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";5097;328;2219;1319;729;313;133;56;1722
+"2001";"95 Gorbitz-Süd";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";5682;2148;859;1768;742;153;7;5;542
+"2001";"96 Gorbitz-Ost";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";3899;1017;678;1502;619;82;0;1;256
+"2001";"97 Gorbitz-Nord/Neu-Omsewitz";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";4958;1265;642;2000;1037;14;0;0;345
+"2001";"98 Briesnitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";5860;493;1968;1936;902;359;129;73;2053
+"2001";"99 Altfranken/Gompitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";1649;59;367;387;304;347;138;47;967
+"2002";"01 Innere Altstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";1026;118;462;271;140;33;2;0;79
+"2002";"02 Pirnaische Vorstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4205;695;2200;1063;238;7;0;2;208
+"2002";"03 Seevorstadt-Ost";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4149;1457;1010;1404;222;40;11;5;276
+"2002";"04 Wilsdruffer Vs./Seevs.-West";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4952;509;2105;1869;455;11;3;0;368
+"2002";"05 Friedrichstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4123;646;1666;1355;370;75;11;0;371
+"2002";"06 Johannstadt-Nord";"StB 0 Altstadt";"02 Johannstadt";5995;561;2436;2356;559;70;8;5;310
+"2002";"07 Johannstadt-Süd";"StB 0 Altstadt";"02 Johannstadt";7246;604;3287;3020;312;17;1;5;467
+"2002";"11 Äußere Neustadt (Antonstadt)";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";9555;989;4159;2915;1043;343;67;39;1118
+"2002";"12 Radeberger Vorstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";4411;523;1261;1579;739;210;63;36;682
+"2002";"13 Innere Neustadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";3736;498;1137;1390;574;92;32;13;421
+"2002";"14 Leipziger Vorstadt";"StB 1 Neustadt";"04 Leipziger Vorstadt, Pieschen";6516;468;2823;2355;707;131;25;7;764
+"2002";"15 Albertstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";1142;155;468;393;100;25;0;1;133
+"2002";"21 Pieschen-Süd";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6485;440;3140;2284;482;110;20;9;786
+"2002";"22 Mickten";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";7201;619;3061;2741;612;136;23;9;913
+"2002";"23 Kaditz";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";3073;202;1415;1018;268;104;45;21;881
+"2002";"24 Trachau";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";5387;264;1836;2091;909;203;62;22;1230
+"2002";"25 Pieschen-N/Trachenberge";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";7044;512;3158;2407;719;196;39;13;1073
+"2002";"31 Klotzsche";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";7265;981;1865;2545;1307;367;136;64;1718
+"2002";"32 Hellerau/Wilschdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2891;118;629;878;658;372;168;68;1930
+"2002";"35 Weixdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2580;64;531;742;637;412;143;51;1696
+"2002";"36 Langebrück/Schönborn";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";1820;43;304;594;414;283;150;32;1036
+"2002";"41 Loschwitz/Wachwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";2721;147;756;802;552;236;134;94;1153
+"2002";"42 Bühlau/Weißer Hirsch";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";5417;297;1282;1763;1161;566;208;140;2180
+"2002";"43 Hosterwitz/Pillnitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1630;59;438;504;315;176;94;44;865
+"2002";"45 Weißig";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";2926;369;1061;707;347;269;98;75;1072
+"2002";"46 Gönnsdorf/Pappritz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1572;85;286;376;337;287;106;95;1004
+"2002";"47 Schönfeld/Schullwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1434;54;236;375;359;251;101;58;954
+"2002";"51 Blasewitz";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5091;402;1676;1624;858;355;106;70;1084
+"2002";"52 Striesen-Ost";"StB 5 Blasewitz";"08 Blasewitz, Striesen";6850;418;2749;2308;1003;269;78;25;754
+"2002";"53 Striesen-Süd";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5788;520;2312;2153;646;117;22;18;532
+"2002";"54 Striesen-West";"StB 5 Blasewitz";"08 Blasewitz, Striesen";6604;425;2628;2850;526;127;29;19;635
+"2002";"55 Tolkewitz/Seidnitz-Nord";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";6720;422;1980;3416;723;150;19;10;831
+"2002";"56 Seidnitz/Dobritz";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7773;991;2940;2893;798;124;22;5;974
+"2002";"57 Gruna";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7158;677;1852;3316;1041;207;38;27;1089
+"2002";"61 Leuben";"StB 6 Leuben";"10 StB Leuben";7289;376;3026;2988;699;152;7;41;951
+"2002";"62 Laubegast";"StB 6 Leuben";"10 StB Leuben";6697;613;2596;2682;564;183;41;18;1184
+"2002";"63 Kleinzschachwitz";"StB 6 Leuben";"10 StB Leuben";4212;240;1105;1397;850;398;141;81;1827
+"2002";"64 Großzschachwitz";"StB 6 Leuben";"10 StB Leuben";3729;716;902;1409;537;145;16;4;527
+"2002";"71 Prohlis-Nord";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";4082;747;1073;1696;484;75;5;2;318
+"2002";"72 Prohlis-Süd";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";5349;1419;1412;1741;634;131;12;0;256
+"2002";"73 Niedersedlitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";4331;382;1328;1627;727;158;74;35;1072
+"2002";"74 Lockwitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";2652;94;719;845;556;258;129;51;1371
+"2002";"75 Leubnitz-Neuostra";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";7533;756;1871;2802;1467;437;117;83;2098
+"2002";"76 Strehlen";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";3333;989;590;1129;624;0;0;1;227
+"2002";"76 Strehlen";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";3164;186;855;1229;583;242;42;27;759
+"2002";"77 Reick";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";3193;236;1150;1262;428;105;11;1;523
+"2002";"81 Südvorstadt-West";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";5949;432;1686;2685;961;141;31;13;562
+"2002";"82 Südvorstadt-Ost";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";2883;729;808;966;260;76;24;20;340
+"2002";"83 Räcknitz/Zschertnitz";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";5725;1168;1058;2222;1121;121;22;13;675
+"2002";"84 Kleinpestitz/Mockritz";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";3960;521;824;1478;828;182;81;46;925
+"2002";"85 Coschütz/Gittersee";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";3082;268;1091;1068;423;165;50;17;1087
+"2002";"86 Plauen";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";5577;358;1464;2040;1304;322;68;21;946
+"2002";"90 Cossebaude/Mobschatz/Oberw.";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";3687;205;1016;1212;715;354;120;65;1575
+"2002";"91 Cotta";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6531;425;3275;2219;467;108;31;6;889
+"2002";"92 Löbtau-Nord";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";4940;280;2306;1860;416;56;19;3;451
+"2002";"93 Löbtau-Süd";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6486;479;3235;2218;441;90;18;5;672
+"2002";"94 Naußlitz";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";5115;331;2215;1323;742;315;133;56;1733
+"2002";"95 Gorbitz-Süd";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";5673;2126;841;1716;889;89;7;5;543
+"2002";"96 Gorbitz-Ost";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";3899;1017;678;1502;619;82;0;1;256
+"2002";"97 Gorbitz-Nord/Neu-Omsewitz";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";4799;1265;647;1910;962;15;0;0;336
+"2002";"98 Briesnitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";5863;490;1962;1945;905;359;129;73;2052
+"2002";"99 Altfranken/Gompitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";1679;60;366;388;314;361;143;47;992
+"2003";"01 Innere Altstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";998;112;448;263;140;33;2;0;79
+"2003";"02 Pirnaische Vorstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4175;808;2223;927;199;17;0;1;208
+"2003";"03 Seevorstadt-Ost";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4136;1353;1079;1425;223;40;11;5;278
+"2003";"04 Wilsdruffer Vs./Seevs.-West";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4924;527;2089;1843;451;11;3;0;367
+"2003";"05 Friedrichstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4126;646;1667;1357;370;75;11;0;374
+"2003";"06 Johannstadt-Nord";"StB 0 Altstadt";"02 Johannstadt";6035;561;2456;2366;569;70;8;5;311
+"2003";"07 Johannstadt-Süd";"StB 0 Altstadt";"02 Johannstadt";7370;664;3331;3020;332;17;1;5;468
+"2003";"11 Äußere Neustadt (Antonstadt)";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";9604;1015;4156;2948;1032;344;64;45;1122
+"2003";"12 Radeberger Vorstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";4455;523;1284;1581;745;217;69;36;690
+"2003";"13 Innere Neustadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";3780;510;1177;1411;545;92;32;13;423
+"2003";"14 Leipziger Vorstadt";"StB 1 Neustadt";"04 Leipziger Vorstadt, Pieschen";6518;474;2784;2380;717;131;25;7;770
+"2003";"15 Albertstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";1170;166;469;402;106;26;0;1;139
+"2003";"21 Pieschen-Süd";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6524;453;3157;2294;482;109;20;9;790
+"2003";"22 Mickten";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";7175;603;3038;2749;617;136;23;9;913
+"2003";"23 Kaditz";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";3090;201;1416;1028;274;106;44;21;889
+"2003";"24 Trachau";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";5408;278;1831;2097;911;204;64;23;1237
+"2003";"25 Pieschen-N/Trachenberge";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";7116;529;3168;2446;728;194;38;13;1085
+"2003";"31 Klotzsche";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";7292;981;1856;2551;1327;375;138;64;1737
+"2003";"32 Hellerau/Wilschdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2913;119;632;884;662;375;171;70;1945
+"2003";"35 Weixdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2604;63;530;746;647;417;148;53;1721
+"2003";"36 Langebrück/Schönborn";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";1830;43;303;595;417;293;150;29;1048
+"2003";"41 Loschwitz/Wachwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";2797;157;765;819;574;252;134;96;1173
+"2003";"42 Bühlau/Weißer Hirsch";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";5485;309;1302;1769;1184;573;210;138;2212
+"2003";"43 Hosterwitz/Pillnitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1632;58;428;512;317;177;95;45;872
+"2003";"45 Weißig";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";2933;365;1055;701;361;282;96;73;1095
+"2003";"46 Gönnsdorf/Pappritz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1610;78;286;371;371;294;112;98;1052
+"2003";"47 Schönfeld/Schullwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1438;58;233;379;364;249;99;56;963
+"2003";"51 Blasewitz";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5124;402;1697;1646;852;354;104;69;1103
+"2003";"52 Striesen-Ost";"StB 5 Blasewitz";"08 Blasewitz, Striesen";6859;418;2736;2312;1016;271;80;26;760
+"2003";"53 Striesen-Süd";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5798;525;2317;2153;645;117;22;19;534
+"2003";"54 Striesen-West";"StB 5 Blasewitz";"08 Blasewitz, Striesen";6715;425;2667;2892;557;126;29;19;646
+"2003";"55 Tolkewitz/Seidnitz-Nord";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";6750;422;1989;3432;723;154;20;10;833
+"2003";"56 Seidnitz/Dobritz";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7787;991;2944;2875;822;128;22;5;993
+"2003";"57 Gruna";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7170;675;1858;3283;1083;206;38;27;1090
+"2003";"61 Leuben";"StB 6 Leuben";"10 StB Leuben";7220;358;2963;2981;708;160;10;40;953
+"2003";"62 Laubegast";"StB 6 Leuben";"10 StB Leuben";6686;609;2560;2682;586;185;45;19;1200
+"2003";"63 Kleinzschachwitz";"StB 6 Leuben";"10 StB Leuben";4214;228;1088;1405;852;403;155;83;1845
+"2003";"64 Großzschachwitz";"StB 6 Leuben";"10 StB Leuben";3723;710;899;1414;530;150;16;4;533
+"2003";"71 Prohlis-Nord";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";4113;765;1077;1695;494;75;5;2;320
+"2003";"72 Prohlis-Süd";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";5349;1419;1412;1741;634;131;12;0;256
+"2003";"73 Niedersedlitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";4412;390;1341;1645;747;170;80;39;1100
+"2003";"74 Lockwitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";2733;90;717;852;616;271;134;53;1451
+"2003";"75 Leubnitz-Neuostra";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";7571;763;1874;2819;1474;441;117;83;2109
+"2003";"76 Strehlen";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";3333;989;590;1129;624;0;0;1;227
+"2003";"76 Strehlen";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";3171;186;852;1232;588;243;43;27;767
+"2003";"77 Reick";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";3055;242;1151;1178;369;105;9;1;513
+"2003";"81 Südvorstadt-West";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";5954;406;1689;2703;970;142;31;13;567
+"2003";"82 Südvorstadt-Ost";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";2957;752;818;978;291;74;24;20;366
+"2003";"83 Räcknitz/Zschertnitz";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";5664;1003;1191;2191;1122;122;22;13;680
+"2003";"84 Kleinpestitz/Mockritz";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";3982;530;831;1475;833;185;81;47;932
+"2003";"85 Coschütz/Gittersee";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";3097;272;1084;1072;434;170;50;15;1102
+"2003";"86 Plauen";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";5620;376;1469;2055;1312;318;68;22;950
+"2003";"90 Cossebaude/Mobschatz/Oberw.";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";3699;204;1016;1215;726;355;118;65;1580
+"2003";"91 Cotta";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6477;420;3223;2228;462;107;31;6;885
+"2003";"92 Löbtau-Nord";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";4974;282;2321;1868;423;58;19;3;455
+"2003";"93 Löbtau-Süd";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6552;498;3240;2243;462;86;18;5;678
+"2003";"94 Naußlitz";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";5123;334;2190;1328;753;324;137;57;1744
+"2003";"95 Gorbitz-Süd";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";5684;2148;841;1704;889;90;7;5;544
+"2003";"96 Gorbitz-Ost";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";3902;1019;681;1500;619;82;0;1;256
+"2003";"97 Gorbitz-Nord/Neu-Omsewitz";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";4800;1265;647;1910;962;15;0;1;336
+"2003";"98 Briesnitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";5863;489;1949;1949;913;359;131;73;2060
+"2003";"99 Altfranken/Gompitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";1720;59;366;393;346;366;144;46;1028
+"2004";"01 Innere Altstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";990;116;452;259;128;33;2;0;77
+"2004";"02 Pirnaische Vorstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4177;807;2218;934;200;17;0;1;208
+"2004";"03 Seevorstadt-Ost";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4137;1353;1079;1426;223;40;11;5;279
+"2004";"04 Wilsdruffer Vs./Seevs.-West";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4917;526;2085;1839;453;11;3;0;366
+"2004";"05 Friedrichstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4087;645;1650;1341;364;76;11;0;370
+"2004";"06 Johannstadt-Nord";"StB 0 Altstadt";"02 Johannstadt";6049;579;2444;2365;575;72;9;5;312
+"2004";"07 Johannstadt-Süd";"StB 0 Altstadt";"02 Johannstadt";7172;573;3104;3140;332;17;1;5;463
+"2004";"11 Äußere Neustadt (Antonstadt)";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";9624;1050;4148;2956;1022;340;63;45;1122
+"2004";"12 Radeberger Vorstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";4470;519;1282;1591;755;216;71;36;698
+"2004";"13 Innere Neustadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";3777;520;1208;1383;528;91;32;15;420
+"2004";"14 Leipziger Vorstadt";"StB 1 Neustadt";"04 Leipziger Vorstadt, Pieschen";6517;481;2766;2385;720;133;25;7;767
+"2004";"15 Albertstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";1173;166;467;407;106;26;0;1;142
+"2004";"21 Pieschen-Süd";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6520;453;3153;2293;480;112;19;10;794
+"2004";"22 Mickten";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";7167;606;3036;2744;614;135;23;9;912
+"2004";"23 Kaditz";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";3094;201;1413;1027;281;106;45;21;893
+"2004";"24 Trachau";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";5405;276;1825;2092;921;204;63;24;1240
+"2004";"25 Pieschen-N/Trachenberge";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6965;443;3107;2440;726;198;38;13;1087
+"2004";"31 Klotzsche";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";7334;980;1846;2568;1339;392;144;65;1776
+"2004";"32 Hellerau/Wilschdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2930;120;631;886;661;389;173;70;1953
+"2004";"35 Weixdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2632;61;528;746;672;421;150;54;1754
+"2004";"36 Langebrück/Schönborn";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";1851;44;303;594;424;303;152;31;1070
+"2004";"41 Loschwitz/Wachwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";2826;161;778;816;567;255;143;106;1184
+"2004";"42 Bühlau/Weißer Hirsch";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";5523;317;1302;1768;1202;580;207;147;2232
+"2004";"43 Hosterwitz/Pillnitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1622;57;420;508;317;178;94;48;873
+"2004";"45 Weißig";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";2954;366;1062;701;375;280;97;73;1105
+"2004";"46 Gönnsdorf/Pappritz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1629;78;280;385;378;294;117;97;1069
+"2004";"47 Schönfeld/Schullwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1448;57;229;383;371;253;99;56;974
+"2004";"51 Blasewitz";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5110;389;1687;1644;854;360;103;73;1104
+"2004";"52 Striesen-Ost";"StB 5 Blasewitz";"08 Blasewitz, Striesen";6877;425;2744;2316;1021;265;80;26;762
+"2004";"53 Striesen-Süd";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5799;525;2315;2162;632;124;22;19;535
+"2004";"54 Striesen-West";"StB 5 Blasewitz";"08 Blasewitz, Striesen";6675;418;2656;2885;545;123;29;19;639
+"2004";"55 Tolkewitz/Seidnitz-Nord";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";6764;422;2002;3411;738;154;26;11;839
+"2004";"56 Seidnitz/Dobritz";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7843;998;2974;2872;844;127;23;5;1016
+"2004";"57 Gruna";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7151;680;1860;3262;1084;203;34;28;1087
+"2004";"61 Leuben";"StB 6 Leuben";"10 StB Leuben";7161;303;2953;2958;727;162;17;41;965
+"2004";"62 Laubegast";"StB 6 Leuben";"10 StB Leuben";6681;614;2593;2595;621;191;47;20;1217
+"2004";"63 Kleinzschachwitz";"StB 6 Leuben";"10 StB Leuben";4222;229;1082;1405;853;407;160;86;1853
+"2004";"64 Großzschachwitz";"StB 6 Leuben";"10 StB Leuben";3731;718;898;1407;533;154;17;4;537
+"2004";"71 Prohlis-Nord";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";4105;821;1053;1655;493;75;5;3;321
+"2004";"72 Prohlis-Süd";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";5189;1419;1332;1661;634;131;12;0;252
+"2004";"73 Niedersedlitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";4407;390;1337;1645;746;170;80;39;1102
+"2004";"74 Lockwitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";2753;90;712;856;628;277;135;55;1473
+"2004";"75 Leubnitz-Neuostra";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";7577;767;1862;2794;1502;449;120;83;2129
+"2004";"76 Strehlen";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";3333;989;590;1129;624;0;0;1;227
+"2004";"76 Strehlen";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";3162;183;851;1207;596;255;43;27;776
+"2004";"77 Reick";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";3056;242;1151;1178;370;105;9;1;514
+"2004";"81 Südvorstadt-West";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";5949;410;1676;2702;973;143;32;13;566
+"2004";"82 Südvorstadt-Ost";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";2958;752;817;978;292;75;24;20;367
+"2004";"83 Räcknitz/Zschertnitz";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";5677;1005;1205;2177;1123;127;27;13;680
+"2004";"84 Kleinpestitz/Mockritz";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";3946;528;814;1461;836;176;82;49;935
+"2004";"85 Coschütz/Gittersee";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";3108;274;1079;1062;441;184;53;15;1118
+"2004";"86 Plauen";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";5651;374;1464;2047;1336;334;74;22;962
+"2004";"90 Cossebaude/Mobschatz/Oberw.";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";3705;204;1004;1219;732;359;122;65;1591
+"2004";"91 Cotta";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6480;426;3234;2239;439;107;29;6;888
+"2004";"92 Löbtau-Nord";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";4999;288;2318;1871;435;65;19;3;456
+"2004";"93 Löbtau-Süd";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6415;467;3146;2239;455;85;18;5;665
+"2004";"94 Naußlitz";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";5126;317;2126;1346;814;327;138;58;1789
+"2004";"95 Gorbitz-Süd";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";5683;2147;841;1704;886;92;8;5;544
+"2004";"96 Gorbitz-Ost";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";3903;1019;682;1500;619;82;0;1;257
+"2004";"97 Gorbitz-Nord/Neu-Omsewitz";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";4264;1266;669;1584;725;19;0;1;301
+"2004";"98 Briesnitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";5815;481;1916;1929;918;363;134;74;2063
+"2004";"99 Altfranken/Gompitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";1749;59;365;396;359;377;147;46;1055
+"2005";"01 Innere Altstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";990;116;452;259;128;33;2;0;78
+"2005";"02 Pirnaische Vorstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";3961;591;2218;934;200;17;0;1;207
+"2005";"03 Seevorstadt-Ost";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4203;1382;1098;1440;225;42;11;5;282
+"2005";"04 Wilsdruffer Vs./Seevs.-West";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4876;527;2089;1790;454;12;4;0;363
+"2005";"05 Friedrichstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4054;597;1675;1350;357;66;9;0;367
+"2005";"06 Johannstadt-Nord";"StB 0 Altstadt";"02 Johannstadt";6054;580;2451;2367;569;72;10;5;312
+"2005";"07 Johannstadt-Süd";"StB 0 Altstadt";"02 Johannstadt";7100;571;3070;3105;331;17;1;5;461
+"2005";"11 Äußere Neustadt (Antonstadt)";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";9663;1077;4180;2948;1016;335;63;44;1130
+"2005";"12 Radeberger Vorstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";4540;551;1295;1600;771;218;69;36;707
+"2005";"13 Innere Neustadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";3786;539;1216;1393;499;92;33;14;422
+"2005";"14 Leipziger Vorstadt";"StB 1 Neustadt";"04 Leipziger Vorstadt, Pieschen";6516;478;2747;2393;727;137;27;7;769
+"2005";"15 Albertstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";1176;166;467;409;107;26;0;1;145
+"2005";"21 Pieschen-Süd";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6494;463;3089;2292;486;128;26;10;792
+"2005";"22 Mickten";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";7178;607;3023;2755;623;135;26;9;924
+"2005";"23 Kaditz";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";3102;196;1412;1029;289;108;46;22;898
+"2005";"24 Trachau";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";5402;276;1814;2090;924;210;63;25;1244
+"2005";"25 Pieschen-N/Trachenberge";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6973;444;3113;2439;727;199;38;13;1092
+"2005";"31 Klotzsche";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";7368;978;1854;2562;1356;405;145;68;1802
+"2005";"32 Hellerau/Wilschdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2946;119;637;888;664;392;174;72;1969
+"2005";"35 Weixdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2643;61;526;742;681;428;148;57;1766
+"2005";"36 Langebrück/Schönborn";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";1870;44;308;592;429;307;157;33;1081
+"2005";"41 Loschwitz/Wachwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";2839;158;777;813;572;256;154;109;1200
+"2005";"42 Bühlau/Weißer Hirsch";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";5549;312;1291;1792;1199;593;212;150;2258
+"2005";"43 Hosterwitz/Pillnitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1641;56;419;518;322;182;95;49;881
+"2005";"45 Weißig";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";2981;366;1067;710;376;289;99;74;1123
+"2005";"46 Gönnsdorf/Pappritz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1651;80;279;388;380;299;121;104;1087
+"2005";"47 Schönfeld/Schullwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1465;57;231;387;382;251;101;56;984
+"2005";"51 Blasewitz";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5141;391;1683;1648;876;363;105;75;1121
+"2005";"52 Striesen-Ost";"StB 5 Blasewitz";"08 Blasewitz, Striesen";6930;420;2733;2343;1070;268;73;23;772
+"2005";"53 Striesen-Süd";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5800;525;2316;2155;637;126;22;19;534
+"2005";"54 Striesen-West";"StB 5 Blasewitz";"08 Blasewitz, Striesen";6687;423;2676;2876;542;122;28;20;641
+"2005";"55 Tolkewitz/Seidnitz-Nord";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";6797;423;2050;3377;750;159;26;12;845
+"2005";"56 Seidnitz/Dobritz";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7853;998;2976;2880;844;126;24;5;1025
+"2005";"57 Gruna";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7248;771;1894;3222;1090;205;36;30;1092
+"2005";"61 Leuben";"StB 6 Leuben";"10 StB Leuben";7152;303;2920;2965;733;171;19;41;968
+"2005";"62 Laubegast";"StB 6 Leuben";"10 StB Leuben";6701;615;2597;2587;635;197;50;20;1232
+"2005";"63 Kleinzschachwitz";"StB 6 Leuben";"10 StB Leuben";4235;230;1085;1404;848;412;168;88;1869
+"2005";"64 Großzschachwitz";"StB 6 Leuben";"10 StB Leuben";3731;727;893;1399;535;154;17;6;538
+"2005";"71 Prohlis-Nord";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";3806;696;979;1560;488;75;5;3;317
+"2005";"72 Prohlis-Süd";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";5185;1419;1328;1661;634;131;12;0;252
+"2005";"73 Niedersedlitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";4186;387;1202;1564;732;180;82;39;1118
+"2005";"74 Lockwitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";2822;88;715;861;670;292;140;56;1540
+"2005";"75 Leubnitz-Neuostra";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";7583;765;1866;2782;1508;453;123;86;2135
+"2005";"76 Strehlen";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";3190;989;590;1058;552;0;0;1;216
+"2005";"76 Strehlen";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";3169;181;808;1204;631;266;50;29;785
+"2005";"77 Reick";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";2981;239;1147;1137;344;104;9;1;509
+"2005";"81 Südvorstadt-West";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";5948;409;1676;2701;974;143;32;13;566
+"2005";"82 Südvorstadt-Ost";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";2959;752;817;977;294;74;25;20;367
+"2005";"83 Räcknitz/Zschertnitz";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";5708;1030;1213;2175;1121;128;28;13;684
+"2005";"84 Kleinpestitz/Mockritz";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";3963;529;812;1464;843;181;83;51;951
+"2005";"85 Coschütz/Gittersee";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";3111;272;1075;1056;444;194;55;15;1129
+"2005";"86 Plauen";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";5672;371;1471;2047;1342;339;76;26;973
+"2005";"90 Cossebaude/Mobschatz/Oberw.";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";3726;204;999;1222;742;366;125;68;1617
+"2005";"91 Cotta";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6492;427;3223;2233;459;111;33;6;909
+"2005";"92 Löbtau-Nord";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";4986;287;2305;1869;438;63;21;3;454
+"2005";"93 Löbtau-Süd";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6344;412;3136;2238;457;78;18;5;664
+"2005";"94 Naußlitz";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";5160;312;2146;1355;817;328;141;61;1800
+"2005";"95 Gorbitz-Süd";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";5682;2147;841;1701;887;93;8;5;544
+"2005";"96 Gorbitz-Ost";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";3781;1019;681;1430;568;82;0;1;245
+"2005";"97 Gorbitz-Nord/Neu-Omsewitz";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";4264;1266;670;1583;726;19;0;0;301
+"2005";"98 Briesnitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";5845;482;1905;1938;931;375;139;75;2090
+"2005";"99 Altfranken/Gompitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";1760;58;365;397;363;380;150;47;1067
+"2006";"01 Innere Altstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";1054;128;474;277;137;35;3;0;84
+"2006";"02 Pirnaische Vorstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";3961;591;2218;934;200;17;0;1;207
+"2006";"03 Seevorstadt-Ost";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4202;1381;1098;1444;227;41;7;4;282
+"2006";"04 Wilsdruffer Vs./Seevs.-West";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4838;527;2063;1783;450;11;4;0;361
+"2006";"05 Friedrichstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4035;592;1661;1348;358;67;9;0;364
+"2006";"06 Johannstadt-Nord";"StB 0 Altstadt";"02 Johannstadt";6052;578;2450;2372;567;71;9;5;310
+"2006";"07 Johannstadt-Süd";"StB 0 Altstadt";"02 Johannstadt";7100;571;3070;3105;331;17;1;5;461
+"2006";"11 Äußere Neustadt (Antonstadt)";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";9667;1077;4184;2948;1014;337;63;44;1128
+"2006";"12 Radeberger Vorstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";4511;551;1260;1588;780;224;71;37;715
+"2006";"13 Innere Neustadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";3796;542;1230;1389;499;90;33;13;423
+"2006";"14 Leipziger Vorstadt";"StB 1 Neustadt";"04 Leipziger Vorstadt, Pieschen";6492;491;2743;2361;726;137;28;6;766
+"2006";"15 Albertstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";1176;166;465;411;107;26;0;1;147
+"2006";"21 Pieschen-Süd";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6485;460;3084;2295;479;131;26;10;794
+"2006";"22 Mickten";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";7180;604;3019;2759;626;137;26;9;929
+"2006";"23 Kaditz";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";3108;196;1412;1037;285;107;47;24;900
+"2006";"24 Trachau";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";5409;278;1818;2088;922;213;63;27;1246
+"2006";"25 Pieschen-N/Trachenberge";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6961;445;3095;2436;725;207;40;13;1095
+"2006";"31 Klotzsche";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";7384;981;1814;2561;1384;415;151;78;1830
+"2006";"32 Hellerau/Wilschdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2959;117;618;901;674;400;173;76;1990
+"2006";"35 Weixdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2610;61;484;732;694;435;147;57;1774
+"2006";"36 Langebrück/Schönborn";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";1875;43;306;592;428;313;158;35;1088
+"2006";"41 Loschwitz/Wachwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";2870;155;784;818;587;256;160;110;1215
+"2006";"42 Bühlau/Weißer Hirsch";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";5564;311;1271;1791;1205;613;222;151;2284
+"2006";"43 Hosterwitz/Pillnitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1691;76;420;525;334;188;98;50;903
+"2006";"45 Weißig";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";3002;366;1069;714;382;292;103;76;1141
+"2006";"46 Gönnsdorf/Pappritz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1670;82;276;385;386;304;130;107;1109
+"2006";"47 Schönfeld/Schullwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1482;59;232;389;385;261;100;56;999
+"2006";"51 Blasewitz";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5144;394;1693;1628;884;363;105;77;1125
+"2006";"52 Striesen-Ost";"StB 5 Blasewitz";"08 Blasewitz, Striesen";6991;482;2703;2349;1075;281;76;25;779
+"2006";"53 Striesen-Süd";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5802;520;2310;2157;649;126;22;18;537
+"2006";"54 Striesen-West";"StB 5 Blasewitz";"08 Blasewitz, Striesen";6699;427;2682;2878;544;119;29;20;645
+"2006";"55 Tolkewitz/Seidnitz-Nord";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";6690;423;2049;3313;723;144;26;12;838
+"2006";"56 Seidnitz/Dobritz";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7869;1002;2971;2876;855;134;26;5;1047
+"2006";"57 Gruna";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7251;773;1893;3220;1094;204;37;30;1092
+"2006";"61 Leuben";"StB 6 Leuben";"10 StB Leuben";6950;307;2787;2884;737;172;22;41;963
+"2006";"62 Laubegast";"StB 6 Leuben";"10 StB Leuben";6712;608;2571;2590;660;207;55;21;1254
+"2006";"63 Kleinzschachwitz";"StB 6 Leuben";"10 StB Leuben";4255;241;1081;1402;851;415;172;93;1891
+"2006";"64 Großzschachwitz";"StB 6 Leuben";"10 StB Leuben";3719;725;883;1397;535;157;16;6;530
+"2006";"71 Prohlis-Nord";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";3806;696;979;1560;488;75;5;3;317
+"2006";"72 Prohlis-Süd";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";5185;1419;1328;1661;634;131;12;0;252
+"2006";"73 Niedersedlitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";4207;386;1207;1569;739;183;83;40;1132
+"2006";"74 Lockwitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";2909;90;715;878;705;316;146;59;1613
+"2006";"75 Leubnitz-Neuostra";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";7619;765;1867;2794;1524;459;125;85;2164
+"2006";"76 Strehlen";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";3190;989;590;1058;552;0;0;1;216
+"2006";"76 Strehlen";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";3192;209;813;1190;632;266;52;30;792
+"2006";"77 Reick";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";2976;236;1130;1150;346;104;9;1;510
+"2006";"81 Südvorstadt-West";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";5977;404;1690;2708;986;149;29;11;572
+"2006";"82 Südvorstadt-Ost";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";2967;754;813;983;299;72;26;20;366
+"2006";"83 Räcknitz/Zschertnitz";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";5716;1030;1213;2176;1125;129;29;14;692
+"2006";"84 Kleinpestitz/Mockritz";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";3986;532;808;1463;847;191;89;56;976
+"2006";"85 Coschütz/Gittersee";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";3121;271;1070;1061;447;199;56;17;1141
+"2006";"86 Plauen";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";5677;367;1463;2053;1345;346;77;26;979
+"2006";"90 Cossebaude/Mobschatz/Oberw.";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";3720;210;976;1233;742;363;127;69;1625
+"2006";"91 Cotta";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6509;427;3227;2234;471;110;34;6;922
+"2006";"92 Löbtau-Nord";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";4984;285;2302;1874;437;62;21;3;457
+"2006";"93 Löbtau-Süd";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6342;406;3135;2251;449;78;18;5;662
+"2006";"94 Naußlitz";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";5131;302;2121;1344;825;336;145;58;1809
+"2006";"95 Gorbitz-Süd";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";5240;2053;813;1502;766;93;8;5;514
+"2006";"96 Gorbitz-Ost";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";3781;1019;681;1430;568;82;0;1;245
+"2006";"97 Gorbitz-Nord/Neu-Omsewitz";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";4265;1266;670;1583;727;19;0;0;302
+"2006";"98 Briesnitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";5839;434;1894;1943;959;387;144;78;2121
+"2006";"99 Altfranken/Gompitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";1775;58;364;395;372;388;150;48;1082
+"2007";"01 Innere Altstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";1039;128;460;276;137;35;3;0;83
+"2007";"02 Pirnaische Vorstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";3962;588;2222;934;200;17;0;1;208
+"2007";"03 Seevorstadt-Ost";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4177;1415;1036;1445;227;42;7;5;282
+"2007";"04 Wilsdruffer Vs./Seevs.-West";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4872;527;2097;1781;453;10;4;0;363
+"2007";"05 Friedrichstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4030;607;1680;1312;360;62;9;0;360
+"2007";"06 Johannstadt-Nord";"StB 0 Altstadt";"02 Johannstadt";6063;578;2452;2370;575;74;9;5;312
+"2007";"07 Johannstadt-Süd";"StB 0 Altstadt";"02 Johannstadt";7101;571;3070;3106;331;17;1;5;462
+"2007";"11 Äußere Neustadt (Antonstadt)";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";9647;1085;4177;2943;1002;332;64;44;1123
+"2007";"12 Radeberger Vorstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";4515;556;1249;1585;782;233;72;38;726
+"2007";"13 Innere Neustadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";3792;523;1228;1396;511;89;34;11;423
+"2007";"14 Leipziger Vorstadt";"StB 1 Neustadt";"04 Leipziger Vorstadt, Pieschen";6477;494;2720;2356;731;138;32;6;768
+"2007";"15 Albertstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";1150;165;459;400;99;26;1;0;121
+"2007";"21 Pieschen-Süd";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6452;457;3078;2261;486;134;26;10;792
+"2007";"22 Mickten";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";7184;608;3014;2761;622;142;28;9;939
+"2007";"23 Kaditz";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";3114;196;1406;1043;290;107;47;25;902
+"2007";"24 Trachau";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";5410;279;1815;2089;925;212;63;27;1246
+"2007";"25 Pieschen-N/Trachenberge";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6970;467;3095;2404;744;207;40;13;1099
+"2007";"31 Klotzsche";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";7406;978;1815;2557;1405;420;153;78;1856
+"2007";"32 Hellerau/Wilschdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2978;114;617;908;678;409;175;77;2008
+"2007";"35 Weixdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2630;66;479;737;703;437;151;57;1791
+"2007";"36 Langebrück/Schönborn";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";1897;46;313;599;431;313;161;34;1095
+"2007";"41 Loschwitz/Wachwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";2897;153;786;817;599;262;169;111;1233
+"2007";"42 Bühlau/Weißer Hirsch";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";5593;307;1277;1795;1210;622;232;150;2307
+"2007";"43 Hosterwitz/Pillnitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1707;75;417;528;342;191;101;53;917
+"2007";"45 Weißig";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";3015;370;1067;708;397;296;102;75;1155
+"2007";"46 Gönnsdorf/Pappritz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1693;82;276;384;397;311;132;111;1130
+"2007";"47 Schönfeld/Schullwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1496;57;232;393;398;262;100;54;1010
+"2007";"51 Blasewitz";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5158;393;1691;1633;894;358;108;81;1141
+"2007";"52 Striesen-Ost";"StB 5 Blasewitz";"08 Blasewitz, Striesen";7026;487;2706;2351;1089;292;76;25;787
+"2007";"53 Striesen-Süd";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5799;514;2308;2161;645;130;22;19;542
+"2007";"54 Striesen-West";"StB 5 Blasewitz";"08 Blasewitz, Striesen";6731;430;2683;2898;549;122;29;20;650
+"2007";"55 Tolkewitz/Seidnitz-Nord";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";6711;423;2049;3324;733;144;27;11;841
+"2007";"56 Seidnitz/Dobritz";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7851;998;2980;2838;855;147;27;6;1049
+"2007";"57 Gruna";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7252;772;1896;3221;1090;203;38;32;1094
+"2007";"61 Leuben";"StB 6 Leuben";"10 StB Leuben";6936;295;2774;2886;741;174;25;41;968
+"2007";"62 Laubegast";"StB 6 Leuben";"10 StB Leuben";6705;609;2550;2579;675;215;57;20;1261
+"2007";"63 Kleinzschachwitz";"StB 6 Leuben";"10 StB Leuben";4286;258;1082;1401;856;420;175;94;1901
+"2007";"64 Großzschachwitz";"StB 6 Leuben";"10 StB Leuben";3734;725;888;1398;540;159;17;7;537
+"2007";"71 Prohlis-Nord";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";3799;696;980;1552;488;75;5;3;317
+"2007";"72 Prohlis-Süd";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";5237;1419;1344;1687;644;131;12;0;253
+"2007";"73 Niedersedlitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";3814;322;1164;1382;638;186;82;40;1114
+"2007";"74 Lockwitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";2926;88;709;881;718;327;144;59;1632
+"2007";"75 Leubnitz-Neuostra";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";7633;766;1848;2790;1548;468;126;87;2180
+"2007";"76 Strehlen";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";2764;923;524;878;438;0;0;1;186
+"2007";"76 Strehlen";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";3196;212;804;1193;645;258;53;31;796
+"2007";"77 Reick";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";2958;233;1121;1142;348;104;9;1;512
+"2007";"81 Südvorstadt-West";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";5974;403;1689;2706;985;151;29;11;569
+"2007";"82 Südvorstadt-Ost";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";2971;754;815;980;303;73;26;20;370
+"2007";"83 Räcknitz/Zschertnitz";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";5726;1027;1237;2169;1123;127;29;14;697
+"2007";"84 Kleinpestitz/Mockritz";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";4000;530;811;1464;849;199;89;58;989
+"2007";"85 Coschütz/Gittersee";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";3111;268;1066;1048;450;204;57;18;1147
+"2007";"86 Plauen";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";5713;388;1463;2070;1338;347;81;26;985
+"2007";"90 Cossebaude/Mobschatz/Oberw.";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";3731;213;968;1235;751;363;128;73;1642
+"2007";"91 Cotta";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6471;417;3202;2200;496;114;36;6;942
+"2007";"92 Löbtau-Nord";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";4988;295;2300;1873;432;64;21;3;459
+"2007";"93 Löbtau-Süd";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6349;418;3132;2249;452;75;18;5;667
+"2007";"94 Naußlitz";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";5144;305;2110;1346;835;341;148;59;1822
+"2007";"95 Gorbitz-Süd";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";5245;2053;818;1500;766;95;8;5;516
+"2007";"96 Gorbitz-Ost";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";3781;1019;681;1430;569;81;0;1;245
+"2007";"97 Gorbitz-Nord/Neu-Omsewitz";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";4265;1266;670;1583;727;19;0;0;302
+"2007";"98 Briesnitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";5881;428;1920;1954;972;384;144;79;2136
+"2007";"99 Altfranken/Gompitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";1804;55;364;407;393;387;150;48;1105
+"2008";"01 Innere Altstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";1063;128;471;286;138;37;3;0;88
+"2008";"02 Pirnaische Vorstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";3962;588;2222;934;200;17;0;1;208
+"2008";"03 Seevorstadt-Ost";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4149;1333;1085;1445;229;44;7;6;283
+"2008";"04 Wilsdruffer Vs./Seevs.-West";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4883;527;2101;1787;453;11;4;0;363
+"2008";"05 Friedrichstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4021;617;1656;1316;365;59;8;0;360
+"2008";"06 Johannstadt-Nord";"StB 0 Altstadt";"02 Johannstadt";6072;592;2455;2366;571;74;9;5;311
+"2008";"07 Johannstadt-Süd";"StB 0 Altstadt";"02 Johannstadt";7101;571;3070;3106;331;17;1;5;462
+"2008";"11 Äußere Neustadt (Antonstadt)";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";9591;1085;4139;2922;1004;331;66;44;1119
+"2008";"12 Radeberger Vorstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";4527;553;1253;1580;788;239;73;41;738
+"2008";"13 Innere Neustadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";3800;523;1234;1407;505;87;33;11;423
+"2008";"14 Leipziger Vorstadt";"StB 1 Neustadt";"04 Leipziger Vorstadt, Pieschen";6488;501;2716;2357;732;139;37;6;776
+"2008";"15 Albertstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";1153;165;459;400;99;26;1;3;122
+"2008";"21 Pieschen-Süd";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6446;464;3072;2256;485;133;26;10;790
+"2008";"22 Mickten";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";7181;628;2934;2798;638;145;29;9;944
+"2008";"23 Kaditz";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";3103;195;1384;1043;296;112;48;25;904
+"2008";"24 Trachau";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";5392;275;1798;2101;918;209;63;28;1245
+"2008";"25 Pieschen-N/Trachenberge";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6965;474;3073;2418;742;201;44;13;1102
+"2008";"31 Klotzsche";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";7428;975;1810;2564;1415;429;155;80;1878
+"2008";"32 Hellerau/Wilschdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2989;112;618;912;675;415;177;80;2022
+"2008";"35 Weixdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2643;64;472;733;721;443;153;57;1808
+"2008";"36 Langebrück/Schönborn";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";1903;45;314;599;435;314;162;34;1098
+"2008";"41 Loschwitz/Wachwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";2945;159;795;819;610;280;168;114;1253
+"2008";"42 Bühlau/Weißer Hirsch";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";5609;298;1261;1804;1225;634;236;151;2319
+"2008";"43 Hosterwitz/Pillnitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1708;73;411;530;347;190;101;56;921
+"2008";"45 Weißig";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";3017;367;1065;712;399;294;104;76;1158
+"2008";"46 Gönnsdorf/Pappritz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1704;81;278;378;405;317;135;110;1143
+"2008";"47 Schönfeld/Schullwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1503;56;224;399;404;267;99;54;1020
+"2008";"51 Blasewitz";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5168;390;1695;1627;903;361;109;83;1146
+"2008";"52 Striesen-Ost";"StB 5 Blasewitz";"08 Blasewitz, Striesen";7075;492;2709;2363;1100;308;77;26;805
+"2008";"53 Striesen-Süd";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5814;514;2303;2164;661;131;22;19;546
+"2008";"54 Striesen-West";"StB 5 Blasewitz";"08 Blasewitz, Striesen";6808;429;2727;2919;557;127;29;20;656
+"2008";"55 Tolkewitz/Seidnitz-Nord";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";6720;431;2063;3292;745;147;30;12;844
+"2008";"56 Seidnitz/Dobritz";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7816;977;2955;2823;880;148;27;6;1051
+"2008";"57 Gruna";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7255;772;1889;3222;1094;209;38;31;1096
+"2008";"61 Leuben";"StB 6 Leuben";"10 StB Leuben";6951;294;2773;2879;763;175;26;41;979
+"2008";"62 Laubegast";"StB 6 Leuben";"10 StB Leuben";6716;592;2558;2573;692;221;59;21;1283
+"2008";"63 Kleinzschachwitz";"StB 6 Leuben";"10 StB Leuben";4316;255;1084;1405;867;426;179;100;1926
+"2008";"64 Großzschachwitz";"StB 6 Leuben";"10 StB Leuben";3740;725;886;1401;539;161;21;7;540
+"2008";"71 Prohlis-Nord";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";3799;696;980;1552;488;75;5;3;317
+"2008";"72 Prohlis-Süd";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";5261;1419;1339;1716;644;131;12;0;253
+"2008";"73 Niedersedlitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";3509;234;1006;1318;618;211;82;40;1114
+"2008";"74 Lockwitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";2944;87;718;875;741;322;143;58;1647
+"2008";"75 Leubnitz-Neuostra";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";7623;757;1863;2766;1551;471;128;87;2186
+"2008";"76 Strehlen";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";2764;923;524;878;438;0;0;1;186
+"2008";"76 Strehlen";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";3203;212;804;1196;647;260;54;30;801
+"2008";"77 Reick";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";2948;224;1099;1161;350;105;8;1;512
+"2008";"81 Südvorstadt-West";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";5978;403;1691;2707;982;152;30;13;572
+"2008";"82 Südvorstadt-Ost";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";3061;808;835;987;300;83;28;20;385
+"2008";"83 Räcknitz/Zschertnitz";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";5525;883;1204;2140;1124;130;31;13;703
+"2008";"84 Kleinpestitz/Mockritz";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";3984;525;789;1464;859;197;91;59;989
+"2008";"85 Coschütz/Gittersee";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";3106;266;1053;1044;459;207;59;18;1153
+"2008";"86 Plauen";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";5714;384;1468;2060;1347;350;80;25;985
+"2008";"90 Cossebaude/Mobschatz/Oberw.";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";3744;212;957;1255;753;361;132;74;1648
+"2008";"91 Cotta";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6398;416;3099;2222;504;114;37;6;940
+"2008";"92 Löbtau-Nord";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";5010;304;2303;1871;440;66;22;4;465
+"2008";"93 Löbtau-Süd";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6348;421;3111;2265;456;73;18;4;667
+"2008";"94 Naußlitz";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";5149;301;2102;1348;839;345;155;59;1833
+"2008";"95 Gorbitz-Süd";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";5243;2052;810;1509;764;95;8;5;516
+"2008";"96 Gorbitz-Ost";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";3781;1019;681;1430;569;81;0;1;245
+"2008";"97 Gorbitz-Nord/Neu-Omsewitz";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";4065;1266;670;1466;644;19;0;0;288
+"2008";"98 Briesnitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";5873;438;1916;1938;976;381;145;79;2137
+"2008";"99 Altfranken/Gompitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";1829;54;362;416;407;388;152;50;1129
+"2009";"01 Innere Altstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";1068;143;469;276;156;21;3;0;89
+"2009";"02 Pirnaische Vorstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";3975;542;2118;1020;277;18;0;0;208
+"2009";"03 Seevorstadt-Ost";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4126;1301;1058;1488;232;31;10;6;283
+"2009";"04 Wilsdruffer Vs./Seevs.-West";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4889;460;2168;1777;465;11;6;2;368
+"2009";"05 Friedrichstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4040;621;1663;1326;364;58;8;0;364
+"2009";"06 Johannstadt-Nord";"StB 0 Altstadt";"02 Johannstadt";6073;577;1889;2609;839;144;9;6;312
+"2009";"07 Johannstadt-Süd";"StB 0 Altstadt";"02 Johannstadt";7160;374;3079;3300;383;21;3;0;463
+"2009";"11 Äußere Neustadt (Antonstadt)";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";9579;1124;4342;2912;911;214;50;26;1115
+"2009";"12 Radeberger Vorstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";4512;551;1239;1579;788;239;77;39;739
+"2009";"13 Innere Neustadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";3772;533;1146;1410;545;92;36;10;425
+"2009";"14 Leipziger Vorstadt";"StB 1 Neustadt";"04 Leipziger Vorstadt, Pieschen";6520;553;2702;2353;717;150;39;6;786
+"2009";"15 Albertstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";1230;197;482;401;94;51;2;3;149
+"2009";"21 Pieschen-Süd";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6455;467;3053;2286;485;131;24;9;793
+"2009";"22 Mickten";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";7189;648;2935;2783;638;143;30;12;951
+"2009";"23 Kaditz";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";3092;193;1372;1041;296;117;48;25;903
+"2009";"24 Trachau";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";5413;282;1816;2085;927;212;63;28;1247
+"2009";"25 Pieschen-N/Trachenberge";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6966;491;3077;2374;753;213;45;13;1105
+"2009";"31 Klotzsche";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";7448;975;1817;2581;1409;429;155;82;1890
+"2009";"32 Hellerau/Wilschdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2987;111;619;901;691;407;178;80;2026
+"2009";"35 Weixdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2653;64;467;738;727;446;154;57;1823
+"2009";"36 Langebrück/Schönborn";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";1915;45;313;605;437;318;163;34;1109
+"2009";"41 Loschwitz/Wachwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";2978;159;800;819;618;294;171;117;1268
+"2009";"42 Bühlau/Weißer Hirsch";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";5631;293;1271;1814;1219;638;243;153;2336
+"2009";"43 Hosterwitz/Pillnitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1729;74;413;528;358;196;103;57;934
+"2009";"45 Weißig";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";3017;370;1063;703;408;292;103;78;1159
+"2009";"46 Gönnsdorf/Pappritz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1714;81;276;375;415;320;136;111;1154
+"2009";"47 Schönfeld/Schullwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1507;54;227;403;401;268;99;55;1025
+"2009";"51 Blasewitz";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5206;359;1592;1727;968;365;114;81;1150
+"2009";"52 Striesen-Ost";"StB 5 Blasewitz";"08 Blasewitz, Striesen";7066;493;2698;2369;1096;305;79;26;808
+"2009";"53 Striesen-Süd";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5819;511;2351;2149;637;131;23;17;551
+"2009";"54 Striesen-West";"StB 5 Blasewitz";"08 Blasewitz, Striesen";6767;397;2561;3030;618;110;30;21;661
+"2009";"55 Tolkewitz/Seidnitz-Nord";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";6730;427;2089;3265;754;150;30;15;845
+"2009";"56 Seidnitz/Dobritz";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7795;971;2935;2813;893;151;26;6;1055
+"2009";"57 Gruna";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7210;666;2022;3261;980;205;39;37;1101
+"2009";"61 Leuben";"StB 6 Leuben";"10 StB Leuben";6865;265;2741;2862;753;177;26;41;987
+"2009";"62 Laubegast";"StB 6 Leuben";"10 StB Leuben";6711;577;2538;2582;712;223;59;20;1287
+"2009";"63 Kleinzschachwitz";"StB 6 Leuben";"10 StB Leuben";4309;252;1054;1412;873;432;180;106;1935
+"2009";"64 Großzschachwitz";"StB 6 Leuben";"10 StB Leuben";3731;713;956;1347;535;153;20;7;540
+"2009";"71 Prohlis-Nord";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";3802;601;1056;1576;485;76;5;3;317
+"2009";"72 Prohlis-Süd";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";5264;1458;1466;1581;612;135;12;0;253
+"2009";"73 Niedersedlitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";3300;207;899;1259;602;208;85;40;1111
+"2009";"74 Lockwitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";2985;85;724;889;750;333;145;59;1670
+"2009";"75 Leubnitz-Neuostra";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";7622;780;1835;2739;1566;479;132;91;2190
+"2009";"76 Strehlen";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";2779;952;518;887;421;1;0;0;189
+"2009";"76 Strehlen";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";3214;210;820;1190;647;259;58;30;806
+"2009";"77 Reick";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";2945;225;1151;1179;298;82;9;1;515
+"2009";"81 Südvorstadt-West";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";6044;321;1875;2643;1005;151;38;11;577
+"2009";"82 Südvorstadt-Ost";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";3106;815;857;996;305;85;28;20;388
+"2009";"83 Räcknitz/Zschertnitz";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";5546;920;1208;2135;1110;132;28;13;703
+"2009";"84 Kleinpestitz/Mockritz";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";3979;527;781;1468;854;199;91;59;991
+"2009";"85 Coschütz/Gittersee";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";3120;268;1055;1051;452;214;60;20;1160
+"2009";"86 Plauen";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";5737;383;1724;1995;1169;359;82;25;989
+"2009";"90 Cossebaude/Mobschatz/Oberw.";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";3762;217;965;1252;752;364;135;77;1664
+"2009";"91 Cotta";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6379;416;3086;2210;509;114;38;6;940
+"2009";"92 Löbtau-Nord";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";5019;305;2294;1886;443;65;22;4;466
+"2009";"93 Löbtau-Süd";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6309;382;3074;2280;476;75;18;4;668
+"2009";"94 Naußlitz";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";5100;252;2003;1410;868;348;160;59;1842
+"2009";"95 Gorbitz-Süd";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";5189;1990;833;1601;592;160;8;5;517
+"2009";"96 Gorbitz-Ost";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";3779;995;717;1430;553;81;1;2;245
+"2009";"97 Gorbitz-Nord/Neu-Omsewitz";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";3897;1187;633;1453;605;19;0;0;287
+"2009";"98 Briesnitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";5884;402;1950;1933;989;382;147;81;2151
+"2009";"99 Altfranken/Gompitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";1846;54;362;419;416;393;153;49;1146
+"2010";"01 Innere Altstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";1060;135;469;276;156;21;3;0;87
+"2010";"02 Pirnaische Vorstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";3974;542;2118;1019;277;18;0;0;207
+"2010";"03 Seevorstadt-Ost";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4131;1301;1054;1487;236;35;11;7;285
+"2010";"04 Wilsdruffer Vs./Seevs.-West";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4889;460;2168;1776;466;11;6;2;368
+"2010";"05 Friedrichstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4031;619;1661;1318;364;63;6;0;360
+"2010";"06 Johannstadt-Nord";"StB 0 Altstadt";"02 Johannstadt";6293;667;1950;2673;843;145;9;6;315
+"2010";"07 Johannstadt-Süd";"StB 0 Altstadt";"02 Johannstadt";7158;374;3078;3300;382;21;1;2;463
+"2010";"11 Äußere Neustadt (Antonstadt)";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";9592;1133;4349;2908;908;213;55;26;1122
+"2010";"12 Radeberger Vorstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";4539;542;1249;1593;796;242;76;41;743
+"2010";"13 Innere Neustadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";3723;529;1139;1393;522;94;36;10;424
+"2010";"14 Leipziger Vorstadt";"StB 1 Neustadt";"04 Leipziger Vorstadt, Pieschen";6526;555;2726;2339;715;146;39;6;789
+"2010";"15 Albertstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";1212;177;482;400;95;51;4;3;150
+"2010";"21 Pieschen-Süd";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6452;479;3028;2284;496;130;24;11;795
+"2010";"22 Mickten";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";7206;646;2939;2786;646;145;32;12;958
+"2010";"23 Kaditz";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";3101;193;1376;1039;300;118;49;26;908
+"2010";"24 Trachau";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";5407;276;1811;2085;931;213;64;27;1246
+"2010";"25 Pieschen-N/Trachenberge";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6968;535;3067;2351;743;213;44;15;1107
+"2010";"31 Klotzsche";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";7482;979;1831;2584;1414;434;157;83;1902
+"2010";"32 Hellerau/Wilschdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2983;97;618;905;694;408;179;82;2034
+"2010";"35 Weixdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2673;65;462;747;734;452;155;58;1839
+"2010";"36 Langebrück/Schönborn";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";1920;46;309;604;445;319;163;34;1113
+"2010";"41 Loschwitz/Wachwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";3014;159;807;824;626;302;177;119;1283
+"2010";"42 Bühlau/Weißer Hirsch";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";5640;297;1268;1807;1223;643;246;156;2346
+"2010";"43 Hosterwitz/Pillnitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1729;74;408;525;361;198;103;60;941
+"2010";"45 Weißig";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";3032;370;1062;703;420;291;108;78;1174
+"2010";"46 Gönnsdorf/Pappritz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1729;81;276;376;421;322;141;112;1170
+"2010";"47 Schönfeld/Schullwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1511;54;223;403;406;269;100;56;1028
+"2010";"51 Blasewitz";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5218;366;1594;1731;966;364;113;84;1150
+"2010";"52 Striesen-Ost";"StB 5 Blasewitz";"08 Blasewitz, Striesen";7097;496;2699;2377;1104;314;81;26;823
+"2010";"53 Striesen-Süd";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5847;528;2359;2149;639;132;23;17;554
+"2010";"54 Striesen-West";"StB 5 Blasewitz";"08 Blasewitz, Striesen";6792;392;2580;3021;625;119;34;21;669
+"2010";"55 Tolkewitz/Seidnitz-Nord";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";6671;413;2115;3216;732;149;31;15;841
+"2010";"56 Seidnitz/Dobritz";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7799;971;2926;2816;902;151;27;6;1059
+"2010";"57 Gruna";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7205;665;2029;3250;981;204;39;37;1101
+"2010";"61 Leuben";"StB 6 Leuben";"10 StB Leuben";6875;265;2741;2864;756;179;29;41;995
+"2010";"62 Laubegast";"StB 6 Leuben";"10 StB Leuben";6757;573;2547;2611;724;226;58;18;1299
+"2010";"63 Kleinzschachwitz";"StB 6 Leuben";"10 StB Leuben";4299;238;1009;1418;904;441;186;103;1952
+"2010";"64 Großzschachwitz";"StB 6 Leuben";"10 StB Leuben";3731;713;954;1346;536;153;22;7;540
+"2010";"71 Prohlis-Nord";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";3730;601;1020;1540;485;76;5;3;315
+"2010";"72 Prohlis-Süd";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";5258;1458;1463;1588;602;135;12;0;253
+"2010";"73 Niedersedlitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";3304;207;896;1264;603;208;84;42;1116
+"2010";"74 Lockwitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";3042;79;721;906;780;344;151;61;1710
+"2010";"75 Leubnitz-Neuostra";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";7627;789;1823;2740;1569;481;132;93;2198
+"2010";"76 Strehlen";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";2435;916;482;726;307;4;0;0;166
+"2010";"76 Strehlen";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";3240;210;830;1196;652;268;56;28;811
+"2010";"77 Reick";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";2927;258;1044;1210;322;83;8;2;517
+"2010";"81 Südvorstadt-West";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";6061;325;1889;2636;1005;156;34;16;581
+"2010";"82 Südvorstadt-Ost";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";3200;859;881;1001;320;91;28;20;399
+"2010";"83 Räcknitz/Zschertnitz";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";5545;916;1208;2169;1079;134;26;13;703
+"2010";"84 Kleinpestitz/Mockritz";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";3983;529;774;1462;866;197;96;59;996
+"2010";"85 Coschütz/Gittersee";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";3104;271;1038;1039;455;219;59;23;1160
+"2010";"86 Plauen";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";5761;382;1725;2000;1180;364;83;27;998
+"2010";"90 Cossebaude/Mobschatz/Oberw.";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";3780;221;958;1256;763;366;137;79;1677
+"2010";"91 Cotta";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6392;407;3037;2242;536;124;39;7;948
+"2010";"92 Löbtau-Nord";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";5032;304;2301;1883;448;65;27;4;473
+"2010";"93 Löbtau-Süd";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6303;396;3042;2278;490;75;18;4;666
+"2010";"94 Naußlitz";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";5119;250;1997;1411;878;357;166;60;1854
+"2010";"95 Gorbitz-Süd";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";5189;1990;833;1600;592;161;8;5;517
+"2010";"96 Gorbitz-Ost";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";3778;982;729;1430;553;81;0;3;245
+"2010";"97 Gorbitz-Nord/Neu-Omsewitz";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";3896;1187;683;1447;560;19;0;0;286
+"2010";"98 Briesnitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";5912;401;1935;1932;1008;395;152;89;2184
+"2010";"99 Altfranken/Gompitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";1858;55;364;420;419;396;154;50;1156
+"2011";"01 Innere Altstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";1062;131;470;276;159;21;4;1;89
+"2011";"02 Pirnaische Vorstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";3973;542;2117;1019;277;18;0;0;206
+"2011";"03 Seevorstadt-Ost";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4131;1301;1053;1488;235;36;11;7;286
+"2011";"04 Wilsdruffer Vs./Seevs.-West";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4917;461;2177;1783;474;13;6;3;372
+"2011";"05 Friedrichstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4037;640;1659;1296;371;65;6;0;360
+"2011";"06 Johannstadt-Nord";"StB 0 Altstadt";"02 Johannstadt";6372;762;2100;2501;845;147;9;8;316
+"2011";"07 Johannstadt-Süd";"StB 0 Altstadt";"02 Johannstadt";7158;381;3100;3296;357;21;1;2;463
+"2011";"11 Äußere Neustadt (Antonstadt)";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";9604;1123;4362;2912;912;213;56;26;1121
+"2011";"12 Radeberger Vorstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";4565;544;1233;1596;816;254;77;45;755
+"2011";"13 Innere Neustadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";3798;536;1155;1460;503;95;40;9;431
+"2011";"14 Leipziger Vorstadt";"StB 1 Neustadt";"04 Leipziger Vorstadt, Pieschen";6577;614;2691;2342;724;154;46;6;796
+"2011";"15 Albertstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";1311;195;593;360;106;48;4;5;170
+"2011";"21 Pieschen-Süd";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6450;482;3026;2276;500;131;24;11;796
+"2011";"22 Mickten";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";7231;657;2954;2784;644;145;33;14;964
+"2011";"23 Kaditz";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";3104;198;1373;1036;301;120;50;26;910
+"2011";"24 Trachau";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";5433;275;1819;2089;938;220;65;27;1252
+"2011";"25 Pieschen-N/Trachenberge";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6964;537;3059;2341;747;218;47;15;1113
+"2011";"31 Klotzsche";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";7499;977;1833;2589;1421;444;160;75;1913
+"2011";"32 Hellerau/Wilschdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2976;100;606;900;703;408;176;83;2036
+"2011";"35 Weixdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2702;66;463;746;751;460;156;60;1868
+"2011";"36 Langebrück/Schönborn";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";1919;46;310;597;453;317;162;34;1118
+"2011";"41 Loschwitz/Wachwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";3019;157;805;821;630;306;183;117;1286
+"2011";"42 Bühlau/Weißer Hirsch";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";5623;292;1256;1784;1234;649;251;157;2354
+"2011";"43 Hosterwitz/Pillnitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1733;72;411;518;367;200;103;62;945
+"2011";"45 Weißig";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";3036;364;1059;705;421;298;110;79;1185
+"2011";"46 Gönnsdorf/Pappritz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1740;81;268;375;431;328;142;115;1187
+"2011";"47 Schönfeld/Schullwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1524;70;216;406;405;270;101;56;1031
+"2011";"51 Blasewitz";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5227;368;1596;1740;965;357;114;87;1158
+"2011";"52 Striesen-Ost";"StB 5 Blasewitz";"08 Blasewitz, Striesen";7142;491;2743;2368;1108;319;86;27;829
+"2011";"53 Striesen-Süd";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5847;525;2339;2140;666;135;23;19;562
+"2011";"54 Striesen-West";"StB 5 Blasewitz";"08 Blasewitz, Striesen";6861;417;2586;3033;642;128;34;21;678
+"2011";"55 Tolkewitz/Seidnitz-Nord";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";6685;405;2158;3192;734;148;33;15;841
+"2011";"56 Seidnitz/Dobritz";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7803;971;2925;2811;910;153;27;6;1066
+"2011";"57 Gruna";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7283;685;2071;3255;990;203;38;41;1106
+"2011";"61 Leuben";"StB 6 Leuben";"10 StB Leuben";6868;265;2737;2862;754;180;29;41;994
+"2011";"62 Laubegast";"StB 6 Leuben";"10 StB Leuben";6771;566;2558;2609;731;226;62;19;1306
+"2011";"63 Kleinzschachwitz";"StB 6 Leuben";"10 StB Leuben";4289;220;996;1409;921;447;189;107;1969
+"2011";"64 Großzschachwitz";"StB 6 Leuben";"10 StB Leuben";3718;707;940;1348;542;150;23;8;542
+"2011";"71 Prohlis-Nord";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";3729;601;1019;1540;485;76;5;3;314
+"2011";"72 Prohlis-Süd";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";5258;1458;1463;1588;602;135;12;0;253
+"2011";"73 Niedersedlitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";2793;133;649;1098;572;214;84;43;1120
+"2011";"74 Lockwitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";3084;75;699;911;815;363;157;64;1763
+"2011";"75 Leubnitz-Neuostra";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";7625;787;1820;2739;1571;481;134;93;2201
+"2011";"76 Strehlen";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";2068;810;374;594;285;5;0;0;147
+"2011";"76 Strehlen";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";3209;210;819;1176;648;269;58;29;811
+"2011";"77 Reick";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";2942;262;1051;1213;322;83;9;2;519
+"2011";"81 Südvorstadt-West";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";6064;323;1887;2640;1008;155;35;16;581
+"2011";"82 Südvorstadt-Ost";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";3205;858;881;1001;321;96;28;20;404
+"2011";"83 Räcknitz/Zschertnitz";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";5546;916;1269;2167;1020;134;27;13;703
+"2011";"84 Kleinpestitz/Mockritz";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";3999;529;795;1456;863;197;99;60;1008
+"2011";"85 Coschütz/Gittersee";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";3108;271;1034;1035;464;220;60;24;1167
+"2011";"86 Plauen";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";5781;385;1730;2005;1178;369;85;29;1005
+"2011";"90 Cossebaude/Mobschatz/Oberw.";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";3822;226;967;1258;783;372;133;83;1694
+"2011";"91 Cotta";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6374;412;3004;2254;536;123;38;7;948
+"2011";"92 Löbtau-Nord";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";5025;307;2290;1872;460;65;27;4;473
+"2011";"93 Löbtau-Süd";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6335;391;3094;2260;487;80;19;4;666
+"2011";"94 Naußlitz";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";5175;287;2000;1406;881;366;174;61;1874
+"2011";"95 Gorbitz-Süd";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";5189;1990;832;1601;592;161;8;5;517
+"2011";"96 Gorbitz-Ost";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";3778;999;752;1409;534;81;0;3;246
+"2011";"97 Gorbitz-Nord/Neu-Omsewitz";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";3896;1187;683;1447;560;19;0;0;286
+"2011";"98 Briesnitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";5915;399;1927;1914;1028;402;155;90;2204
+"2011";"99 Altfranken/Gompitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";1868;53;362;419;431;398;154;51;1167
+"2012";"01 Innere Altstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";1078;137;466;282;167;21;4;1;92
+"2012";"02 Pirnaische Vorstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";3975;544;2118;1019;276;18;0;0;205
+"2012";"03 Seevorstadt-Ost";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4142;1304;1057;1489;235;37;11;9;287
+"2012";"04 Wilsdruffer Vs./Seevs.-West";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4948;461;2185;1803;473;16;7;3;376
+"2012";"05 Friedrichstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4024;629;1638;1321;367;63;6;0;358
+"2012";"06 Johannstadt-Nord";"StB 0 Altstadt";"02 Johannstadt";6373;762;2098;2502;848;147;7;9;316
+"2012";"07 Johannstadt-Süd";"StB 0 Altstadt";"02 Johannstadt";7124;336;3150;3271;344;20;1;2;459
+"2012";"11 Äußere Neustadt (Antonstadt)";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";9609;1138;4345;2919;910;213;57;27;1116
+"2012";"12 Radeberger Vorstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";4565;515;1233;1617;808;270;79;43;763
+"2012";"13 Innere Neustadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";3981;654;1184;1480;526;91;38;8;439
+"2012";"14 Leipziger Vorstadt";"StB 1 Neustadt";"04 Leipziger Vorstadt, Pieschen";6516;564;2673;2346;732;148;46;7;796
+"2012";"15 Albertstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";1328;175;571;416;108;49;4;5;177
+"2012";"21 Pieschen-Süd";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6475;481;3046;2284;495;134;24;11;803
+"2012";"22 Mickten";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";7217;666;2936;2768;651;149;32;15;967
+"2012";"23 Kaditz";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";3110;199;1372;1036;305;122;50;26;916
+"2012";"24 Trachau";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";5442;271;1822;2096;933;228;65;27;1255
+"2012";"25 Pieschen-N/Trachenberge";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6948;524;3042;2351;743;223;50;15;1109
+"2012";"31 Klotzsche";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";7519;977;1827;2589;1430;453;167;76;1927
+"2012";"32 Hellerau/Wilschdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2990;98;600;900;721;413;177;81;2046
+"2012";"35 Weixdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2749;70;463;741;782;469;159;65;1915
+"2012";"36 Langebrück/Schönborn";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";1919;46;308;596;454;317;161;37;1119
+"2012";"41 Loschwitz/Wachwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";3035;158;803;823;636;307;187;121;1295
+"2012";"42 Bühlau/Weißer Hirsch";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";5648;291;1267;1789;1234;655;253;159;2362
+"2012";"43 Hosterwitz/Pillnitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1732;69;410;515;370;201;106;61;946
+"2012";"45 Weißig";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";3029;362;1040;694;425;310;116;82;1216
+"2012";"46 Gönnsdorf/Pappritz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1752;81;265;374;435;333;146;118;1203
+"2012";"47 Schönfeld/Schullwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1528;70;215;403;410;270;103;57;1035
+"2012";"51 Blasewitz";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5248;381;1600;1740;962;362;116;87;1154
+"2012";"52 Striesen-Ost";"StB 5 Blasewitz";"08 Blasewitz, Striesen";7133;480;2689;2365;1139;345;87;28;839
+"2012";"53 Striesen-Süd";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5951;526;2380;2191;680;136;23;15;572
+"2012";"54 Striesen-West";"StB 5 Blasewitz";"08 Blasewitz, Striesen";6940;444;2579;3062;664;132;36;23;689
+"2012";"55 Tolkewitz/Seidnitz-Nord";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";6235;280;2038;3060;700;109;33;15;811
+"2012";"56 Seidnitz/Dobritz";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7848;985;2926;2820;918;162;31;6;1095
+"2012";"57 Gruna";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7288;693;2040;3269;987;201;41;57;1119
+"2012";"61 Leuben";"StB 6 Leuben";"10 StB Leuben";6903;263;2736;2881;767;184;31;41;994
+"2012";"62 Laubegast";"StB 6 Leuben";"10 StB Leuben";6773;558;2554;2610;739;229;63;20;1315
+"2012";"63 Kleinzschachwitz";"StB 6 Leuben";"10 StB Leuben";4289;209;987;1408;928;456;192;109;1982
+"2012";"64 Großzschachwitz";"StB 6 Leuben";"10 StB Leuben";3703;690;948;1336;543;156;23;7;543
+"2012";"71 Prohlis-Nord";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";3729;601;1019;1540;485;76;5;3;314
+"2012";"72 Prohlis-Süd";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";5258;1458;1463;1588;602;135;12;0;253
+"2012";"73 Niedersedlitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";2790;133;642;1097;575;217;83;43;1120
+"2012";"74 Lockwitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";3099;73;674;916;839;369;158;70;1792
+"2012";"75 Leubnitz-Neuostra";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";7636;788;1813;2733;1575;489;142;96;2211
+"2012";"76 Strehlen";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";2068;810;374;594;285;5;0;0;147
+"2012";"76 Strehlen";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";3213;209;819;1177;651;271;58;28;812
+"2012";"77 Reick";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";2937;262;1049;1212;320;83;9;2;518
+"2012";"81 Südvorstadt-West";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";6080;324;1892;2660;998;156;33;17;578
+"2012";"82 Südvorstadt-Ost";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";3307;945;889;1004;325;97;28;19;406
+"2012";"83 Räcknitz/Zschertnitz";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";5547;916;1270;2171;1016;134;27;13;703
+"2012";"84 Kleinpestitz/Mockritz";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";4025;531;792;1469;866;203;101;63;1025
+"2012";"85 Coschütz/Gittersee";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";3113;271;1029;1038;465;222;64;24;1170
+"2012";"86 Plauen";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";5804;402;1735;1988;1193;370;85;31;1016
+"2012";"90 Cossebaude/Mobschatz/Oberw.";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";3825;226;957;1261;785;375;135;86;1704
+"2012";"91 Cotta";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6433;417;3011;2261;571;123;39;11;959
+"2012";"92 Löbtau-Nord";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";4981;311;2253;1853;466;63;28;7;477
+"2012";"93 Löbtau-Süd";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6347;404;3085;2263;500;74;18;3;666
+"2012";"94 Naußlitz";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";5181;288;1992;1407;885;370;176;63;1880
+"2012";"95 Gorbitz-Süd";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";5177;1866;915;1621;599;163;8;5;522
+"2012";"96 Gorbitz-Ost";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";3778;1026;788;1376;504;81;0;3;246
+"2012";"97 Gorbitz-Nord/Neu-Omsewitz";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";3896;1187;683;1447;560;19;0;0;286
+"2012";"98 Briesnitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";5921;395;1913;1903;1053;407;157;93;2219
+"2012";"99 Altfranken/Gompitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";1887;53;353;420;444;404;161;52;1194
+"2013";"01 Innere Altstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";1075;117;481;283;167;22;4;1;95
+"2013";"02 Pirnaische Vorstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";3975;544;2118;1019;276;18;0;0;205
+"2013";"03 Seevorstadt-Ost";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4205;1364;1060;1488;236;36;12;9;286
+"2013";"04 Wilsdruffer Vs./Seevs.-West";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4996;464;2195;1827;479;20;8;3;383
+"2013";"05 Friedrichstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4073;667;1650;1323;371;56;6;0;361
+"2013";"06 Johannstadt-Nord";"StB 0 Altstadt";"02 Johannstadt";6207;746;2085;2431;791;140;5;9;311
+"2013";"07 Johannstadt-Süd";"StB 0 Altstadt";"02 Johannstadt";7089;364;3090;3257;355;20;3;0;452
+"2013";"11 Äußere Neustadt (Antonstadt)";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";9654;1164;4353;2912;921;219;59;26;1130
+"2013";"12 Radeberger Vorstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";4585;510;1246;1614;818;274;79;44;768
+"2013";"13 Innere Neustadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";4012;654;1194;1491;535;93;38;7;440
+"2013";"14 Leipziger Vorstadt";"StB 1 Neustadt";"04 Leipziger Vorstadt, Pieschen";6521;568;2652;2342;747;159;46;7;799
+"2013";"15 Albertstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";1319;156;580;415;109;50;4;5;180
+"2013";"21 Pieschen-Süd";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6494;489;3049;2277;505;138;24;12;809
+"2013";"22 Mickten";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";7242;675;2916;2781;669;153;33;15;969
+"2013";"23 Kaditz";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";3112;200;1372;1036;304;123;50;27;919
+"2013";"24 Trachau";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";5434;271;1822;2089;932;227;65;28;1253
+"2013";"25 Pieschen-N/Trachenberge";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6944;534;3020;2352;743;225;53;17;1117
+"2013";"31 Klotzsche";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";7535;971;1836;2587;1434;456;174;77;1937
+"2013";"32 Hellerau/Wilschdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";3009;100;603;903;725;418;179;81;2058
+"2013";"35 Weixdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2769;67;462;748;785;477;160;70;1934
+"2013";"36 Langebrück/Schönborn";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";1945;46;318;605;456;319;163;38;1130
+"2013";"41 Loschwitz/Wachwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";3052;157;804;832;639;309;191;120;1301
+"2013";"42 Bühlau/Weißer Hirsch";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";5651;288;1251;1775;1258;659;257;163;2368
+"2013";"43 Hosterwitz/Pillnitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1733;66;411;514;369;200;109;64;949
+"2013";"45 Weißig";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";3050;363;1041;693;434;317;118;84;1235
+"2013";"46 Gönnsdorf/Pappritz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1779;79;265;377;451;337;149;121;1230
+"2013";"47 Schönfeld/Schullwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1533;61;225;404;408;274;103;58;1043
+"2013";"51 Blasewitz";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5259;377;1607;1743;969;358;119;86;1157
+"2013";"52 Striesen-Ost";"StB 5 Blasewitz";"08 Blasewitz, Striesen";7310;469;2742;2448;1179;356;86;30;849
+"2013";"53 Striesen-Süd";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5985;528;2370;2204;700;141;26;16;578
+"2013";"54 Striesen-West";"StB 5 Blasewitz";"08 Blasewitz, Striesen";6987;436;2579;3097;679;136;37;23;699
+"2013";"55 Tolkewitz/Seidnitz-Nord";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";6213;243;1965;3124;707;120;39;15;812
+"2013";"56 Seidnitz/Dobritz";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7854;969;2928;2824;928;161;38;6;1106
+"2013";"57 Gruna";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7318;689;2045;3275;994;210;43;62;1129
+"2013";"61 Leuben";"StB 6 Leuben";"10 StB Leuben";6914;263;2741;2877;770;190;33;40;1005
+"2013";"62 Laubegast";"StB 6 Leuben";"10 StB Leuben";6771;557;2552;2607;743;230;62;20;1315
+"2013";"63 Kleinzschachwitz";"StB 6 Leuben";"10 StB Leuben";4301;209;979;1412;935;462;194;110;1994
+"2013";"64 Großzschachwitz";"StB 6 Leuben";"10 StB Leuben";3701;692;948;1330;544;157;23;7;547
+"2013";"71 Prohlis-Nord";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";3725;597;1016;1543;484;76;6;3;314
+"2013";"72 Prohlis-Süd";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";5258;1458;1463;1588;602;135;12;0;253
+"2013";"73 Niedersedlitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";2794;131;635;1089;592;220;84;43;1129
+"2013";"74 Lockwitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";3126;74;689;917;837;378;162;69;1809
+"2013";"75 Leubnitz-Neuostra";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";7665;788;1819;2735;1579;497;148;99;2231
+"2013";"76 Strehlen";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";2068;810;374;594;285;5;0;0;147
+"2013";"76 Strehlen";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";3236;209;832;1182;654;272;58;29;816
+"2013";"77 Reick";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";2937;262;1047;1213;320;84;8;3;520
+"2013";"81 Südvorstadt-West";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";6065;324;1884;2657;1000;151;33;16;576
+"2013";"82 Südvorstadt-Ost";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";3319;945;894;1008;326;98;28;20;407
+"2013";"83 Räcknitz/Zschertnitz";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";5531;916;1260;2165;1015;133;28;14;701
+"2013";"84 Kleinpestitz/Mockritz";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";4035;532;793;1469;868;207;101;65;1029
+"2013";"85 Coschütz/Gittersee";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";3109;276;1016;1037;468;220;66;26;1176
+"2013";"86 Plauen";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";5802;401;1731;1986;1191;372;88;33;1020
+"2013";"90 Cossebaude/Mobschatz/Oberw.";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";3848;240;954;1249;797;383;137;88;1718
+"2013";"91 Cotta";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6440;417;3008;2270;570;124;40;11;961
+"2013";"92 Löbtau-Nord";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";4998;310;2259;1858;465;69;30;7;485
+"2013";"93 Löbtau-Süd";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6379;405;3105;2262;509;77;18;3;670
+"2013";"94 Naußlitz";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";5183;288;1990;1405;882;377;175;66;1884
+"2013";"95 Gorbitz-Süd";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";5174;1865;913;1620;599;164;8;5;521
+"2013";"96 Gorbitz-Ost";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";3783;1016;793;1376;514;81;0;3;256
+"2013";"97 Gorbitz-Nord/Neu-Omsewitz";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";3895;1187;683;1446;559;20;0;0;286
+"2013";"98 Briesnitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";5950;398;1895;1920;1071;408;163;95;2233
+"2013";"99 Altfranken/Gompitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";1919;53;358;422;453;416;163;54;1223
+"2014";"01 Innere Altstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";1021;107;468;264;160;19;2;1;91
+"2014";"02 Pirnaische Vorstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";3961;539;2116;1019;278;9;0;0;204
+"2014";"03 Seevorstadt-Ost";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4209;1342;1067;1490;247;39;12;12;292
+"2014";"04 Wilsdruffer Vs./Seevs.-West";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";5066;485;2195;1867;475;33;8;3;388
+"2014";"05 Friedrichstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4072;611;1754;1256;370;65;11;5;390
+"2014";"06 Johannstadt-Nord";"StB 0 Altstadt";"02 Johannstadt";6176;606;2156;2435;818;142;9;10;311
+"2014";"07 Johannstadt-Süd";"StB 0 Altstadt";"02 Johannstadt";7134;350;3072;3292;390;27;3;0;455
+"2014";"11 Äußere Neustadt (Antonstadt)";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";9653;1175;4297;2917;933;239;62;30;1134
+"2014";"12 Radeberger Vorstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";4539;505;1280;1557;813;260;80;44;767
+"2014";"13 Innere Neustadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";4006;647;1175;1491;548;100;39;6;441
+"2014";"14 Leipziger Vorstadt";"StB 1 Neustadt";"04 Leipziger Vorstadt, Pieschen";6478;556;2619;2316;774;161;46;6;795
+"2014";"15 Albertstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";1331;124;558;451;128;61;4;5;198
+"2014";"21 Pieschen-Süd";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6422;495;2966;2257;514;143;31;16;812
+"2014";"22 Mickten";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";7219;667;2878;2788;675;162;36;13;979
+"2014";"23 Kaditz";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";3086;193;1342;1028;315;129;49;30;923
+"2014";"24 Trachau";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";5442;266;1818;2093;945;226;66;28;1259
+"2014";"25 Pieschen-N/Trachenberge";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6942;538;3025;2341;739;228;54;17;1120
+"2014";"31 Klotzsche";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";7537;864;1667;2678;1567;512;171;78;1945
+"2014";"32 Hellerau/Wilschdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";3033;105;592;914;732;428;181;81;2074
+"2014";"35 Weixdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2789;66;464;757;786;484;161;71;1950
+"2014";"36 Langebrück/Schönborn";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";1990;44;318;602;474;335;169;48;1177
+"2014";"41 Loschwitz/Wachwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";3033;149;774;833;643;316;194;124;1305
+"2014";"42 Bühlau/Weißer Hirsch";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";5640;266;1219;1771;1289;659;256;180;2375
+"2014";"43 Hosterwitz/Pillnitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1712;65;402;504;366;198;112;65;945
+"2014";"45 Weißig";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";3050;367;1044;678;434;321;120;86;1240
+"2014";"46 Gönnsdorf/Pappritz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1792;79;257;380;458;344;151;123;1249
+"2014";"47 Schönfeld/Schullwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1524;57;216;402;413;274;103;59;1047
+"2014";"51 Blasewitz";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5205;368;1561;1702;992;366;124;92;1159
+"2014";"52 Striesen-Ost";"StB 5 Blasewitz";"08 Blasewitz, Striesen";7350;466;2743;2456;1197;366;90;32;855
+"2014";"53 Striesen-Süd";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5995;532;2371;2217;693;138;28;16;580
+"2014";"54 Striesen-West";"StB 5 Blasewitz";"08 Blasewitz, Striesen";7028;414;2577;3140;691;142;39;25;703
+"2014";"55 Tolkewitz/Seidnitz-Nord";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";6195;223;1915;3165;715;122;40;15;812
+"2014";"56 Seidnitz/Dobritz";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7838;956;2871;2823;974;164;43;7;1123
+"2014";"57 Gruna";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7285;657;2053;3269;988;210;44;64;1129
+"2014";"61 Leuben";"StB 6 Leuben";"10 StB Leuben";6900;262;2714;2884;790;173;32;45;1019
+"2014";"62 Laubegast";"StB 6 Leuben";"10 StB Leuben";6782;550;2523;2627;757;241;64;20;1336
+"2014";"63 Kleinzschachwitz";"StB 6 Leuben";"10 StB Leuben";4317;213;971;1412;949;462;198;112;2002
+"2014";"64 Großzschachwitz";"StB 6 Leuben";"10 StB Leuben";3672;678;937;1323;545;158;24;7;545
+"2014";"71 Prohlis-Nord";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";3728;601;1016;1542;484;76;6;3;314
+"2014";"72 Prohlis-Süd";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";5252;1453;1460;1594;601;132;12;0;253
+"2014";"73 Niedersedlitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";2864;124;645;1116;612;237;84;46;1149
+"2014";"74 Lockwitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";3120;76;680;905;837;382;166;74;1822
+"2014";"75 Leubnitz-Neuostra";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";7659;782;1822;2713;1586;504;150;102;2236
+"2014";"76 Strehlen";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";2068;810;374;594;285;5;0;0;147
+"2014";"76 Strehlen";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";3212;206;809;1176;658;274;58;31;819
+"2014";"77 Reick";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";2938;248;1031;1231;332;84;9;3;523
+"2014";"81 Südvorstadt-West";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";6142;384;1868;2673;1006;160;35;16;577
+"2014";"82 Südvorstadt-Ost";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";3388;935;905;1037;364;100;29;18;418
+"2014";"83 Räcknitz/Zschertnitz";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";5530;919;1276;2158;1004;132;28;13;699
+"2014";"84 Kleinpestitz/Mockritz";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";4096;546;808;1481;875;214;106;66;1038
+"2014";"85 Coschütz/Gittersee";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";3105;275;986;1032;474;233;76;29;1185
+"2014";"86 Plauen";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";5797;396;1722;1960;1218;376;88;37;1022
+"2014";"90 Cossebaude/Mobschatz/Oberw.";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";3841;230;961;1233;802;383;140;92;1734
+"2014";"91 Cotta";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6432;419;2962;2270;593;135;41;12;964
+"2014";"92 Löbtau-Nord";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";5110;387;2260;1876;483;67;30;7;492
+"2014";"93 Löbtau-Süd";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6364;396;3085;2241;535;83;20;4;673
+"2014";"94 Naußlitz";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";5163;286;1937;1430;879;388;176;67;1899
+"2014";"95 Gorbitz-Süd";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";5172;1864;911;1621;598;164;8;6;521
+"2014";"96 Gorbitz-Ost";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";3802;1017;786;1388;513;94;0;4;270
+"2014";"97 Gorbitz-Nord/Neu-Omsewitz";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";3871;1163;683;1446;560;19;0;0;286
+"2014";"98 Briesnitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";5908;352;1883;1911;1075;413;170;104;2264
+"2014";"99 Altfranken/Gompitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";1936;57;347;422;467;423;164;56;1245
+"2015";"01 Innere Altstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";1033;110;466;269;164;19;2;3;89
+"2015";"02 Pirnaische Vorstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";3962;539;2117;1019;278;9;0;0;204
+"2015";"03 Seevorstadt-Ost";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4247;1346;1073;1506;255;43;12;12;297
+"2015";"04 Wilsdruffer Vs./Seevs.-West";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";5149;474;2240;1939;445;40;8;3;396
+"2015";"05 Friedrichstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4293;689;1790;1291;417;82;14;10;414
+"2015";"06 Johannstadt-Nord";"StB 0 Altstadt";"02 Johannstadt";6291;621;2205;2465;833;147;9;11;315
+"2015";"07 Johannstadt-Süd";"StB 0 Altstadt";"02 Johannstadt";7126;334;3083;3290;389;27;3;0;455
+"2015";"11 Äußere Neustadt (Antonstadt)";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";9711;1172;4300;2956;949;244;62;28;1135
+"2015";"12 Radeberger Vorstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";4590;503;1281;1592;816;265;91;42;777
+"2015";"13 Innere Neustadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";4063;650;1199;1502;568;100;38;6;442
+"2015";"14 Leipziger Vorstadt";"StB 1 Neustadt";"04 Leipziger Vorstadt, Pieschen";6511;559;2612;2340;787;159;46;8;802
+"2015";"15 Albertstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";1339;123;559;450;129;68;4;6;205
+"2015";"21 Pieschen-Süd";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6445;495;2957;2269;528;149;31;16;816
+"2015";"22 Mickten";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";7235;668;2865;2796;689;163;40;14;980
+"2015";"23 Kaditz";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";3094;193;1344;1028;317;131;51;30;925
+"2015";"24 Trachau";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";5348;253;1601;2165;1008;222;71;28;1260
+"2015";"25 Pieschen-N/Trachenberge";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6937;537;3013;2348;740;228;55;16;1117
+"2015";"31 Klotzsche";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";7526;857;1674;2662;1560;520;175;78;1959
+"2015";"32 Hellerau/Wilschdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";3033;106;586;915;733;432;180;81;2075
+"2015";"35 Weixdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2802;66;459;757;795;489;163;73;1963
+"2015";"36 Langebrück/Schönborn";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2008;43;316;602;479;344;174;50;1192
+"2015";"41 Loschwitz/Wachwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";3029;149;767;828;640;321;199;125;1303
+"2015";"42 Bühlau/Weißer Hirsch";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";5711;259;1207;1804;1315;660;283;183;2408
+"2015";"43 Hosterwitz/Pillnitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1715;71;397;493;366;203;117;68;943
+"2015";"45 Weißig";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";3046;367;1032;680;437;322;121;87;1242
+"2015";"46 Gönnsdorf/Pappritz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1804;79;257;381;461;348;150;128;1259
+"2015";"47 Schönfeld/Schullwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1525;59;209;404;411;275;105;62;1049
+"2015";"51 Blasewitz";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5205;358;1537;1713;1003;375;126;93;1156
+"2015";"52 Striesen-Ost";"StB 5 Blasewitz";"08 Blasewitz, Striesen";7454;463;2758;2500;1236;369;90;38;867
+"2015";"53 Striesen-Süd";"StB 5 Blasewitz";"08 Blasewitz, Striesen";6089;548;2376;2243;728;148;29;17;585
+"2015";"54 Striesen-West";"StB 5 Blasewitz";"08 Blasewitz, Striesen";7219;439;2617;3191;741;167;40;24;719
+"2015";"55 Tolkewitz/Seidnitz-Nord";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";6209;224;1946;3139;721;124;40;15;812
+"2015";"56 Seidnitz/Dobritz";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7840;952;2849;2828;999;162;43;7;1127
+"2015";"57 Gruna";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7281;651;2045;3249;1016;211;45;64;1126
+"2015";"61 Leuben";"StB 6 Leuben";"10 StB Leuben";6914;273;2712;2902;789;158;32;48;1022
+"2015";"62 Laubegast";"StB 6 Leuben";"10 StB Leuben";6801;548;2527;2631;770;240;65;20;1346
+"2015";"63 Kleinzschachwitz";"StB 6 Leuben";"10 StB Leuben";4337;208;967;1417;968;463;200;114;2009
+"2015";"64 Großzschachwitz";"StB 6 Leuben";"10 StB Leuben";3650;671;903;1328;547;165;27;9;542
+"2015";"71 Prohlis-Nord";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";3739;611;1012;1538;493;76;6;3;314
+"2015";"72 Prohlis-Süd";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";5242;1451;1463;1574;610;132;12;0;253
+"2015";"73 Niedersedlitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";2877;125;640;1124;616;242;81;49;1160
+"2015";"74 Lockwitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";3124;75;673;908;837;389;169;73;1828
+"2015";"75 Leubnitz-Neuostra";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";7688;785;1809;2714;1607;516;150;107;2248
+"2015";"76 Strehlen";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";2068;810;374;594;285;5;0;0;147
+"2015";"76 Strehlen";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";3229;168;824;1196;667;281;61;32;817
+"2015";"77 Reick";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";2940;247;1031;1234;332;84;9;3;525
+"2015";"81 Südvorstadt-West";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";6199;388;1887;2696;1022;153;37;16;575
+"2015";"82 Südvorstadt-Ost";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";3386;935;902;1037;365;100;29;18;417
+"2015";"83 Räcknitz/Zschertnitz";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";5521;918;1270;2148;1013;131;28;13;694
+"2015";"84 Kleinpestitz/Mockritz";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";4049;517;796;1462;885;215;107;67;1042
+"2015";"85 Coschütz/Gittersee";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";3101;274;979;1027;475;238;76;32;1187
+"2015";"86 Plauen";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";5836;421;1718;1972;1218;379;90;38;1023
+"2015";"90 Cossebaude/Mobschatz/Oberw.";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";3831;228;948;1224;803;390;143;95;1740
+"2015";"91 Cotta";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6457;437;2945;2278;605;139;40;13;974
+"2015";"92 Löbtau-Nord";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";5142;423;2262;1857;481;76;36;7;492
+"2015";"93 Löbtau-Süd";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6380;398;3082;2247;543;84;21;5;674
+"2015";"94 Naußlitz";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";5188;286;1924;1439;898;396;177;68;1912
+"2015";"95 Gorbitz-Süd";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";5171;1864;911;1620;598;164;8;6;521
+"2015";"96 Gorbitz-Ost";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";3794;1017;784;1388;507;94;0;4;270
+"2015";"97 Gorbitz-Nord/Neu-Omsewitz";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";3874;1154;688;1453;560;19;0;0;286
+"2015";"98 Briesnitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";5932;351;1892;1907;1085;421;170;106;2271
+"2015";"99 Altfranken/Gompitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";1938;57;342;420;469;424;168;58;1251
+"2016";"01 Innere Altstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";1032;110;463;267;168;19;2;3;90
+"2016";"02 Pirnaische Vorstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";3962;539;2117;1019;278;9;0;0;204
+"2016";"03 Seevorstadt-Ost";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4560;1382;1206;1634;266;46;12;14;312
+"2016";"04 Wilsdruffer Vs./Seevs.-West";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";5448;523;2352;2032;485;45;8;3;412
+"2016";"05 Friedrichstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4459;718;1809;1366;443;97;15;11;438
+"2016";"06 Johannstadt-Nord";"StB 0 Altstadt";"02 Johannstadt";6328;624;2220;2480;838;146;9;11;319
+"2016";"07 Johannstadt-Süd";"StB 0 Altstadt";"02 Johannstadt";7094;361;3064;3276;364;27;2;0;451
+"2016";"11 Äußere Neustadt (Antonstadt)";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";9805;1168;4303;2978;995;264;68;29;1153
+"2016";"12 Radeberger Vorstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";4720;514;1322;1626;836;274;100;48;791
+"2016";"13 Innere Neustadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";4077;652;1198;1515;568;100;38;6;442
+"2016";"14 Leipziger Vorstadt";"StB 1 Neustadt";"04 Leipziger Vorstadt, Pieschen";6522;551;2584;2365;805;163;47;7;801
+"2016";"15 Albertstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";1438;120;569;473;142;124;4;6;269
+"2016";"21 Pieschen-Süd";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6454;497;2944;2273;534;155;34;17;821
+"2016";"22 Mickten";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";7224;662;2854;2793;688;168;42;17;984
+"2016";"23 Kaditz";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";3109;194;1349;1029;320;135;51;31;925
+"2016";"24 Trachau";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";5358;255;1602;2164;1014;221;74;28;1266
+"2016";"25 Pieschen-N/Trachenberge";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6999;555;3029;2368;745;231;55;16;1123
+"2016";"31 Klotzsche";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";7574;913;1699;2632;1528;539;180;83;1995
+"2016";"32 Hellerau/Wilschdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";3044;105;575;910;746;441;186;81;2095
+"2016";"35 Weixdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2811;64;448;754;805;500;162;78;1977
+"2016";"36 Langebrück/Schönborn";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2011;43;315;595;480;349;176;53;1201
+"2016";"41 Loschwitz/Wachwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";2974;145;739;795;640;323;206;126;1297
+"2016";"42 Bühlau/Weißer Hirsch";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";5708;270;1179;1778;1325;675;294;187;2422
+"2016";"43 Hosterwitz/Pillnitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1711;67;391;489;372;203;120;69;944
+"2016";"45 Weißig";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";3050;363;1024;680;444;325;125;89;1253
+"2016";"46 Gönnsdorf/Pappritz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1817;77;258;383;461;354;155;129;1271
+"2016";"47 Schönfeld/Schullwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1532;54;203;407;419;280;105;64;1055
+"2016";"51 Blasewitz";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5259;346;1513;1729;1053;392;127;99;1160
+"2016";"52 Striesen-Ost";"StB 5 Blasewitz";"08 Blasewitz, Striesen";7569;458;2773;2547;1296;370;88;37;883
+"2016";"53 Striesen-Süd";"StB 5 Blasewitz";"08 Blasewitz, Striesen";6362;548;2430;2346;822;168;29;19;607
+"2016";"54 Striesen-West";"StB 5 Blasewitz";"08 Blasewitz, Striesen";7217;438;2616;3189;741;167;42;24;720
+"2016";"55 Tolkewitz/Seidnitz-Nord";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";6225;223;1955;3143;724;125;40;15;813
+"2016";"56 Seidnitz/Dobritz";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7862;952;2844;2842;1009;164;43;8;1128
+"2016";"57 Gruna";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7322;652;2053;3259;1027;222;45;64;1135
+"2016";"61 Leuben";"StB 6 Leuben";"10 StB Leuben";6918;277;2707;2903;791;161;32;47;1027
+"2016";"62 Laubegast";"StB 6 Leuben";"10 StB Leuben";6822;554;2526;2633;780;242;67;20;1349
+"2016";"63 Kleinzschachwitz";"StB 6 Leuben";"10 StB Leuben";4331;201;960;1412;968;469;204;117;2010
+"2016";"64 Großzschachwitz";"StB 6 Leuben";"10 StB Leuben";3640;669;878;1335;558;161;30;9;538
+"2016";"71 Prohlis-Nord";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";3739;611;1012;1538;493;76;6;3;314
+"2016";"72 Prohlis-Süd";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";5161;1439;1447;1547;584;132;12;0;251
+"2016";"73 Niedersedlitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";2852;124;627;1109;616;246;82;48;1158
+"2016";"74 Lockwitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";3132;73;654;901;839;419;170;76;1856
+"2016";"75 Leubnitz-Neuostra";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";7694;786;1794;2710;1615;525;154;110;2255
+"2016";"76 Strehlen";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";2068;810;374;599;280;5;0;0;147
+"2016";"76 Strehlen";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";3278;166;841;1200;682;294;62;33;826
+"2016";"77 Reick";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";2940;247;1024;1238;333;86;9;3;527
+"2016";"81 Südvorstadt-West";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";6228;388;1885;2726;1023;152;37;17;579
+"2016";"82 Südvorstadt-Ost";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";3449;942;930;1049;376;103;28;21;419
+"2016";"83 Räcknitz/Zschertnitz";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";5520;918;1270;2172;991;127;28;14;695
+"2016";"84 Kleinpestitz/Mockritz";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";4076;517;792;1471;904;214;108;70;1049
+"2016";"85 Coschütz/Gittersee";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";3100;272;974;1027;477;241;76;33;1191
+"2016";"86 Plauen";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";5882;426;1717;2004;1225;378;91;41;1033
+"2016";"90 Cossebaude/Mobschatz/Oberw.";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";3834;222;939;1214;807;404;148;100;1756
+"2016";"91 Cotta";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6505;435;2942;2285;649;141;40;13;994
+"2016";"92 Löbtau-Nord";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";5186;469;2274;1835;487;78;36;7;493
+"2016";"93 Löbtau-Süd";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6416;400;3094;2264;548;82;21;7;680
+"2016";"94 Naußlitz";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";5138;282;1817;1455;936;398;180;70;1917
+"2016";"95 Gorbitz-Süd";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";5179;1866;912;1619;603;165;8;6;524
+"2016";"96 Gorbitz-Ost";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";3794;1017;784;1388;507;94;0;4;270
+"2016";"97 Gorbitz-Nord/Neu-Omsewitz";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";3875;1154;689;1454;560;18;0;0;286
+"2016";"98 Briesnitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";5964;348;1884;1919;1105;427;171;110;2281
+"2016";"99 Altfranken/Gompitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";1964;64;344;421;478;427;172;58;1260
+"2017";"01 Innere Altstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";1118;111;499;301;183;19;2;3;97
+"2017";"02 Pirnaische Vorstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";3963;539;2118;1019;278;9;0;0;204
+"2017";"03 Seevorstadt-Ost";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4557;1382;1202;1632;268;46;13;14;311
+"2017";"04 Wilsdruffer Vs./Seevs.-West";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";5490;503;2365;2057;501;53;8;3;418
+"2017";"05 Friedrichstadt";"StB 0 Altstadt";"01 StB Altstadt ohne Johannstadt";4421;667;1792;1383;455;98;15;11;438
+"2017";"06 Johannstadt-Nord";"StB 0 Altstadt";"02 Johannstadt";6337;624;2220;2480;842;147;13;11;320
+"2017";"07 Johannstadt-Süd";"StB 0 Altstadt";"02 Johannstadt";7140;364;3072;3296;379;27;2;0;453
+"2017";"11 Äußere Neustadt (Antonstadt)";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";9891;1208;4330;2979;1013;266;67;28;1163
+"2017";"12 Radeberger Vorstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";4737;514;1328;1633;832;280;101;49;797
+"2017";"13 Innere Neustadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";4088;648;1209;1520;571;95;39;6;441
+"2017";"14 Leipziger Vorstadt";"StB 1 Neustadt";"04 Leipziger Vorstadt, Pieschen";6531;562;2550;2376;802;169;54;18;800
+"2017";"15 Albertstadt";"StB 1 Neustadt";"03 StB Neustadt ohne Leipziger Vorstadt";1457;119;569;473;156;130;4;6;285
+"2017";"21 Pieschen-Süd";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6607;512;2964;2318;602;161;33;17;836
+"2017";"22 Mickten";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";7250;665;2857;2800;696;169;44;19;990
+"2017";"23 Kaditz";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";3110;194;1341;1028;323;138;53;33;926
+"2017";"24 Trachau";"StB 2 Pieschen";"05 Mickten, Kaditz, Trachau";5344;253;1585;2154;1020;227;75;30;1269
+"2017";"25 Pieschen-N/Trachenberge";"StB 2 Pieschen";"04 Leipziger Vorstadt, Pieschen";6981;555;2961;2366;756;270;58;15;1143
+"2017";"31 Klotzsche";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";7636;930;1694;2626;1545;560;191;90;2057
+"2017";"32 Hellerau/Wilschdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";3058;105;574;905;757;447;189;81;2112
+"2017";"35 Weixdorf";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2816;64;443;751;811;506;162;79;1985
+"2017";"36 Langebrück/Schönborn";"StB 3 Klotzsche/nördliche Ortschaften";"06 StB Klotzsche und nördliche OS";2015;44;313;590;486;352;176;54;1207
+"2017";"41 Loschwitz/Wachwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";2971;143;732;789;636;325;215;131;1303
+"2017";"42 Bühlau/Weißer Hirsch";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";5696;266;1169;1769;1326;677;300;189;2423
+"2017";"43 Hosterwitz/Pillnitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1707;62;387;492;373;202;121;70;944
+"2017";"45 Weißig";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";3061;363;1023;683;442;329;125;96;1262
+"2017";"46 Gönnsdorf/Pappritz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1820;77;253;387;463;356;155;129;1275
+"2017";"47 Schönfeld/Schullwitz";"StB 4 Loschwitz/OS Schönfeld-Weißig";"07 StB Loschwitz und OS Schönfeld-Weißig";1538;57;197;404;424;283;105;68;1064
+"2017";"51 Blasewitz";"StB 5 Blasewitz";"08 Blasewitz, Striesen";5270;348;1509;1729;1061;395;128;100;1165
+"2017";"52 Striesen-Ost";"StB 5 Blasewitz";"08 Blasewitz, Striesen";7649;455;2775;2568;1346;377;92;36;890
+"2017";"53 Striesen-Süd";"StB 5 Blasewitz";"08 Blasewitz, Striesen";6521;551;2471;2413;845;193;29;19;619
+"2017";"54 Striesen-West";"StB 5 Blasewitz";"08 Blasewitz, Striesen";7234;420;2613;3205;764;170;42;20;722
+"2017";"55 Tolkewitz/Seidnitz-Nord";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";6280;228;1962;3168;734;132;41;15;817
+"2017";"56 Seidnitz/Dobritz";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7916;953;2848;2874;1022;168;42;9;1132
+"2017";"57 Gruna";"StB 5 Blasewitz";"09 Tolkewitz, Seidnitz, Gruna";7332;653;2056;3259;1032;223;45;64;1135
+"2017";"61 Leuben";"StB 6 Leuben";"10 StB Leuben";6963;277;2717;2921;806;162;32;48;1030
+"2017";"62 Laubegast";"StB 6 Leuben";"10 StB Leuben";6855;558;2530;2636;799;242;67;23;1364
+"2017";"63 Kleinzschachwitz";"StB 6 Leuben";"10 StB Leuben";4327;200;948;1411;966;476;208;118;2014
+"2017";"64 Großzschachwitz";"StB 6 Leuben";"10 StB Leuben";3637;669;878;1331;559;161;30;9;539
+"2017";"71 Prohlis-Nord";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";3748;611;1016;1537;498;76;7;3;315
+"2017";"72 Prohlis-Süd";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";5161;1439;1447;1547;584;132;12;0;251
+"2017";"73 Niedersedlitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";2913;124;652;1129;630;247;83;48;1168
+"2017";"74 Lockwitz";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";3156;74;646;895;858;426;174;83;1880
+"2017";"75 Leubnitz-Neuostra";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";7689;785;1793;2696;1617;528;157;113;2260
+"2017";"76 Strehlen";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";2068;810;374;599;280;5;0;0;147
+"2017";"76 Strehlen";"StB 7 Prohlis";"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)";3282;167;840;1199;681;300;63;32;830
+"2017";"77 Reick";"StB 7 Prohlis";"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)";2942;248;1024;1238;333;86;9;4;529
+"2017";"81 Südvorstadt-West";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";6279;375;1889;2756;1052;151;38;18;581
+"2017";"82 Südvorstadt-Ost";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";3453;943;922;1058;370;103;36;21;418
+"2017";"83 Räcknitz/Zschertnitz";"StB 8 Plauen";"13 Südvorstadt, Zschertnitz";5589;944;1294;2187;994;128;29;13;697
+"2017";"84 Kleinpestitz/Mockritz";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";4080;518;789;1470;908;216;108;71;1050
+"2017";"85 Coschütz/Gittersee";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";3093;270;964;1027;479;242;77;34;1191
+"2017";"86 Plauen";"StB 8 Plauen";"14 Mockritz, Coschütz, Plauen";5909;431;1726;2020;1216;382;92;42;1038
+"2017";"90 Cossebaude/Mobschatz/Oberw.";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";3850;218;928;1204;821;423;155;101;1790
+"2017";"91 Cotta";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6541;433;2944;2301;664;143;42;14;1007
+"2017";"92 Löbtau-Nord";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";5253;503;2294;1840;496;77;36;7;495
+"2017";"93 Löbtau-Süd";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";6431;409;3085;2266;558;84;22;7;679
+"2017";"94 Naußlitz";"StB 9 Cotta/westliche Ortschaften";"15 Cotta, Löbtau, Naußlitz, Dölzschen";5141;277;1805;1444;956;406;180;73;1922
+"2017";"95 Gorbitz-Süd";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";5179;1867;912;1618;602;166;8;6;524
+"2017";"96 Gorbitz-Ost";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";3813;1044;811;1372;484;99;0;3;266
+"2017";"97 Gorbitz-Nord/Neu-Omsewitz";"StB 9 Cotta/westliche Ortschaften";"16 Gorbitz";3877;1156;688;1454;560;19;0;0;286
+"2017";"98 Briesnitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";5999;351;1895;1930;1106;436;170;111;2290
+"2017";"99 Altfranken/Gompitz";"StB 9 Cotta/westliche Ortschaften";"17 Briesnitz und westliche OS";1991;64;346;434;489;428;172;58;1268
