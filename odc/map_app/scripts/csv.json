@@ -1,0 +1,671 @@
+[ {
+  "id" : 4208,
+  "name" : "de-sn-dresden-arbeitsmarkt_hitliste_md1_2011ff__monatliche_arbeitslosenzahlen_-quote_unterbeschaeftigung_offene_stellen",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-arbeitsmarkt_hitliste_md1_2011ff__monatliche_arbeitslosenzahlen_-quote_unterbeschaeftigung_offene_stellen",
+  "beschreibung" : "Arbeitsmarkt Hitliste (MD1) 2011ff. : monatliche Arbeitslosenzahlen, -quote, Unterbeschäftigung, offene Stellen"
+}, {
+  "id" : 819,
+  "name" : "de-sn-dresden-bautaetigkeit_md11_1992_-_2018_baugenehmigungen_ab_sb_aktualisierung_quartalsweise",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-bautaetigkeit_md11_1992_-_2018_baugenehmigungen_ab_sb_aktualisierung_quartalsweise",
+  "beschreibung" : "Bautätigkeit (MD1.1) 1992 - 2018: Baugenehmigungen, ab SB (Aktualisierung quartalsweise)"
+}, {
+  "id" : 4447,
+  "name" : "de-sn-dresden-bautaetigkeit_md111_1992_-_2018_od_bauen_wohnen_baugenehmigungen_ab_stadtteil",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-bautaetigkeit_md111_1992_-_2018_od_bauen_wohnen_baugenehmigungen_ab_stadtteil",
+  "beschreibung" : "Bautätigkeit (MD1.1.1) 1992 - 2018 (OD_Bauen_Wohnen): Baugenehmigungen, ab Stadtteil"
+}, {
+  "id" : 850,
+  "name" : "de-sn-dresden-bautaetigkeit_md12_1992_-_2018_baufertigstellungen_ab_sb_aktualisierung_zum_jahresende",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-bautaetigkeit_md12_1992_-_2018_baufertigstellungen_ab_sb_aktualisierung_zum_jahresende",
+  "beschreibung" : "Bautätigkeit (MD1.2) 1992 - 2018: Baufertigstellungen, ab SB (Aktualisierung zum Jahresende)"
+}, {
+  "id" : 4448,
+  "name" : "de-sn-dresden-bautaetigkeit_md121_1992_-_2018_od_bauen_wohnen_baufertigstellungen_ab_stadtteil_aktualisierung_zum_jahresende",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-bautaetigkeit_md121_1992_-_2018_od_bauen_wohnen_baufertigstellungen_ab_stadtteil_aktualisierung_zum_jahresende",
+  "beschreibung" : "Bautätigkeit (MD1.2.1) 1992 - 2018 (OD_Bauen_Wohnen): Baufertigstellungen, ab Stadtteil (Aktualisierung zum Jahresende)"
+}, {
+  "id" : 4354,
+  "name" : "de-sn-dresden-bruttoinlandsprodukt_und_bruttowertschoepfung_md1_2000_ff",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-bruttoinlandsprodukt_und_bruttowertschoepfung_md1_2000_ff",
+  "beschreibung" : "Bruttoinlandsprodukt und Bruttowertschöpfung (MD1) 2000 ff."
+}, {
+  "id" : 4469,
+  "name" : "de-sn-dresden-einwohner___md_21e_2014_-_3112_od_bevoelkerung__ab_stadtteil_hauptwohner_13_altersklassen",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md_21e_2014_-_3112_od_bevoelkerung__ab_stadtteil_hauptwohner_13_altersklassen",
+  "beschreibung" : "Einwohner   (MD_2.1e) 2014 - 31.12. (OD_Bevölkerung):  ab Stadtteil, Hauptwohner, 13 Altersklassen"
+}, {
+  "id" : 4471,
+  "name" : "de-sn-dresden-einwohner___md_21e_2015_-_3112_od_bevoelkerung__ab_stadtteil_hauptwohner_13_altersklassen",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md_21e_2015_-_3112_od_bevoelkerung__ab_stadtteil_hauptwohner_13_altersklassen",
+  "beschreibung" : "Einwohner   (MD_2.1e) 2015 - 31.12. (OD_Bevölkerung):  ab Stadtteil, Hauptwohner, 13 Altersklassen"
+}, {
+  "id" : 4467,
+  "name" : "de-sn-dresden-einwohner___md_21e_2016_-_3112_od_bevoelkerung__ab_stadtteil_hauptwohner_13_altersklassen",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md_21e_2016_-_3112_od_bevoelkerung__ab_stadtteil_hauptwohner_13_altersklassen",
+  "beschreibung" : "Einwohner   (MD_2.1e) 2016 - 31.12. (OD_Bevölkerung):  ab Stadtteil, Hauptwohner, 13 Altersklassen"
+}, {
+  "id" : 4465,
+  "name" : "de-sn-dresden-einwohner___md_21e_2017_-_3112_od_bevoelkerung__ab_stadtteil_hauptwohner_13_altersklassen",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md_21e_2017_-_3112_od_bevoelkerung__ab_stadtteil_hauptwohner_13_altersklassen",
+  "beschreibung" : "Einwohner   (MD_2.1e) 2017 - 31.12. (OD_Bevölkerung):  ab Stadtteil, Hauptwohner, 13 Altersklassen"
+}, {
+  "id" : 4749,
+  "name" : "de-sn-dresden-einwohner___md_21e_2018_-_3112_od_bevoelkerung__ab_stadtteil_hauptwohner_13_altersklassen",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md_21e_2018_-_3112_od_bevoelkerung__ab_stadtteil_hauptwohner_13_altersklassen",
+  "beschreibung" : "Einwohner   (MD_2.1e) 2018 - 31.12. (OD_Bevölkerung):  ab Stadtteil, Hauptwohner, 13 Altersklassen"
+}, {
+  "id" : 4601,
+  "name" : "de-sn-dresden-einwohner___md_31e_1999_-_2013_od_bevoelkerung_ab_stadtraum_hauptwohner_alter_jahrgaenge_85_u_aelter_zusammengefasst",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md_31e_1999_-_2013_od_bevoelkerung_ab_stadtraum_hauptwohner_alter_jahrgaenge_85_u_aelter_zusammengefasst",
+  "beschreibung" : "Einwohner   (MD_3.1e) 1999 - 2013 (OD_Bevölkerung): ab Stadtraum, Hauptwohner, Alter (Jahrgänge), (85 u. älter zusammengefasst)"
+}, {
+  "id" : 4605,
+  "name" : "de-sn-dresden-einwohner___md_31e_2014_-_3112_od_bevoelkerung_ab_stadtraum_hauptwohner_alter_jahrgaenge_85_u_aelter_zusammengefasst",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md_31e_2014_-_3112_od_bevoelkerung_ab_stadtraum_hauptwohner_alter_jahrgaenge_85_u_aelter_zusammengefasst",
+  "beschreibung" : "Einwohner   (MD_3.1e) 2014 - 31.12. (OD_Bevölkerung): ab Stadtraum, Hauptwohner, Alter (Jahrgänge), (85 u. älter zusammengefasst)"
+}, {
+  "id" : 4609,
+  "name" : "de-sn-dresden-einwohner___md_31e_2015_-_3112_od_bevoelkerung_ab_stadtraum_hauptwohner_alter_jahrgaenge_85_u_aelter_zusammengefasst",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md_31e_2015_-_3112_od_bevoelkerung_ab_stadtraum_hauptwohner_alter_jahrgaenge_85_u_aelter_zusammengefasst",
+  "beschreibung" : "Einwohner   (MD_3.1e) 2015 - 31.12. (OD_Bevölkerung): ab Stadtraum, Hauptwohner, Alter (Jahrgänge), (85 u. älter zusammengefasst)"
+}, {
+  "id" : 4613,
+  "name" : "de-sn-dresden-einwohner___md_31e_2016_-_3112_od_bevoelkerung_ab_stadtraum_hauptwohner_alter_jahrgaenge_85_u_aelter_zusammengefasst",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md_31e_2016_-_3112_od_bevoelkerung_ab_stadtraum_hauptwohner_alter_jahrgaenge_85_u_aelter_zusammengefasst",
+  "beschreibung" : "Einwohner   (MD_3.1e) 2016 - 31.12. (OD_Bevölkerung): ab Stadtraum, Hauptwohner, Alter (Jahrgänge), (85 u. älter zusammengefasst)"
+}, {
+  "id" : 4475,
+  "name" : "de-sn-dresden-einwohner___md_31e_2017_-_3112_od_bevoelkerung_ab_stadtraum_hauptwohner_alter_jahrgaenge_85_u_aelter_zusammengefasst",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md_31e_2017_-_3112_od_bevoelkerung_ab_stadtraum_hauptwohner_alter_jahrgaenge_85_u_aelter_zusammengefasst",
+  "beschreibung" : "Einwohner   (MD_3.1e) 2017 - 31.12. (OD_Bevölkerung): ab Stadtraum, Hauptwohner, Alter (Jahrgänge), (85 u. älter zusammengefasst)"
+}, {
+  "id" : 4653,
+  "name" : "de-sn-dresden-einwohner___md_31e_2018_-_3112_od_bevoelkerung_ab_stadtraum_hauptwohner_alter_jahrgaenge_85_u_aelter_zusammengefasst",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md_31e_2018_-_3112_od_bevoelkerung_ab_stadtraum_hauptwohner_alter_jahrgaenge_85_u_aelter_zusammengefasst",
+  "beschreibung" : "Einwohner   (MD_3.1e) 2018 - 31.12. (OD_Bevölkerung): ab Stadtraum, Hauptwohner, Alter (Jahrgänge), (85 u. älter zusammengefasst)"
+}, {
+  "id" : 4493,
+  "name" : "de-sn-dresden-einwohner___md_32e_2016_-_3112_od_bevoelkerung_ab_stadtteil_hauptwohner_geschlecht_familienstand",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md_32e_2016_-_3112_od_bevoelkerung_ab_stadtteil_hauptwohner_geschlecht_familienstand",
+  "beschreibung" : "Einwohner   (MD_3.2e) 2016 - 31.12. (OD_Bevölkerung): ab Stadtteil, Hauptwohner, Geschlecht, Familienstand"
+}, {
+  "id" : 4479,
+  "name" : "de-sn-dresden-einwohner___md_32e_2017_-_3112_od_bevoelkerung_ab_stadtteil_hauptwohner_geschlecht_familienstand",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md_32e_2017_-_3112_od_bevoelkerung_ab_stadtteil_hauptwohner_geschlecht_familienstand",
+  "beschreibung" : "Einwohner   (MD_3.2e) 2017 - 31.12. (OD_Bevölkerung): ab Stadtteil, Hauptwohner, Geschlecht, Familienstand"
+}, {
+  "id" : 4651,
+  "name" : "de-sn-dresden-einwohner___md_32e_2018_-_3112_od_bevoelkerung_ab_stadtteil_hauptwohner_geschlecht_familienstand",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md_32e_2018_-_3112_od_bevoelkerung_ab_stadtteil_hauptwohner_geschlecht_familienstand",
+  "beschreibung" : "Einwohner   (MD_3.2e) 2018 - 31.12. (OD_Bevölkerung): ab Stadtteil, Hauptwohner, Geschlecht, Familienstand"
+}, {
+  "id" : 4497,
+  "name" : "de-sn-dresden-einwohner___md_33e_1999_-_2013_od_bevoelkerung_ab_stadtraum_hauptwohner_deutsche__auslaender_wohndauer",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md_33e_1999_-_2013_od_bevoelkerung_ab_stadtraum_hauptwohner_deutsche__auslaender_wohndauer",
+  "beschreibung" : "Einwohner   (MD_3.3e) 1999 - 2013 (OD_Bevölkerung): ab Stadtraum, Hauptwohner, Deutsche / Ausländer, Wohndauer"
+}, {
+  "id" : 4499,
+  "name" : "de-sn-dresden-einwohner___md_33e_2014_od_bevoelkerung_ab_stadtraum_hauptwohner_deutsche__auslaender_wohndauer",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md_33e_2014_od_bevoelkerung_ab_stadtraum_hauptwohner_deutsche__auslaender_wohndauer",
+  "beschreibung" : "Einwohner   (MD_3.3e) 2014 (OD_Bevölkerung): ab Stadtraum, Hauptwohner, Deutsche / Ausländer, Wohndauer"
+}, {
+  "id" : 4501,
+  "name" : "de-sn-dresden-einwohner___md_33e_2015_od_bevoelkerung_ab_stadtraum_hauptwohner_deutsche__auslaender_wohndauer",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md_33e_2015_od_bevoelkerung_ab_stadtraum_hauptwohner_deutsche__auslaender_wohndauer",
+  "beschreibung" : "Einwohner   (MD_3.3e) 2015 (OD_Bevölkerung): ab Stadtraum, Hauptwohner, Deutsche / Ausländer, Wohndauer"
+}, {
+  "id" : 4503,
+  "name" : "de-sn-dresden-einwohner___md_33e_2016_od_bevoelkerung_ab_stadtraum_hauptwohner_deutsche__auslaender_wohndauer",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md_33e_2016_od_bevoelkerung_ab_stadtraum_hauptwohner_deutsche__auslaender_wohndauer",
+  "beschreibung" : "Einwohner   (MD_3.3e) 2016 (OD_Bevölkerung): ab Stadtraum, Hauptwohner, Deutsche / Ausländer, Wohndauer"
+}, {
+  "id" : 4505,
+  "name" : "de-sn-dresden-einwohner___md_33e_2017_od_bevoelkerung_ab_stadtraum_hauptwohner_deutsche__auslaender_wohndauer",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md_33e_2017_od_bevoelkerung_ab_stadtraum_hauptwohner_deutsche__auslaender_wohndauer",
+  "beschreibung" : "Einwohner   (MD_3.3e) 2017 (OD_Bevölkerung): ab Stadtraum, Hauptwohner, Deutsche / Ausländer, Wohndauer"
+}, {
+  "id" : 4649,
+  "name" : "de-sn-dresden-einwohner___md_33e_2018_od_bevoelkerung_ab_stadtraum_hauptwohner_deutsche__auslaender_wohndauer",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md_33e_2018_od_bevoelkerung_ab_stadtraum_hauptwohner_deutsche__auslaender_wohndauer",
+  "beschreibung" : "Einwohner   (MD_3.3e) 2018 (OD_Bevölkerung): ab Stadtraum, Hauptwohner, Deutsche / Ausländer, Wohndauer"
+}, {
+  "id" : 4511,
+  "name" : "de-sn-dresden-einwohner___md_34e_2014_-_3006_od_bevoelkerung_ab_stadtteil_hauptwohner_geschlecht_deutsche__auslaender",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md_34e_2014_-_3006_od_bevoelkerung_ab_stadtteil_hauptwohner_geschlecht_deutsche__auslaender",
+  "beschreibung" : "Einwohner   (MD_3.4e) 2014 - 30.06. (OD_Bevölkerung): ab Stadtteil, Hauptwohner, Geschlecht, Deutsche / Ausländer"
+}, {
+  "id" : 4513,
+  "name" : "de-sn-dresden-einwohner___md_34e_2014_-_3112_od_bevoelkerung_ab_stadtteil_hauptwohner_geschlecht_deutsche__auslaender",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md_34e_2014_-_3112_od_bevoelkerung_ab_stadtteil_hauptwohner_geschlecht_deutsche__auslaender",
+  "beschreibung" : "Einwohner   (MD_3.4e) 2014 - 31.12. (OD_Bevölkerung): ab Stadtteil, Hauptwohner, Geschlecht, Deutsche / Ausländer"
+}, {
+  "id" : 4515,
+  "name" : "de-sn-dresden-einwohner___md_34e_2015_-_3006_od_bevoelkerung_ab_stadtteil_hauptwohner_geschlecht_deutsche__auslaender",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md_34e_2015_-_3006_od_bevoelkerung_ab_stadtteil_hauptwohner_geschlecht_deutsche__auslaender",
+  "beschreibung" : "Einwohner   (MD_3.4e) 2015 - 30.06. (OD_Bevölkerung): ab Stadtteil, Hauptwohner, Geschlecht, Deutsche / Ausländer"
+}, {
+  "id" : 4517,
+  "name" : "de-sn-dresden-einwohner___md_34e_2015_-_3112_od_bevoelkerung_ab_stadtteil_hauptwohner_geschlecht_deutsche__auslaender",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md_34e_2015_-_3112_od_bevoelkerung_ab_stadtteil_hauptwohner_geschlecht_deutsche__auslaender",
+  "beschreibung" : "Einwohner   (MD_3.4e) 2015 - 31.12. (OD_Bevölkerung): ab Stadtteil, Hauptwohner, Geschlecht, Deutsche / Ausländer"
+}, {
+  "id" : 4519,
+  "name" : "de-sn-dresden-einwohner___md_34e_2016_-_3006_od_bevoelkerung_ab_stadtteil_hauptwohner_geschlecht_deutsche__auslaender",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md_34e_2016_-_3006_od_bevoelkerung_ab_stadtteil_hauptwohner_geschlecht_deutsche__auslaender",
+  "beschreibung" : "Einwohner   (MD_3.4e) 2016 - 30.06. (OD_Bevölkerung): ab Stadtteil, Hauptwohner, Geschlecht, Deutsche / Ausländer"
+}, {
+  "id" : 4521,
+  "name" : "de-sn-dresden-einwohner___md_34e_2016_-_3112_od_bevoelkerung_ab_stadtteil_hauptwohner_geschlecht_deutsche__auslaender",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md_34e_2016_-_3112_od_bevoelkerung_ab_stadtteil_hauptwohner_geschlecht_deutsche__auslaender",
+  "beschreibung" : "Einwohner   (MD_3.4e) 2016 - 31.12. (OD_Bevölkerung): ab Stadtteil, Hauptwohner, Geschlecht, Deutsche / Ausländer"
+}, {
+  "id" : 4523,
+  "name" : "de-sn-dresden-einwohner___md_34e_2017_-_3006_od_bevoelkerung_ab_stadtteil_hauptwohner_geschlecht_deutsche__auslaender",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md_34e_2017_-_3006_od_bevoelkerung_ab_stadtteil_hauptwohner_geschlecht_deutsche__auslaender",
+  "beschreibung" : "Einwohner   (MD_3.4e) 2017 - 30.06. (OD_Bevölkerung): ab Stadtteil, Hauptwohner, Geschlecht, Deutsche / Ausländer"
+}, {
+  "id" : 4525,
+  "name" : "de-sn-dresden-einwohner___md_34e_2017_-_3112_od_bevoelkerung_ab_stadtteil_hauptwohner_geschlecht_deutsche__auslaender",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md_34e_2017_-_3112_od_bevoelkerung_ab_stadtteil_hauptwohner_geschlecht_deutsche__auslaender",
+  "beschreibung" : "Einwohner   (MD_3.4e) 2017 - 31.12. (OD_Bevölkerung): ab Stadtteil, Hauptwohner, Geschlecht, Deutsche / Ausländer"
+}, {
+  "id" : 4507,
+  "name" : "de-sn-dresden-einwohner___md_34e_2018_-_3006_od_bevoelkerung_ab_stadtteil_hauptwohner_geschlecht_deutsche__auslaender",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md_34e_2018_-_3006_od_bevoelkerung_ab_stadtteil_hauptwohner_geschlecht_deutsche__auslaender",
+  "beschreibung" : "Einwohner   (MD_3.4e) 2018 - 30.06. (OD_Bevölkerung): ab Stadtteil, Hauptwohner, Geschlecht, Deutsche / Ausländer"
+}, {
+  "id" : 4647,
+  "name" : "de-sn-dresden-einwohner___md_34e_2018_-_3112_od_bevoelkerung_ab_stadtteil_hauptwohner_geschlecht_deutsche__auslaender",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md_34e_2018_-_3112_od_bevoelkerung_ab_stadtteil_hauptwohner_geschlecht_deutsche__auslaender",
+  "beschreibung" : "Einwohner   (MD_3.4e) 2018 - 31.12. (OD_Bevölkerung): ab Stadtteil, Hauptwohner, Geschlecht, Deutsche / Ausländer"
+}, {
+  "id" : 4527,
+  "name" : "de-sn-dresden-einwohner___md_35e_2004_ff_-_quartale_od_bevoelkerung_ab_stadtteil_hauptwohner_13_altersklassen_geschlecht",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md_35e_2004_ff_-_quartale_od_bevoelkerung_ab_stadtteil_hauptwohner_13_altersklassen_geschlecht",
+  "beschreibung" : "Einwohner   (MD_3.5e) 2004 ff. - Quartale (OD_Bevölkerung): ab Stadtteil, Hauptwohner, 13 Altersklassen, Geschlecht"
+}, {
+  "id" : 4529,
+  "name" : "de-sn-dresden-einwohner___md104ie_2013_migrationshintergrund_od_bevoelkerung_hauptwohner_geschlecht_bezugsland_staatenzusammenfassung_irb",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md104ie_2013_migrationshintergrund_od_bevoelkerung_hauptwohner_geschlecht_bezugsland_staatenzusammenfassung_irb",
+  "beschreibung" : "Einwohner   (MD10.4ie) 2013 Migrationshintergrund (OD_Bevölkerung): Hauptwohner, Geschlecht, Bezugsland (Staatenzusammenfassung IRB)"
+}, {
+  "id" : 4531,
+  "name" : "de-sn-dresden-einwohner___md104ie_2014_migrationshintergrund_od_bevoelkerung_hauptwohner_geschlecht_bezugsland_staatenzusammenfassung_irb",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md104ie_2014_migrationshintergrund_od_bevoelkerung_hauptwohner_geschlecht_bezugsland_staatenzusammenfassung_irb",
+  "beschreibung" : "Einwohner   (MD10.4ie) 2014 Migrationshintergrund (OD_Bevölkerung): Hauptwohner, Geschlecht, Bezugsland (Staatenzusammenfassung IRB)"
+}, {
+  "id" : 4533,
+  "name" : "de-sn-dresden-einwohner___md104ie_2015_migrationshintergrund_od_bevoelkerung_hauptwohner_geschlecht_bezugsland_staatenzusammenfassung_irb",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md104ie_2015_migrationshintergrund_od_bevoelkerung_hauptwohner_geschlecht_bezugsland_staatenzusammenfassung_irb",
+  "beschreibung" : "Einwohner   (MD10.4ie) 2015 Migrationshintergrund (OD_Bevölkerung): Hauptwohner, Geschlecht, Bezugsland (Staatenzusammenfassung IRB)"
+}, {
+  "id" : 4535,
+  "name" : "de-sn-dresden-einwohner___md104ie_2016_migrationshintergrund_od_bevoelkerung_hauptwohner_geschlecht_bezugsland_staatenzusammenfassung_irb",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md104ie_2016_migrationshintergrund_od_bevoelkerung_hauptwohner_geschlecht_bezugsland_staatenzusammenfassung_irb",
+  "beschreibung" : "Einwohner   (MD10.4ie) 2016 Migrationshintergrund (OD_Bevölkerung): Hauptwohner, Geschlecht, Bezugsland (Staatenzusammenfassung IRB)"
+}, {
+  "id" : 4537,
+  "name" : "de-sn-dresden-einwohner___md104ie_2017_migrationshintergrund_od_bevoelkerung_hauptwohner_geschlecht_bezugsland_staatenzusammenfassung_irb",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md104ie_2017_migrationshintergrund_od_bevoelkerung_hauptwohner_geschlecht_bezugsland_staatenzusammenfassung_irb",
+  "beschreibung" : "Einwohner   (MD10.4ie) 2017 Migrationshintergrund (OD_Bevölkerung): Hauptwohner, Geschlecht, Bezugsland (Staatenzusammenfassung IRB)"
+}, {
+  "id" : 4728,
+  "name" : "de-sn-dresden-einwohner___md104ie_2018_migrationshintergrund_od_bevoelkerung_hauptwohner_geschlecht_bezugsland_staatenzusammenfassung_irb",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md104ie_2018_migrationshintergrund_od_bevoelkerung_hauptwohner_geschlecht_bezugsland_staatenzusammenfassung_irb",
+  "beschreibung" : "Einwohner   (MD10.4ie) 2018 Migrationshintergrund (OD_Bevölkerung): Hauptwohner, Geschlecht, Bezugsland (Staatenzusammenfassung IRB)"
+}, {
+  "id" : 4541,
+  "name" : "de-sn-dresden-einwohner___md105e_2013_migrationshintergrund_od_bevoelkerung_hauptwohner_stadtraum_3_altersklassen",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md105e_2013_migrationshintergrund_od_bevoelkerung_hauptwohner_stadtraum_3_altersklassen",
+  "beschreibung" : "Einwohner   (MD10.5e) 2013 Migrationshintergrund (OD_Bevölkerung): Hauptwohner, Stadtraum, 3 Altersklassen"
+}, {
+  "id" : 4543,
+  "name" : "de-sn-dresden-einwohner___md105e_2014_migrationshintergrund_od_bevoelkerung_hauptwohner_stadtraum_3_altersklassen",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md105e_2014_migrationshintergrund_od_bevoelkerung_hauptwohner_stadtraum_3_altersklassen",
+  "beschreibung" : "Einwohner   (MD10.5e) 2014 Migrationshintergrund (OD_Bevölkerung): Hauptwohner, Stadtraum, 3 Altersklassen"
+}, {
+  "id" : 4545,
+  "name" : "de-sn-dresden-einwohner___md105e_2015_migrationshintergrund_od_bevoelkerung_hauptwohner_stadtraum_3_altersklassen",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md105e_2015_migrationshintergrund_od_bevoelkerung_hauptwohner_stadtraum_3_altersklassen",
+  "beschreibung" : "Einwohner   (MD10.5e) 2015 Migrationshintergrund (OD_Bevölkerung): Hauptwohner, Stadtraum, 3 Altersklassen"
+}, {
+  "id" : 4547,
+  "name" : "de-sn-dresden-einwohner___md105e_2016_migrationshintergrund_od_bevoelkerung_hauptwohner_stadtraum_3_altersklassen",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md105e_2016_migrationshintergrund_od_bevoelkerung_hauptwohner_stadtraum_3_altersklassen",
+  "beschreibung" : "Einwohner   (MD10.5e) 2016 Migrationshintergrund (OD_Bevölkerung): Hauptwohner, Stadtraum, 3 Altersklassen"
+}, {
+  "id" : 4539,
+  "name" : "de-sn-dresden-einwohner___md105e_2017_migrationshintergrund_od_bevoelkerung_hauptwohner_stadtraum_3_altersklassen",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md105e_2017_migrationshintergrund_od_bevoelkerung_hauptwohner_stadtraum_3_altersklassen",
+  "beschreibung" : "Einwohner   (MD10.5e) 2017 Migrationshintergrund (OD_Bevölkerung): Hauptwohner, Stadtraum, 3 Altersklassen"
+}, {
+  "id" : 4726,
+  "name" : "de-sn-dresden-einwohner___md105e_2018_migrationshintergrund_od_bevoelkerung_hauptwohner_stadtraum_3_altersklassen",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner___md105e_2018_migrationshintergrund_od_bevoelkerung_hauptwohner_stadtraum_3_altersklassen",
+  "beschreibung" : "Einwohner   (MD10.5e) 2018 Migrationshintergrund (OD_Bevölkerung): Hauptwohner, Stadtraum, 3 Altersklassen"
+}, {
+  "id" : 4549,
+  "name" : "de-sn-dresden-einwohner_-_haushalte_md21e_1999_-_2013_od_bevoelkerung_ab_stadtbezirk_kinderanzahl",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_-_haushalte_md21e_1999_-_2013_od_bevoelkerung_ab_stadtbezirk_kinderanzahl",
+  "beschreibung" : "Einwohner - Haushalte (MD2.1e) 1999 - 2013 (OD_Bevölkerung): ab Stadtbezirk, Kinderanzahl"
+}, {
+  "id" : 4551,
+  "name" : "de-sn-dresden-einwohner_-_haushalte_md21e_2014_od_bevoelkerung_ab_stadtbezirk_kinderanzahl",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_-_haushalte_md21e_2014_od_bevoelkerung_ab_stadtbezirk_kinderanzahl",
+  "beschreibung" : "Einwohner - Haushalte (MD2.1e) 2014 (OD_Bevölkerung): ab Stadtbezirk, Kinderanzahl"
+}, {
+  "id" : 4553,
+  "name" : "de-sn-dresden-einwohner_-_haushalte_md21e_2015_od_bevoelkerung_ab_stadtbezirk_kinderanzahl",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_-_haushalte_md21e_2015_od_bevoelkerung_ab_stadtbezirk_kinderanzahl",
+  "beschreibung" : "Einwohner - Haushalte (MD2.1e) 2015 (OD_Bevölkerung): ab Stadtbezirk, Kinderanzahl"
+}, {
+  "id" : 4555,
+  "name" : "de-sn-dresden-einwohner_-_haushalte_md21e_2016_od_bevoelkerung_ab_stadtbezirk_kinderanzahl",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_-_haushalte_md21e_2016_od_bevoelkerung_ab_stadtbezirk_kinderanzahl",
+  "beschreibung" : "Einwohner - Haushalte (MD2.1e) 2016 (OD_Bevölkerung): ab Stadtbezirk, Kinderanzahl"
+}, {
+  "id" : 4557,
+  "name" : "de-sn-dresden-einwohner_-_haushalte_md21e_2017_od_bevoelkerung_ab_stadtbezirk_kinderanzahl",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_-_haushalte_md21e_2017_od_bevoelkerung_ab_stadtbezirk_kinderanzahl",
+  "beschreibung" : "Einwohner - Haushalte (MD2.1e) 2017 (OD_Bevölkerung): ab Stadtbezirk, Kinderanzahl"
+}, {
+  "id" : 4667,
+  "name" : "de-sn-dresden-einwohner_-_haushalte_md21e_2018_od_bevoelkerung_ab_stadtbezirk_kinderanzahl",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_-_haushalte_md21e_2018_od_bevoelkerung_ab_stadtbezirk_kinderanzahl",
+  "beschreibung" : "Einwohner - Haushalte (MD2.1e) 2018 (OD_Bevölkerung): ab Stadtbezirk, Kinderanzahl"
+}, {
+  "id" : 4700,
+  "name" : "de-sn-dresden-einwohner_-_haushalte_md233_1999_-_2013_od_bevoelkerung_ab_stadtteil_haushalttyp_alleinerziehende_",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_-_haushalte_md233_1999_-_2013_od_bevoelkerung_ab_stadtteil_haushalttyp_alleinerziehende_",
+  "beschreibung" : "Einwohner - Haushalte (MD2.3.3) 1999 - 2013 (OD_Bevölkerung): ab Stadtteil, Haushalttyp Alleinerziehende "
+}, {
+  "id" : 4702,
+  "name" : "de-sn-dresden-einwohner_-_haushalte_md233_2014_od_bevoelkerung_ab_stadtteil_haushalttyp_alleinerziehende_",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_-_haushalte_md233_2014_od_bevoelkerung_ab_stadtteil_haushalttyp_alleinerziehende_",
+  "beschreibung" : "Einwohner - Haushalte (MD2.3.3) 2014 (OD_Bevölkerung): ab Stadtteil, Haushalttyp Alleinerziehende "
+}, {
+  "id" : 4445,
+  "name" : "de-sn-dresden-einwohner_-_haushalte_md233_2015_od_bevoelkerung_ab_stadtteil_haushalttyp_alleinerziehende_",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_-_haushalte_md233_2015_od_bevoelkerung_ab_stadtteil_haushalttyp_alleinerziehende_",
+  "beschreibung" : "Einwohner - Haushalte (MD2.3.3) 2015 (OD_Bevölkerung): ab Stadtteil, Haushalttyp Alleinerziehende "
+}, {
+  "id" : 4698,
+  "name" : "de-sn-dresden-einwohner_-_haushalte_md233_2016_od_bevoelkerung_ab_stadtteil_haushalttyp_alleinerziehende_",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_-_haushalte_md233_2016_od_bevoelkerung_ab_stadtteil_haushalttyp_alleinerziehende_",
+  "beschreibung" : "Einwohner - Haushalte (MD2.3.3) 2016 (OD_Bevölkerung): ab Stadtteil, Haushalttyp Alleinerziehende "
+}, {
+  "id" : 4704,
+  "name" : "de-sn-dresden-einwohner_-_haushalte_md233_2017_od_bevoelkerung_ab_stadtteil_haushalttyp_alleinerziehende_",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_-_haushalte_md233_2017_od_bevoelkerung_ab_stadtteil_haushalttyp_alleinerziehende_",
+  "beschreibung" : "Einwohner - Haushalte (MD2.3.3) 2017 (OD_Bevölkerung): ab Stadtteil, Haushalttyp Alleinerziehende "
+}, {
+  "id" : 4706,
+  "name" : "de-sn-dresden-einwohner_-_haushalte_md233_2018_od_bevoelkerung_ab_stadtteil_haushalttyp_alleinerziehende_",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_-_haushalte_md233_2018_od_bevoelkerung_ab_stadtteil_haushalttyp_alleinerziehende_",
+  "beschreibung" : "Einwohner - Haushalte (MD2.3.3) 2018 (OD_Bevölkerung): ab Stadtteil, Haushalttyp Alleinerziehende "
+}, {
+  "id" : 4559,
+  "name" : "de-sn-dresden-einwohner_-_haushalte_md23e_1999_-_2013_od_bevoelkerung_ab_stadtteil_haushalt-groesse_in_5_klassen",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_-_haushalte_md23e_1999_-_2013_od_bevoelkerung_ab_stadtteil_haushalt-groesse_in_5_klassen",
+  "beschreibung" : "Einwohner - Haushalte (MD2.3e) 1999 - 2013 (OD_Bevölkerung): ab Stadtteil, Haushalt-Größe in 5 Klassen"
+}, {
+  "id" : 4561,
+  "name" : "de-sn-dresden-einwohner_-_haushalte_md23e_2014_od_bevoelkerung_ab_stadtteil_haushalt-groesse_in_5_klassen",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_-_haushalte_md23e_2014_od_bevoelkerung_ab_stadtteil_haushalt-groesse_in_5_klassen",
+  "beschreibung" : "Einwohner - Haushalte (MD2.3e) 2014 (OD_Bevölkerung): ab Stadtteil, Haushalt-Größe in 5 Klassen"
+}, {
+  "id" : 4443,
+  "name" : "de-sn-dresden-einwohner_-_haushalte_md23e_2015_od_bevoelkerung_ab_stadtteil_haushalt-groesse_in_5_klassen",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_-_haushalte_md23e_2015_od_bevoelkerung_ab_stadtteil_haushalt-groesse_in_5_klassen",
+  "beschreibung" : "Einwohner - Haushalte (MD2.3e) 2015 (OD_Bevölkerung): ab Stadtteil, Haushalt-Größe in 5 Klassen"
+}, {
+  "id" : 4563,
+  "name" : "de-sn-dresden-einwohner_-_haushalte_md23e_2016_od_bevoelkerung_ab_stadtteil_haushalt-groesse_in_5_klassen",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_-_haushalte_md23e_2016_od_bevoelkerung_ab_stadtteil_haushalt-groesse_in_5_klassen",
+  "beschreibung" : "Einwohner - Haushalte (MD2.3e) 2016 (OD_Bevölkerung): ab Stadtteil, Haushalt-Größe in 5 Klassen"
+}, {
+  "id" : 4565,
+  "name" : "de-sn-dresden-einwohner_-_haushalte_md23e_2017_od_bevoelkerung_ab_stadtteil_haushalt-groesse_in_5_klassen",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_-_haushalte_md23e_2017_od_bevoelkerung_ab_stadtteil_haushalt-groesse_in_5_klassen",
+  "beschreibung" : "Einwohner - Haushalte (MD2.3e) 2017 (OD_Bevölkerung): ab Stadtteil, Haushalt-Größe in 5 Klassen"
+}, {
+  "id" : 4669,
+  "name" : "de-sn-dresden-einwohner_-_haushalte_md23e_2018_od_bevoelkerung_ab_stadtteil_haushalt-groesse_in_5_klassen",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_-_haushalte_md23e_2018_od_bevoelkerung_ab_stadtteil_haushalt-groesse_in_5_klassen",
+  "beschreibung" : "Einwohner - Haushalte (MD2.3e) 2018 (OD_Bevölkerung): ab Stadtteil, Haushalt-Größe in 5 Klassen"
+}, {
+  "id" : 4739,
+  "name" : "de-sn-dresden-einwohner_-_haushalte_md24e_2014_ab_stadtbezirk_allein_erziehende_haushalte_kinderanzahl",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_-_haushalte_md24e_2014_ab_stadtbezirk_allein_erziehende_haushalte_kinderanzahl",
+  "beschreibung" : "Einwohner - Haushalte (MD2.4e) 2014 ab Stadtbezirk, Allein erziehende Haushalte, Kinderanzahl"
+}, {
+  "id" : 4741,
+  "name" : "de-sn-dresden-einwohner_-_haushalte_md24e_2015_ab_stadtbezirk_allein_erziehende_haushalte_kinderanzahl",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_-_haushalte_md24e_2015_ab_stadtbezirk_allein_erziehende_haushalte_kinderanzahl",
+  "beschreibung" : "Einwohner - Haushalte (MD2.4e) 2015 ab Stadtbezirk, Allein erziehende Haushalte, Kinderanzahl"
+}, {
+  "id" : 4743,
+  "name" : "de-sn-dresden-einwohner_-_haushalte_md24e_2016_ab_stadtbezirk_allein_erziehende_haushalte_kinderanzahl",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_-_haushalte_md24e_2016_ab_stadtbezirk_allein_erziehende_haushalte_kinderanzahl",
+  "beschreibung" : "Einwohner - Haushalte (MD2.4e) 2016 ab Stadtbezirk, Allein erziehende Haushalte, Kinderanzahl"
+}, {
+  "id" : 4745,
+  "name" : "de-sn-dresden-einwohner_-_haushalte_md24e_2017_ab_stadtbezirk_allein_erziehende_haushalte_kinderanzahl",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_-_haushalte_md24e_2017_ab_stadtbezirk_allein_erziehende_haushalte_kinderanzahl",
+  "beschreibung" : "Einwohner - Haushalte (MD2.4e) 2017 ab Stadtbezirk, Allein erziehende Haushalte, Kinderanzahl"
+}, {
+  "id" : 4747,
+  "name" : "de-sn-dresden-einwohner_-_haushalte_md24e_2018_ab_stadtbezirk_allein_erziehende_haushalte_kinderanzahl",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_-_haushalte_md24e_2018_ab_stadtbezirk_allein_erziehende_haushalte_kinderanzahl",
+  "beschreibung" : "Einwohner - Haushalte (MD2.4e) 2018 ab Stadtbezirk, Allein erziehende Haushalte, Kinderanzahl"
+}, {
+  "id" : 4591,
+  "name" : "de-sn-dresden-einwohner_-_haushalte_md33ie_1999_-_2013_od_bevoelkerung_1-p-hh_ab_stadtteil_5_altersklassen_geschlecht",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_-_haushalte_md33ie_1999_-_2013_od_bevoelkerung_1-p-hh_ab_stadtteil_5_altersklassen_geschlecht",
+  "beschreibung" : "Einwohner - Haushalte (MD3.3ie) 1999 - 2013 (OD_Bevölkerung): 1-P-HH, ab Stadtteil, 5 Altersklassen, Geschlecht"
+}, {
+  "id" : 4593,
+  "name" : "de-sn-dresden-einwohner_-_haushalte_md33ie_2014_od_bevoelkerung_1-p-hh_ab_stadtteil_5_altersklassen_geschlecht",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_-_haushalte_md33ie_2014_od_bevoelkerung_1-p-hh_ab_stadtteil_5_altersklassen_geschlecht",
+  "beschreibung" : "Einwohner - Haushalte (MD3.3ie) 2014 (OD_Bevölkerung): 1-P-HH, ab Stadtteil, 5 Altersklassen, Geschlecht"
+}, {
+  "id" : 4595,
+  "name" : "de-sn-dresden-einwohner_-_haushalte_md33ie_2015_od_bevoelkerung_1-p-hh_ab_stadtteil_5_altersklassen_geschlecht",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_-_haushalte_md33ie_2015_od_bevoelkerung_1-p-hh_ab_stadtteil_5_altersklassen_geschlecht",
+  "beschreibung" : "Einwohner - Haushalte (MD3.3ie) 2015 (OD_Bevölkerung): 1-P-HH, ab Stadtteil, 5 Altersklassen, Geschlecht"
+}, {
+  "id" : 4597,
+  "name" : "de-sn-dresden-einwohner_-_haushalte_md33ie_2016_od_bevoelkerung_1-p-hh_ab_stadtteil_5_altersklassen_geschlecht",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_-_haushalte_md33ie_2016_od_bevoelkerung_1-p-hh_ab_stadtteil_5_altersklassen_geschlecht",
+  "beschreibung" : "Einwohner - Haushalte (MD3.3ie) 2016 (OD_Bevölkerung): 1-P-HH, ab Stadtteil, 5 Altersklassen, Geschlecht"
+}, {
+  "id" : 4599,
+  "name" : "de-sn-dresden-einwohner_-_haushalte_md33ie_2017_od_bevoelkerung_1-p-hh_ab_stadtteil_5_altersklassen_geschlecht",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_-_haushalte_md33ie_2017_od_bevoelkerung_1-p-hh_ab_stadtteil_5_altersklassen_geschlecht",
+  "beschreibung" : "Einwohner - Haushalte (MD3.3ie) 2017 (OD_Bevölkerung): 1-P-HH, ab Stadtteil, 5 Altersklassen, Geschlecht"
+}, {
+  "id" : 4673,
+  "name" : "de-sn-dresden-einwohner_geborene_md121_2013_od_bevoelkerung_ab_stadtteil",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_geborene_md121_2013_od_bevoelkerung_ab_stadtteil",
+  "beschreibung" : "Einwohner Geborene (MD1.2.1) 2013 (OD_Bevölkerung) ab Stadtteil"
+}, {
+  "id" : 4675,
+  "name" : "de-sn-dresden-einwohner_geborene_md121_2014_od_bevoelkerung_ab_stadtteil",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_geborene_md121_2014_od_bevoelkerung_ab_stadtteil",
+  "beschreibung" : "Einwohner Geborene (MD1.2.1) 2014 (OD_Bevölkerung) ab Stadtteil"
+}, {
+  "id" : 4677,
+  "name" : "de-sn-dresden-einwohner_geborene_md121_2015_od_bevoelkerung_ab_stadtteil",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_geborene_md121_2015_od_bevoelkerung_ab_stadtteil",
+  "beschreibung" : "Einwohner Geborene (MD1.2.1) 2015 (OD_Bevölkerung) ab Stadtteil"
+}, {
+  "id" : 4679,
+  "name" : "de-sn-dresden-einwohner_geborene_md121_2016_od_bevoelkerung_ab_stadtteil",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_geborene_md121_2016_od_bevoelkerung_ab_stadtteil",
+  "beschreibung" : "Einwohner Geborene (MD1.2.1) 2016 (OD_Bevölkerung) ab Stadtteil"
+}, {
+  "id" : 4671,
+  "name" : "de-sn-dresden-einwohner_geborene_md121_2017_od_bevoelkerung_ab_stadtteil",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_geborene_md121_2017_od_bevoelkerung_ab_stadtteil",
+  "beschreibung" : "Einwohner Geborene (MD1.2.1) 2017 (OD_Bevölkerung) ab Stadtteil"
+}, {
+  "id" : 4681,
+  "name" : "de-sn-dresden-einwohner_geborene_md13_1999_-_2012_od_bevoelkerung_ab_stadtbezirk_mit_zugeordneten_ortschaften_geschlecht",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_geborene_md13_1999_-_2012_od_bevoelkerung_ab_stadtbezirk_mit_zugeordneten_ortschaften_geschlecht",
+  "beschreibung" : "Einwohner Geborene (MD1.3) 1999 - 2012 (OD_Bevölkerung): ab Stadtbezirk mit zugeordneten Ortschaften, Geschlecht"
+}, {
+  "id" : 4683,
+  "name" : "de-sn-dresden-einwohner_geborene_md13_2013_od_bevoelkerung_ab_stadtbezirk_mit_zugeordneten_ortschaften_geschlecht",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_geborene_md13_2013_od_bevoelkerung_ab_stadtbezirk_mit_zugeordneten_ortschaften_geschlecht",
+  "beschreibung" : "Einwohner Geborene (MD1.3) 2013 (OD_Bevölkerung): ab Stadtbezirk mit zugeordneten Ortschaften, Geschlecht"
+}, {
+  "id" : 4685,
+  "name" : "de-sn-dresden-einwohner_geborene_md13_2014_od_bevoelkerung_ab_stadtbezirk_mit_zugeordneten_ortschaften_geschlecht",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_geborene_md13_2014_od_bevoelkerung_ab_stadtbezirk_mit_zugeordneten_ortschaften_geschlecht",
+  "beschreibung" : "Einwohner Geborene (MD1.3) 2014 (OD_Bevölkerung): ab Stadtbezirk mit zugeordneten Ortschaften, Geschlecht"
+}, {
+  "id" : 4687,
+  "name" : "de-sn-dresden-einwohner_geborene_md13_2015_od_bevoelkerung_ab_stadtbezirk_mit_zugeordneten_ortschaften_geschlecht",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_geborene_md13_2015_od_bevoelkerung_ab_stadtbezirk_mit_zugeordneten_ortschaften_geschlecht",
+  "beschreibung" : "Einwohner Geborene (MD1.3) 2015 (OD_Bevölkerung): ab Stadtbezirk mit zugeordneten Ortschaften, Geschlecht"
+}, {
+  "id" : 4689,
+  "name" : "de-sn-dresden-einwohner_geborene_md13_2016_od_bevoelkerung_ab_stadtbezirk_mit_zugeordneten_ortschaften_geschlecht",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_geborene_md13_2016_od_bevoelkerung_ab_stadtbezirk_mit_zugeordneten_ortschaften_geschlecht",
+  "beschreibung" : "Einwohner Geborene (MD1.3) 2016 (OD_Bevölkerung): ab Stadtbezirk mit zugeordneten Ortschaften, Geschlecht"
+}, {
+  "id" : 4691,
+  "name" : "de-sn-dresden-einwohner_geborene_md13_2017_od_bevoelkerung_ab_stadtbezirk_mit_zugeordneten_ortschaften_geschlecht",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_geborene_md13_2017_od_bevoelkerung_ab_stadtbezirk_mit_zugeordneten_ortschaften_geschlecht",
+  "beschreibung" : "Einwohner Geborene (MD1.3) 2017 (OD_Bevölkerung): ab Stadtbezirk mit zugeordneten Ortschaften, Geschlecht"
+}, {
+  "id" : 3514,
+  "name" : "de-sn-dresden-einwohner_gestorbene_md12_1999-2012_ab_stadtteil_geschlecht",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_gestorbene_md12_1999-2012_ab_stadtteil_geschlecht",
+  "beschreibung" : "Einwohner Gestorbene (MD1.2) 1999-2012: ab Stadtteil, Geschlecht"
+}, {
+  "id" : 4174,
+  "name" : "de-sn-dresden-einwohner_gestorbene_md12_2013_ab_stadtteil_geschlecht",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_gestorbene_md12_2013_ab_stadtteil_geschlecht",
+  "beschreibung" : "Einwohner Gestorbene (MD1.2) 2013: ab Stadtteil, Geschlecht"
+}, {
+  "id" : 4322,
+  "name" : "de-sn-dresden-einwohner_gestorbene_md12_2014_ab_stadtteil_geschlecht",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_gestorbene_md12_2014_ab_stadtteil_geschlecht",
+  "beschreibung" : "Einwohner Gestorbene (MD1.2) 2014: ab Stadtteil, Geschlecht"
+}, {
+  "id" : 4637,
+  "name" : "de-sn-dresden-einwohner_gestorbene_md12_2015_ab_stadtteil_geschlecht",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_gestorbene_md12_2015_ab_stadtteil_geschlecht",
+  "beschreibung" : "Einwohner Gestorbene (MD1.2) 2015: ab Stadtteil, Geschlecht"
+}, {
+  "id" : 4639,
+  "name" : "de-sn-dresden-einwohner_gestorbene_md12_2016_ab_stadtteil_geschlecht",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_gestorbene_md12_2016_ab_stadtteil_geschlecht",
+  "beschreibung" : "Einwohner Gestorbene (MD1.2) 2016: ab Stadtteil, Geschlecht"
+}, {
+  "id" : 4657,
+  "name" : "de-sn-dresden-einwohner_gestorbene_md12_2017_ab_stadtteil_geschlecht",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-einwohner_gestorbene_md12_2017_ab_stadtteil_geschlecht",
+  "beschreibung" : "Einwohner Gestorbene (MD1.2) 2017: ab Stadtteil, Geschlecht"
+}, {
+  "id" : 4730,
+  "name" : "de-sn-dresden-fahrzeugbestand_1999ff_fuer_stadtbezirk_mit_zugeordneten_ortschaften",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-fahrzeugbestand_1999ff_fuer_stadtbezirk_mit_zugeordneten_ortschaften",
+  "beschreibung" : "Fahrzeugbestand 1999ff.: für Stadtbezirk mit zugeordneten Ortschaften"
+}, {
+  "id" : 4732,
+  "name" : "de-sn-dresden-fahrzeugbestand_2008ff_nach_umweltplakette_fuer_stadtbezirk_mit_zugeordneten_ortschaften",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-fahrzeugbestand_2008ff_nach_umweltplakette_fuer_stadtbezirk_mit_zugeordneten_ortschaften",
+  "beschreibung" : "Fahrzeugbestand 2008ff.: nach Umweltplakette für Stadtbezirk mit zugeordneten Ortschaften"
+}, {
+  "id" : 4734,
+  "name" : "de-sn-dresden-fahrzeugbestand_2016ff_kraftfahrzeuge_nach_kraftstoff-energiequelle_fuer_stadtbezirk_mit_zugeordneten_ortschaften",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-fahrzeugbestand_2016ff_kraftfahrzeuge_nach_kraftstoff-energiequelle_fuer_stadtbezirk_mit_zugeordneten_ortschaften",
+  "beschreibung" : "Fahrzeugbestand 2016ff.: Kraftfahrzeuge nach Kraftstoff-Energiequelle für Stadtbezirk mit zugeordneten Ortschaften"
+}, {
+  "id" : 1802,
+  "name" : "de-sn-dresden-gebaeude_und_wohnungen_md11_1990ff_ab_stadtteil_baujahr_bauweise_gebaeudeart_gebaeudegroesse",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-gebaeude_und_wohnungen_md11_1990ff_ab_stadtteil_baujahr_bauweise_gebaeudeart_gebaeudegroesse",
+  "beschreibung" : "Gebäude und Wohnungen (MD1.1) 1990ff.: ab Stadtteil, Baujahr, Bauweise, Gebäudeart, Gebäudegröße"
+}, {
+  "id" : 4446,
+  "name" : "de-sn-dresden-gebaeude_und_wohnungen_md131_1999_ff_od_bauen_wohnen_ab_stadtteil_gebaeude_und_wohnungen_nach_raumstruktur",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-gebaeude_und_wohnungen_md131_1999_ff_od_bauen_wohnen_ab_stadtteil_gebaeude_und_wohnungen_nach_raumstruktur",
+  "beschreibung" : "Gebäude und Wohnungen (MD1.3.1) 1999 ff. (OD_Bauen_Wohnen): ab Stadtteil, Gebäude und Wohnungen nach Raumstruktur"
+}, {
+  "id" : 759,
+  "name" : "de-sn-dresden-gebaeude-abriss_md1_1992_-_2017_ab_sb",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-gebaeude-abriss_md1_1992_-_2017_ab_sb",
+  "beschreibung" : "Gebäude-Abriss (MD1) 1992 - 2017: ab SB"
+}, {
+  "id" : 2106,
+  "name" : "de-sn-dresden-gebaeude-leerstand_md3_1999_ff_ab_stadtteil_baujahr_gebaeudeart",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-gebaeude-leerstand_md3_1999_ff_ab_stadtteil_baujahr_gebaeudeart",
+  "beschreibung" : "Gebäude-Leerstand (MD3) 1999 ff.: ab Stadtteil, Baujahr, Gebäudeart"
+}, {
+  "id" : 862,
+  "name" : "de-sn-dresden-kbu_-_einkommen_aequivalenz-_1993ff_stadtraum",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-kbu_-_einkommen_aequivalenz-_1993ff_stadtraum",
+  "beschreibung" : "KBU - Einkommen (Äquivalenz-) 1993ff.: Stadtraum"
+}, {
+  "id" : 1550,
+  "name" : "de-sn-dresden-kbu_-_lebensbedingungen_1993ff_od_umfragen_laermbeeintraechtigungen_nach_stadtraum",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-kbu_-_lebensbedingungen_1993ff_od_umfragen_laermbeeintraechtigungen_nach_stadtraum",
+  "beschreibung" : "KBU - Lebensbedingungen 1993ff. (OD_Umfragen): Lärmbeeinträchtigungen nach Stadtraum"
+}, {
+  "id" : 1088,
+  "name" : "de-sn-dresden-kbu_-_lebensbedingungen_1993ff_gesundheit__wohlbefinden_nach_stadtraum",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-kbu_-_lebensbedingungen_1993ff_gesundheit__wohlbefinden_nach_stadtraum",
+  "beschreibung" : "KBU - Lebensbedingungen 1993ff.: Gesundheit / Wohlbefinden nach Stadtraum"
+}, {
+  "id" : 1092,
+  "name" : "de-sn-dresden-kbu_-_lebensbedingungen_1995ff_persoenliche_wirtschaftliche_lage_nach_stadtraum",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-kbu_-_lebensbedingungen_1995ff_persoenliche_wirtschaftliche_lage_nach_stadtraum",
+  "beschreibung" : "KBU - Lebensbedingungen 1995ff.: Persönliche wirtschaftliche Lage nach Stadtraum"
+}, {
+  "id" : 1094,
+  "name" : "de-sn-dresden-kbu_-_lebensbedingungen_1995ff_verkehrsmittelnutzung_nach_stadtraum",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-kbu_-_lebensbedingungen_1995ff_verkehrsmittelnutzung_nach_stadtraum",
+  "beschreibung" : "KBU - Lebensbedingungen 1995ff.: Verkehrsmittelnutzung nach Stadtraum"
+}, {
+  "id" : 1096,
+  "name" : "de-sn-dresden-kbu_-_lebensbedingungen_1995ff_wohnzufriedenheit_nach_stadtraum",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-kbu_-_lebensbedingungen_1995ff_wohnzufriedenheit_nach_stadtraum",
+  "beschreibung" : "KBU - Lebensbedingungen 1995ff.: Wohnzufriedenheit nach Stadtraum"
+}, {
+  "id" : 1076,
+  "name" : "de-sn-dresden-kbu_-_wohnkosten_1995ff_grundmietenklassen",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-kbu_-_wohnkosten_1995ff_grundmietenklassen",
+  "beschreibung" : "KBU - Wohnkosten 1995ff.: Grundmietenklassen"
+}, {
+  "id" : 1052,
+  "name" : "de-sn-dresden-kbu_-_wohnkosten_1995ff_nach_baujahr",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-kbu_-_wohnkosten_1995ff_nach_baujahr",
+  "beschreibung" : "KBU - Wohnkosten 1995ff.: nach Baujahr"
+}, {
+  "id" : 1054,
+  "name" : "de-sn-dresden-kbu_-_wohnkosten_1995ff_nach_eigentuemer",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-kbu_-_wohnkosten_1995ff_nach_eigentuemer",
+  "beschreibung" : "KBU - Wohnkosten 1995ff.: nach Eigentümer"
+}, {
+  "id" : 1050,
+  "name" : "de-sn-dresden-kbu_-_wohnkosten_1995ff_nach_stadtraum",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-kbu_-_wohnkosten_1995ff_nach_stadtraum",
+  "beschreibung" : "KBU - Wohnkosten 1995ff.: nach Stadtraum"
+}, {
+  "id" : 1068,
+  "name" : "de-sn-dresden-kbu_-_wohnverhaeltnisse_1993ff_art_der_heizenergie_nach_stadtraum",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-kbu_-_wohnverhaeltnisse_1993ff_art_der_heizenergie_nach_stadtraum",
+  "beschreibung" : "KBU - Wohnverhältnisse 1993ff.: Art der Heizenergie nach Stadtraum"
+}, {
+  "id" : 1066,
+  "name" : "de-sn-dresden-kbu_-_wohnverhaeltnisse_1993ff_heizungsart_nach_stadtraum",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-kbu_-_wohnverhaeltnisse_1993ff_heizungsart_nach_stadtraum",
+  "beschreibung" : "KBU - Wohnverhältnisse 1993ff.: Heizungsart nach Stadtraum"
+}, {
+  "id" : 1062,
+  "name" : "de-sn-dresden-kbu_-_wohnverhaeltnisse_1993ff_raumanzahl_nach_wohnflaeche",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-kbu_-_wohnverhaeltnisse_1993ff_raumanzahl_nach_wohnflaeche",
+  "beschreibung" : "KBU - Wohnverhältnisse 1993ff.: Raumanzahl nach Wohnfläche"
+}, {
+  "id" : 1058,
+  "name" : "de-sn-dresden-kbu_-_wohnverhaeltnisse_1993ff_wohneigentum_nach_stadtraum",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-kbu_-_wohnverhaeltnisse_1993ff_wohneigentum_nach_stadtraum",
+  "beschreibung" : "KBU - Wohnverhältnisse 1993ff.: Wohneigentum nach Stadtraum"
+}, {
+  "id" : 1060,
+  "name" : "de-sn-dresden-kbu_-_wohnverhaeltnisse_1993ff_wohnflaeche_nach_haushaltsgroesse",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-kbu_-_wohnverhaeltnisse_1993ff_wohnflaeche_nach_haushaltsgroesse",
+  "beschreibung" : "KBU - Wohnverhältnisse 1993ff.: Wohnfläche nach Haushaltsgröße"
+}, {
+  "id" : 1064,
+  "name" : "de-sn-dresden-kbu_-_wohnverhaeltnisse_1993ff_wohnungsausstattung_nach_stadtraum",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-kbu_-_wohnverhaeltnisse_1993ff_wohnungsausstattung_nach_stadtraum",
+  "beschreibung" : "KBU - Wohnverhältnisse 1993ff.: Wohnungsausstattung nach Stadtraum"
+}, {
+  "id" : 4752,
+  "name" : "de-sn-dresden-kleinraeumige_strukturmerkmale_2018_stand_31122018__fuer_raeumliche_ableitungen_ab_raumbezug_statistischer_bezirk",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-kleinraeumige_strukturmerkmale_2018_stand_31122018__fuer_raeumliche_ableitungen_ab_raumbezug_statistischer_bezirk",
+  "beschreibung" : "Kleinräumige Strukturmerkmale 2018 (Stand 31.12.2018)  für räumliche Ableitungen ab Raumbezug: Statistischer Bezirk"
+}, {
+  "id" : 4735,
+  "name" : "de-sn-dresden-kriminalitaet_ab_stadtteile_2002ff_zahlen_fuer_dd-gesamt_ueber_summenbildung_der_stadtteile_inkl_unbekannt_generieren",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-kriminalitaet_ab_stadtteile_2002ff_zahlen_fuer_dd-gesamt_ueber_summenbildung_der_stadtteile_inkl_unbekannt_generieren",
+  "beschreibung" : "Kriminalität ab Stadtteile 2002ff. (Zahlen für DD-Gesamt über Summenbildung der Stadtteile inkl. \"unbekannt\" generieren)"
+}, {
+  "id" : 4351,
+  "name" : "de-sn-dresden-luftverkehr_md1_2006_ff",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-luftverkehr_md1_2006_ff",
+  "beschreibung" : "Luftverkehr (MD1) 2006 ff."
+}, {
+  "id" : 4661,
+  "name" : "de-sn-dresden-steuerstatistik_dresden_quartale_md1",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-steuerstatistik_dresden_quartale_md1",
+  "beschreibung" : "Steuerstatistik Dresden Quartale (MD1)"
+}, {
+  "id" : 4662,
+  "name" : "de-sn-dresden-steuerstatistik_pro_einwohner_dresden_jahre_md1",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-steuerstatistik_pro_einwohner_dresden_jahre_md1",
+  "beschreibung" : "Steuerstatistik pro Einwohner Dresden Jahre (MD1)"
+}, {
+  "id" : 3278,
+  "name" : "de-sn-dresden-tourismus_nach_beherbergungsstaetten_md_2000ff_endgueltig_jahreswerte",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-tourismus_nach_beherbergungsstaetten_md_2000ff_endgueltig_jahreswerte",
+  "beschreibung" : "Tourismus nach Beherbergungsstätten MD 2000ff. (endgültig, Jahreswerte)"
+}, {
+  "id" : 3286,
+  "name" : "de-sn-dresden-tourismus_nach_beherbergungsstaetten_md_2000ff_vorlaeufig_monatswerte",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-tourismus_nach_beherbergungsstaetten_md_2000ff_vorlaeufig_monatswerte",
+  "beschreibung" : "Tourismus nach Beherbergungsstätten MD 2000ff. (vorläufig, Monatswerte)"
+}, {
+  "id" : 3288,
+  "name" : "de-sn-dresden-tourismus_nach_gaesteherkunft_md_2000ff_endgueltig_jahreswerte",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-tourismus_nach_gaesteherkunft_md_2000ff_endgueltig_jahreswerte",
+  "beschreibung" : "Tourismus nach Gästeherkunft MD 2000ff. (endgültig, Jahreswerte)"
+}, {
+  "id" : 4737,
+  "name" : "de-sn-dresden-tourismus_nach_gaesteherkunft_md_2000ff_vorlaeufig_monatswerte",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-tourismus_nach_gaesteherkunft_md_2000ff_vorlaeufig_monatswerte",
+  "beschreibung" : "Tourismus nach Gästeherkunft MD 2000ff. (vorläufig, Monatswerte)"
+}, {
+  "id" : 4725,
+  "name" : "de-sn-dresden-verarbeitendes_gewerbe_nach_hauptgruppen_wz_08_-_auftragseingaenge_fuer_betriebe_mit_min_50_beschaeftigten",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-verarbeitendes_gewerbe_nach_hauptgruppen_wz_08_-_auftragseingaenge_fuer_betriebe_mit_min_50_beschaeftigten",
+  "beschreibung" : "Verarbeitendes Gewerbe nach Hauptgruppen (WZ 08) - Auftragseingänge für Betriebe mit min. 50 Beschäftigten"
+}, {
+  "id" : 4721,
+  "name" : "de-sn-dresden-verarbeitendes_gewerbe_nach_hauptgruppen_wz_08_-_betriebe_beschaeftigte_entgelte_umsaetze_fuer_betriebe_mit_min_20_beschaeftigten_endgueltige_jahreswerte",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-verarbeitendes_gewerbe_nach_hauptgruppen_wz_08_-_betriebe_beschaeftigte_entgelte_umsaetze_fuer_betriebe_mit_min_20_beschaeftigten_endgueltige_jahreswerte",
+  "beschreibung" : "Verarbeitendes Gewerbe nach Hauptgruppen (WZ 08) - Betriebe, Beschäftigte, Entgelte, Umsätze für Betriebe mit min. 20 Beschäftigten (endgültige Jahreswerte)"
+}, {
+  "id" : 4720,
+  "name" : "de-sn-dresden-verarbeitendes_gewerbe_nach_hauptgruppen_wz_08_-_betriebe_beschaeftigte_entgelte_umsaetze_fuer_betriebe_mit_min_50_beschaeftigten_vorlaeufige_monatswerte",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-verarbeitendes_gewerbe_nach_hauptgruppen_wz_08_-_betriebe_beschaeftigte_entgelte_umsaetze_fuer_betriebe_mit_min_50_beschaeftigten_vorlaeufige_monatswerte",
+  "beschreibung" : "Verarbeitendes Gewerbe nach Hauptgruppen (WZ 08) - Betriebe, Beschäftigte, Entgelte, Umsätze für Betriebe mit min. 50 Beschäftigten (vorläufige Monatswerte)"
+}, {
+  "id" : 4723,
+  "name" : "de-sn-dresden-verarbeitendes_gewerbe_nach_wirtschaftszweigen_wz_08_-_auftragseingaenge_fuer_betriebe_mit_min_50_beschaeftigten",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-verarbeitendes_gewerbe_nach_wirtschaftszweigen_wz_08_-_auftragseingaenge_fuer_betriebe_mit_min_50_beschaeftigten",
+  "beschreibung" : "Verarbeitendes Gewerbe nach Wirtschaftszweigen (WZ 08) - Auftragseingänge für Betriebe mit min. 50 Beschäftigten"
+}, {
+  "id" : 4719,
+  "name" : "de-sn-dresden-verarbeitendes_gewerbe_nach_wirtschaftszweigen_wz_08_-_betriebe_beschaeftigte_entgelte_umsaetze_fuer_betriebe_mit_min_20_beschaeftigten_endgueltige_jahreswerte",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-verarbeitendes_gewerbe_nach_wirtschaftszweigen_wz_08_-_betriebe_beschaeftigte_entgelte_umsaetze_fuer_betriebe_mit_min_20_beschaeftigten_endgueltige_jahreswerte",
+  "beschreibung" : "Verarbeitendes Gewerbe nach Wirtschaftszweigen (WZ 08) - Betriebe, Beschäftigte, Entgelte, Umsätze für Betriebe mit min. 20 Beschäftigten (endgültige Jahreswerte)"
+}, {
+  "id" : 4718,
+  "name" : "de-sn-dresden-verarbeitendes_gewerbe_nach_wirtschaftszweigen_wz_08_-_betriebe_beschaeftigte_entgelte_umsaetze_fuer_betriebe_mit_min_50_beschaeftigten_vorlaeufige_daten",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-verarbeitendes_gewerbe_nach_wirtschaftszweigen_wz_08_-_betriebe_beschaeftigte_entgelte_umsaetze_fuer_betriebe_mit_min_50_beschaeftigten_vorlaeufige_daten",
+  "beschreibung" : "Verarbeitendes Gewerbe nach Wirtschaftszweigen (WZ 08) - Betriebe, Beschäftigte, Entgelte, Umsätze für Betriebe mit min. 50 Beschäftigten (vorläufige Daten)"
+}, {
+  "id" : 4664,
+  "name" : "de-sn-dresden-verkehrsnetze_dresden_1990ff_md1",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-verkehrsnetze_dresden_1990ff_md1",
+  "beschreibung" : "Verkehrsnetze Dresden 1990ff. (MD1)"
+}, {
+  "id" : 4442,
+  "name" : "de-sn-dresden-wahlen_1999_-_2017_ohne_ob-wahlen_od_wahlen_wahlbezirk_stadtteil_stadtraum",
+  "uri" : "http://opendata.dresden.de/duva2ckan/files/de-sn-dresden-wahlen_1999_-_2017_ohne_ob-wahlen_od_wahlen_wahlbezirk_stadtteil_stadtraum",
+  "beschreibung" : "Wahlen 1999 - 2017 (ohne OB-Wahlen, OD_Wahlen): Wahlbezirk, Stadtteil, Stadtraum"
+} ]
