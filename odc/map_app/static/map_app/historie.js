@@ -1,5 +1,6 @@
 let p = L.CRS.EPSG3857.project(L.point(51.050407, 13.737262));
 
+//var styles = {}
 var currentYear = '2018';
 var polygonToStadtraum = {};
 var stadtraumData = {
@@ -152,6 +153,8 @@ function onStadtraumClick(e) {
         let stadtraumName = polygonToStadtraum[e.target._leaflet_id];
         let data = stadtraumData[stadtraumName];
         updateSlider(stadtraumName);
+
+        $('#happiness-amount').val(stadtraumData[stadtraumName]['Wohlbefinden']['default']);
         $('#sidebar').show("slide", { direction: "right" }, 750);
         
 //        popup
@@ -444,13 +447,36 @@ function addStadtteilePrefetched() {
     }
     let min = dataMin(dataCb);
     let max = dataMax(dataCb);
+    let label = $('<label for="happiness-amount">Zufriedenheit</label>');
+    let input = $('<input type="text" id="happiness-amount" readonly style="margin-left: 10px; border:0; color:#f6931f; font-weight:bold;">');
+    $('#sidebar-content').append(label);
+    $('#sidebar-content').append(input);
 
+    let colorTiles = $('<span style="float: right">Color&nbsp;<input type="radio" name="color" id="Wohlbefinden-color" style="margin-left: 10px;"></span>');
+    $('#sidebar-content').append(colorTiles);
+    colorTiles.click((e) => {
+//    let stadtraumName = polygonToStadtraum[e.target._leaflet_id];
+        let defaultStyle = {
+                weight: 1,
+                dashArray: '',
+                fillOpacity: 0.4};
+            for(poly in polygonToStadtraum) {
+                let data = stadtraumData[polygonToStadtraum[poly]];
+                let color = getColor(data['Wohlbefinden']['default'], min, max);
+                let style = Object.assign({color: color}, defaultStyle);
+                map._layers[poly].setStyle(style);
+            }
+    })
+    $('#sidebar-content').append("<br/>");
+    
+    
     let defaultStyle = {
         weight: 1,
         dashArray: '',
         fillOpacity: 0.4};
     for(let key in bounds) {            
         let color = getColor(dataCb(stadtraumData[key]), min, max);
+        stadtraumData[key]['Wohlbefinden']['default'] = normalize(dataCb(stadtraumData[key]), min, max) * 10;
         let style = Object.assign({ color: color}, defaultStyle);
         let polygon = L.polygon(bounds[key], style).addTo(map);
 //
