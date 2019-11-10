@@ -1,0 +1,341 @@
+Jahr,Stadtraum,mean_Wohndauer
+1999,01 StB Altstadt ohne Johannstadt,118.99521433615651
+1999,02 Johannstadt,108.86859699553638
+1999,03 StB Neustadt ohne Leipziger Vorstadt,124.6483443658038
+1999,"04 Leipziger Vorstadt, Pieschen",119.05390511995482
+1999,"05 Mickten, Kaditz, Trachau",118.10642861569578
+1999,06 StB Klotzsche und nördliche OS,125.12352998284022
+1999,07 StB Loschwitz und OS Schönfeld-Weißig,118.76581583066904
+1999,"08 Blasewitz, Striesen",114.01005742611399
+1999,"09 Tolkewitz, Seidnitz, Gruna",111.8135149298541
+1999,10 StB Leuben,116.33982441691826
+1999,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",99.12194428898482
+1999,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",114.30275584002548
+1999,"13 Südvorstadt, Zschertnitz",109.63734140792134
+1999,"14 Mockritz, Coschütz, Plauen",114.0114926617863
+1999,"15 Cotta, Löbtau, Naußlitz, Dölzschen",118.78981140899383
+1999,16 Gorbitz,99.9490573867046
+1999,17 Briesnitz und westliche OS,117.07003322373352
+2000,01 StB Altstadt ohne Johannstadt,114.89330232170506
+2000,02 Johannstadt,110.4542152205085
+2000,03 StB Neustadt ohne Leipziger Vorstadt,115.9831080794895
+2000,"04 Leipziger Vorstadt, Pieschen",114.91354689030578
+2000,"05 Mickten, Kaditz, Trachau",114.84027467014933
+2000,06 StB Klotzsche und nördliche OS,124.76801367771986
+2000,07 StB Loschwitz und OS Schönfeld-Weißig,120.11130168048555
+2000,"08 Blasewitz, Striesen",115.37970731976306
+2000,"09 Tolkewitz, Seidnitz, Gruna",112.61147127610742
+2000,10 StB Leuben,111.58183403021872
+2000,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",100.92508897118108
+2000,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",115.21804433303798
+2000,"13 Südvorstadt, Zschertnitz",111.19046526132104
+2000,"14 Mockritz, Coschütz, Plauen",114.54136047735489
+2000,"15 Cotta, Löbtau, Naußlitz, Dölzschen",118.62899528791007
+2000,16 Gorbitz,99.47222001418596
+2000,17 Briesnitz und westliche OS,115.12596746044119
+2001,01 StB Altstadt ohne Johannstadt,115.86001963648037
+2001,02 Johannstadt,111.19905971292928
+2001,03 StB Neustadt ohne Leipziger Vorstadt,118.16396246219574
+2001,"04 Leipziger Vorstadt, Pieschen",112.88276864386296
+2001,"05 Mickten, Kaditz, Trachau",116.65149125124351
+2001,06 StB Klotzsche und nördliche OS,126.64672838723745
+2001,07 StB Loschwitz und OS Schönfeld-Weißig,120.09020179434133
+2001,"08 Blasewitz, Striesen",116.58958578318739
+2001,"09 Tolkewitz, Seidnitz, Gruna",111.37815379565423
+2001,10 StB Leuben,112.67773367207002
+2001,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",102.20041320759479
+2001,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",116.20983205950263
+2001,"13 Südvorstadt, Zschertnitz",110.97766887569442
+2001,"14 Mockritz, Coschütz, Plauen",115.62655268535855
+2001,"15 Cotta, Löbtau, Naußlitz, Dölzschen",117.65731769542062
+2001,16 Gorbitz,100.19831736346082
+2001,17 Briesnitz und westliche OS,115.66351073637593
+2002,01 StB Altstadt ohne Johannstadt,128.42134879640184
+2002,02 Johannstadt,123.23990922835632
+2002,03 StB Neustadt ohne Leipziger Vorstadt,136.1397711205665
+2002,"04 Leipziger Vorstadt, Pieschen",158.7646160385065
+2002,"05 Mickten, Kaditz, Trachau",115.70983362556136
+2002,06 StB Klotzsche und nördliche OS,132.54176738440938
+2002,07 StB Loschwitz und OS Schönfeld-Weißig,129.12800910239295
+2002,"08 Blasewitz, Striesen",132.73255985193407
+2002,"09 Tolkewitz, Seidnitz, Gruna",116.62894765426203
+2002,10 StB Leuben,116.04245767968587
+2002,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",116.50700304370014
+2002,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",126.48060831618615
+2002,"13 Südvorstadt, Zschertnitz",131.11808895988165
+2002,"14 Mockritz, Coschütz, Plauen",141.37181817314837
+2002,"15 Cotta, Löbtau, Naußlitz, Dölzschen",146.4977352306091
+2002,16 Gorbitz,92.23547275689269
+2002,17 Briesnitz und westliche OS,118.97113378416492
+2003,01 StB Altstadt ohne Johannstadt,119.6273572265872
+2003,02 Johannstadt,116.35682730751456
+2003,03 StB Neustadt ohne Leipziger Vorstadt,130.6229444379741
+2003,"04 Leipziger Vorstadt, Pieschen",127.8495560461638
+2003,"05 Mickten, Kaditz, Trachau",116.7155583940956
+2003,06 StB Klotzsche und nördliche OS,126.14887913428443
+2003,07 StB Loschwitz und OS Schönfeld-Weißig,120.1915967929413
+2003,"08 Blasewitz, Striesen",124.50926991836586
+2003,"09 Tolkewitz, Seidnitz, Gruna",115.33343232949613
+2003,10 StB Leuben,117.07651337422776
+2003,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",107.99812446599327
+2003,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",121.05683414247493
+2003,"13 Südvorstadt, Zschertnitz",110.8521731049522
+2003,"14 Mockritz, Coschütz, Plauen",108.64195627654449
+2003,"15 Cotta, Löbtau, Naußlitz, Dölzschen",118.00477813793513
+2003,16 Gorbitz,102.26196426817194
+2003,17 Briesnitz und westliche OS,119.75941546683735
+2004,01 StB Altstadt ohne Johannstadt,123.21469165376392
+2004,02 Johannstadt,108.11024585804374
+2004,03 StB Neustadt ohne Leipziger Vorstadt,115.0937182907954
+2004,"04 Leipziger Vorstadt, Pieschen",115.49127148197533
+2004,"05 Mickten, Kaditz, Trachau",119.46179776475844
+2004,06 StB Klotzsche und nördliche OS,125.26356309127027
+2004,07 StB Loschwitz und OS Schönfeld-Weißig,120.08056243670069
+2004,"08 Blasewitz, Striesen",121.37780109700692
+2004,"09 Tolkewitz, Seidnitz, Gruna",115.08171348066492
+2004,10 StB Leuben,114.83272498681511
+2004,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",101.83273024840317
+2004,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",116.93773226227007
+2004,"13 Südvorstadt, Zschertnitz",108.89270216012197
+2004,"14 Mockritz, Coschütz, Plauen",111.29897723428162
+2004,"15 Cotta, Löbtau, Naußlitz, Dölzschen",116.83247666403592
+2004,16 Gorbitz,101.8548263608722
+2004,17 Briesnitz und westliche OS,123.38101083397119
+2005,01 StB Altstadt ohne Johannstadt,125.32719006458625
+2005,02 Johannstadt,118.51204515050563
+2005,03 StB Neustadt ohne Leipziger Vorstadt,117.93855422846487
+2005,"04 Leipziger Vorstadt, Pieschen",108.62617014666267
+2005,"05 Mickten, Kaditz, Trachau",118.46935571556357
+2005,06 StB Klotzsche und nördliche OS,124.15283437013984
+2005,07 StB Loschwitz und OS Schönfeld-Weißig,119.53144944607855
+2005,"08 Blasewitz, Striesen",122.34980696041976
+2005,"09 Tolkewitz, Seidnitz, Gruna",117.08406757012358
+2005,10 StB Leuben,116.66681724771372
+2005,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",104.49426525994149
+2005,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",121.32018797895047
+2005,"13 Südvorstadt, Zschertnitz",110.46202980930218
+2005,"14 Mockritz, Coschütz, Plauen",110.17078629309299
+2005,"15 Cotta, Löbtau, Naußlitz, Dölzschen",118.25976462288679
+2005,16 Gorbitz,100.10086321089744
+2005,17 Briesnitz und westliche OS,123.83849682769998
+2006,01 StB Altstadt ohne Johannstadt,126.49813143358888
+2006,02 Johannstadt,117.29909453407852
+2006,03 StB Neustadt ohne Leipziger Vorstadt,119.22878251689205
+2006,"04 Leipziger Vorstadt, Pieschen",107.27287243084244
+2006,"05 Mickten, Kaditz, Trachau",119.47051493825478
+2006,06 StB Klotzsche und nördliche OS,118.58440596568111
+2006,07 StB Loschwitz und OS Schönfeld-Weißig,121.53994620397003
+2006,"08 Blasewitz, Striesen",124.14139758761387
+2006,"09 Tolkewitz, Seidnitz, Gruna",115.11762425162003
+2006,10 StB Leuben,117.88383417133362
+2006,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",100.45192702110374
+2006,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",122.08033325947486
+2006,"13 Südvorstadt, Zschertnitz",112.15907481162164
+2006,"14 Mockritz, Coschütz, Plauen",103.6454613541148
+2006,"15 Cotta, Löbtau, Naußlitz, Dölzschen",116.72386182687164
+2006,16 Gorbitz,102.21521748603914
+2006,17 Briesnitz und westliche OS,119.9464404516129
+2007,01 StB Altstadt ohne Johannstadt,125.39081276723402
+2007,02 Johannstadt,118.15408278702539
+2007,03 StB Neustadt ohne Leipziger Vorstadt,118.0244330322101
+2007,"04 Leipziger Vorstadt, Pieschen",116.12222760328473
+2007,"05 Mickten, Kaditz, Trachau",120.27248011873866
+2007,06 StB Klotzsche und nördliche OS,117.44282044692552
+2007,07 StB Loschwitz und OS Schönfeld-Weißig,122.70799793365909
+2007,"08 Blasewitz, Striesen",125.9994985945607
+2007,"09 Tolkewitz, Seidnitz, Gruna",116.50781791135863
+2007,10 StB Leuben,119.39672114950338
+2007,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",101.81371361895617
+2007,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",120.72682242712494
+2007,"13 Südvorstadt, Zschertnitz",104.12013926243222
+2007,"14 Mockritz, Coschütz, Plauen",112.25953237232677
+2007,"15 Cotta, Löbtau, Naußlitz, Dölzschen",117.27540862770245
+2007,16 Gorbitz,102.77788126503454
+2007,17 Briesnitz und westliche OS,116.2650960207064
+2008,01 StB Altstadt ohne Johannstadt,124.2982217566568
+2008,02 Johannstadt,109.41839731119822
+2008,03 StB Neustadt ohne Leipziger Vorstadt,118.5335672911247
+2008,"04 Leipziger Vorstadt, Pieschen",117.26065135582262
+2008,"05 Mickten, Kaditz, Trachau",121.38175404567177
+2008,06 StB Klotzsche und nördliche OS,117.99205292940724
+2008,07 StB Loschwitz und OS Schönfeld-Weißig,124.33952849900739
+2008,"08 Blasewitz, Striesen",123.87070048238466
+2008,"09 Tolkewitz, Seidnitz, Gruna",117.9134638694208
+2008,10 StB Leuben,121.31812189201717
+2008,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",106.91202473038118
+2008,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",122.95879021099783
+2008,"13 Südvorstadt, Zschertnitz",105.8199584199962
+2008,"14 Mockritz, Coschütz, Plauen",113.72064099551214
+2008,"15 Cotta, Löbtau, Naußlitz, Dölzschen",116.5698594432122
+2008,16 Gorbitz,101.77319076945444
+2008,17 Briesnitz und westliche OS,119.6477038213324
+2009,01 StB Altstadt ohne Johannstadt,122.63995027919542
+2009,02 Johannstadt,118.69217488463119
+2009,03 StB Neustadt ohne Leipziger Vorstadt,120.120081965506
+2009,"04 Leipziger Vorstadt, Pieschen",118.53107776789261
+2009,"05 Mickten, Kaditz, Trachau",121.83538254094077
+2009,06 StB Klotzsche und nördliche OS,118.91307753475463
+2009,07 StB Loschwitz und OS Schönfeld-Weißig,124.30183183983866
+2009,"08 Blasewitz, Striesen",123.42955293506974
+2009,"09 Tolkewitz, Seidnitz, Gruna",117.82666692556138
+2009,10 StB Leuben,121.93230566605024
+2009,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",107.44031415613813
+2009,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",123.4559619904458
+2009,"13 Südvorstadt, Zschertnitz",115.13619115364058
+2009,"14 Mockritz, Coschütz, Plauen",115.46951674065946
+2009,"15 Cotta, Löbtau, Naußlitz, Dölzschen",119.67586640515884
+2009,16 Gorbitz,102.55076507017812
+2009,17 Briesnitz und westliche OS,122.07883631221411
+2010,01 StB Altstadt ohne Johannstadt,121.9792847949401
+2010,02 Johannstadt,119.60025572800335
+2010,03 StB Neustadt ohne Leipziger Vorstadt,115.92047185933204
+2010,"04 Leipziger Vorstadt, Pieschen",119.50478901720913
+2010,"05 Mickten, Kaditz, Trachau",122.41212725656506
+2010,06 StB Klotzsche und nördliche OS,118.522009588422
+2010,07 StB Loschwitz und OS Schönfeld-Weißig,125.75340333569604
+2010,"08 Blasewitz, Striesen",122.71154708307029
+2010,"09 Tolkewitz, Seidnitz, Gruna",118.87431421161546
+2010,10 StB Leuben,119.98964675798935
+2010,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",108.75170483772416
+2010,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",122.97384013638943
+2010,"13 Südvorstadt, Zschertnitz",113.12850421645034
+2010,"14 Mockritz, Coschütz, Plauen",112.72447227364829
+2010,"15 Cotta, Löbtau, Naußlitz, Dölzschen",118.82057020357517
+2010,16 Gorbitz,104.23841559473574
+2010,17 Briesnitz und westliche OS,120.19407477540331
+2011,01 StB Altstadt ohne Johannstadt,121.92107525819159
+2011,02 Johannstadt,121.89035121557258
+2011,03 StB Neustadt ohne Leipziger Vorstadt,113.48107514616997
+2011,"04 Leipziger Vorstadt, Pieschen",119.30547189574247
+2011,"05 Mickten, Kaditz, Trachau",123.82032496363256
+2011,06 StB Klotzsche und nördliche OS,120.99901099175982
+2011,07 StB Loschwitz und OS Schönfeld-Weißig,124.68689349830491
+2011,"08 Blasewitz, Striesen",121.04066906730809
+2011,"09 Tolkewitz, Seidnitz, Gruna",121.06340123892939
+2011,10 StB Leuben,119.85609795770434
+2011,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",110.88656393962857
+2011,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",121.12815955642368
+2011,"13 Südvorstadt, Zschertnitz",114.45884137376599
+2011,"14 Mockritz, Coschütz, Plauen",112.52883310694101
+2011,"15 Cotta, Löbtau, Naußlitz, Dölzschen",121.46135324341431
+2011,16 Gorbitz,104.87777638188402
+2011,17 Briesnitz und westliche OS,123.53050343769824
+2012,01 StB Altstadt ohne Johannstadt,122.56557379809398
+2012,02 Johannstadt,122.51049792174967
+2012,03 StB Neustadt ohne Leipziger Vorstadt,115.67217295631917
+2012,"04 Leipziger Vorstadt, Pieschen",118.45658860542672
+2012,"05 Mickten, Kaditz, Trachau",122.90301162199596
+2012,06 StB Klotzsche und nördliche OS,122.40418425170678
+2012,07 StB Loschwitz und OS Schönfeld-Weißig,126.44667778414684
+2012,"08 Blasewitz, Striesen",122.36471202246479
+2012,"09 Tolkewitz, Seidnitz, Gruna",122.69551065186094
+2012,10 StB Leuben,121.28710332413253
+2012,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",113.52659548931574
+2012,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",123.88601324025272
+2012,"13 Südvorstadt, Zschertnitz",118.68670488380967
+2012,"14 Mockritz, Coschütz, Plauen",112.46939498423195
+2012,"15 Cotta, Löbtau, Naußlitz, Dölzschen",122.73458020956515
+2012,16 Gorbitz,106.08774465088699
+2012,17 Briesnitz und westliche OS,121.9810332885491
+2013,01 StB Altstadt ohne Johannstadt,123.99911558752548
+2013,02 Johannstadt,124.53368218682662
+2013,03 StB Neustadt ohne Leipziger Vorstadt,118.96614549981997
+2013,"04 Leipziger Vorstadt, Pieschen",118.17108676968915
+2013,"05 Mickten, Kaditz, Trachau",122.54822673848798
+2013,06 StB Klotzsche und nördliche OS,123.73034823075172
+2013,07 StB Loschwitz und OS Schönfeld-Weißig,125.43979373813158
+2013,"08 Blasewitz, Striesen",125.10729289167556
+2013,"09 Tolkewitz, Seidnitz, Gruna",125.07137202122601
+2013,10 StB Leuben,120.48495468320972
+2013,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",115.50283776069938
+2013,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",123.92853923849526
+2013,"13 Südvorstadt, Zschertnitz",117.1578899288716
+2013,"14 Mockritz, Coschütz, Plauen",115.07595361455462
+2013,"15 Cotta, Löbtau, Naußlitz, Dölzschen",121.60504762337196
+2013,16 Gorbitz,107.96303905586414
+2013,17 Briesnitz und westliche OS,121.29301219256705
+2014,01 StB Altstadt ohne Johannstadt,123.70419471151313
+2014,02 Johannstadt,126.0010959964652
+2014,03 StB Neustadt ohne Leipziger Vorstadt,118.14377092439463
+2014,"04 Leipziger Vorstadt, Pieschen",117.45936389374071
+2014,"05 Mickten, Kaditz, Trachau",124.34279951783418
+2014,06 StB Klotzsche und nördliche OS,122.91431228042633
+2014,07 StB Loschwitz und OS Schönfeld-Weißig,124.40818459728003
+2014,"08 Blasewitz, Striesen",124.44060586122282
+2014,"09 Tolkewitz, Seidnitz, Gruna",126.23744684681047
+2014,10 StB Leuben,121.27805641943893
+2014,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",117.89152924000352
+2014,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",125.22967611666947
+2014,"13 Südvorstadt, Zschertnitz",118.42643420854381
+2014,"14 Mockritz, Coschütz, Plauen",117.06838521516029
+2014,"15 Cotta, Löbtau, Naußlitz, Dölzschen",121.21973934559234
+2014,16 Gorbitz,108.87516923349226
+2014,17 Briesnitz und westliche OS,120.44970060822097
+2015,01 StB Altstadt ohne Johannstadt,123.26910243730502
+2015,02 Johannstadt,126.49289837160791
+2015,03 StB Neustadt ohne Leipziger Vorstadt,115.66961238068403
+2015,"04 Leipziger Vorstadt, Pieschen",117.30042926065569
+2015,"05 Mickten, Kaditz, Trachau",123.49233674251076
+2015,06 StB Klotzsche und nördliche OS,120.61944390963002
+2015,07 StB Loschwitz und OS Schönfeld-Weißig,119.88112196246294
+2015,"08 Blasewitz, Striesen",121.69051282364558
+2015,"09 Tolkewitz, Seidnitz, Gruna",128.53177263495866
+2015,10 StB Leuben,121.25455449044664
+2015,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",119.30435867044294
+2015,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",124.94944832453466
+2015,"13 Südvorstadt, Zschertnitz",120.49816539072351
+2015,"14 Mockritz, Coschütz, Plauen",115.83818767443135
+2015,"15 Cotta, Löbtau, Naußlitz, Dölzschen",117.32303394399567
+2015,16 Gorbitz,108.65548768651178
+2015,17 Briesnitz und westliche OS,119.61747675612266
+2016,01 StB Altstadt ohne Johannstadt,121.20677121982983
+2016,02 Johannstadt,124.92176910452493
+2016,03 StB Neustadt ohne Leipziger Vorstadt,115.442704567036
+2016,"04 Leipziger Vorstadt, Pieschen",115.44520541964931
+2016,"05 Mickten, Kaditz, Trachau",123.09493130263559
+2016,06 StB Klotzsche und nördliche OS,121.2090419980276
+2016,07 StB Loschwitz und OS Schönfeld-Weißig,119.0528066083616
+2016,"08 Blasewitz, Striesen",120.60529775030284
+2016,"09 Tolkewitz, Seidnitz, Gruna",125.12305833531285
+2016,10 StB Leuben,120.63882797433892
+2016,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",118.56922043684023
+2016,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",119.6148471856486
+2016,"13 Südvorstadt, Zschertnitz",120.76009391316701
+2016,"14 Mockritz, Coschütz, Plauen",116.91153521372722
+2016,"15 Cotta, Löbtau, Naußlitz, Dölzschen",116.45933289195017
+2016,16 Gorbitz,109.61943765259724
+2016,17 Briesnitz und westliche OS,118.9160333863913
+2017,01 StB Altstadt ohne Johannstadt,121.15041638518461
+2017,02 Johannstadt,123.8733172592246
+2017,03 StB Neustadt ohne Leipziger Vorstadt,114.96924960553294
+2017,"04 Leipziger Vorstadt, Pieschen",111.27330552409313
+2017,"05 Mickten, Kaditz, Trachau",122.00443245656243
+2017,06 StB Klotzsche und nördliche OS,121.96511128214559
+2017,07 StB Loschwitz und OS Schönfeld-Weißig,118.14141003414544
+2017,"08 Blasewitz, Striesen",119.1206558862898
+2017,"09 Tolkewitz, Seidnitz, Gruna",123.24098887713531
+2017,10 StB Leuben,120.9963041900041
+2017,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",117.04769226461104
+2017,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",116.96069990703513
+2017,"13 Südvorstadt, Zschertnitz",119.83182475140221
+2017,"14 Mockritz, Coschütz, Plauen",114.74682145258733
+2017,"15 Cotta, Löbtau, Naußlitz, Dölzschen",113.49838101610612
+2017,16 Gorbitz,110.55501179167022
+2017,17 Briesnitz und westliche OS,117.13576848246726
+2018,01 StB Altstadt ohne Johannstadt,118.92323298487618
+2018,02 Johannstadt,122.78398332151836
+2018,03 StB Neustadt ohne Leipziger Vorstadt,110.41715557869577
+2018,"04 Leipziger Vorstadt, Pieschen",110.29803468500175
+2018,"05 Mickten, Kaditz, Trachau",120.06193194273806
+2018,06 StB Klotzsche und nördliche OS,121.77512394344505
+2018,07 StB Loschwitz und OS Schönfeld-Weißig,117.50094858032854
+2018,"08 Blasewitz, Striesen",117.44141522024616
+2018,"09 Tolkewitz, Seidnitz, Gruna",123.61336849050959
+2018,10 StB Leuben,120.96944365912698
+2018,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",116.27204248570489
+2018,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",115.5943671295776
+2018,"13 Südvorstadt, Zschertnitz",118.50827757611135
+2018,"14 Mockritz, Coschütz, Plauen",114.41167716823755
+2018,"15 Cotta, Löbtau, Naußlitz, Dölzschen",112.82311726924634
+2018,16 Gorbitz,111.93716858739485
+2018,17 Briesnitz und westliche OS,116.72546958987033

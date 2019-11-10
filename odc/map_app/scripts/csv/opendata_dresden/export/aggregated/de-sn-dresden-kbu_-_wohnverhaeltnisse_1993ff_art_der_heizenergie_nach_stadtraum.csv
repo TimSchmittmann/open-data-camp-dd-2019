@@ -1,0 +1,1081 @@
+,Jahr,Stadtraum,Heizenergie,Anteil in %
+0,1993,01 StB Altstadt ohne Johannstadt,Kohle,"85,2"
+1,1993,01 StB Altstadt ohne Johannstadt,Gas,"4,8"
+2,1993,01 StB Altstadt ohne Johannstadt,Öl,"7,7"
+3,1993,01 StB Altstadt ohne Johannstadt,Strom,"2,4"
+4,1993,01 StB Altstadt ohne Johannstadt,sonstige,0
+5,1993,02 Johannstadt,Kohle,"85,1"
+6,1993,02 Johannstadt,Gas,"6,8"
+7,1993,02 Johannstadt,Öl,"2,6"
+8,1993,02 Johannstadt,Strom,"5,5"
+9,1993,02 Johannstadt,sonstige,0
+10,1993,03 StB Neustadt ohne Leipziger Vorstadt,Kohle,"81,8"
+11,1993,03 StB Neustadt ohne Leipziger Vorstadt,Gas,10
+12,1993,03 StB Neustadt ohne Leipziger Vorstadt,Öl,"8,2"
+13,1993,03 StB Neustadt ohne Leipziger Vorstadt,Strom,0
+14,1993,03 StB Neustadt ohne Leipziger Vorstadt,sonstige,0
+15,1993,"04 Leipziger Vorstadt, Pieschen",Kohle,"85,9"
+16,1993,"04 Leipziger Vorstadt, Pieschen",Gas,"9,2"
+17,1993,"04 Leipziger Vorstadt, Pieschen",Öl,"4,4"
+18,1993,"04 Leipziger Vorstadt, Pieschen",Strom,"0,5"
+19,1993,"04 Leipziger Vorstadt, Pieschen",sonstige,0
+20,1993,"05 Mickten, Kaditz, Trachau",Kohle,"78,1"
+21,1993,"05 Mickten, Kaditz, Trachau",Gas,"12,5"
+22,1993,"05 Mickten, Kaditz, Trachau",Öl,6
+23,1993,"05 Mickten, Kaditz, Trachau",Strom,"1,3"
+24,1993,"05 Mickten, Kaditz, Trachau",sonstige,"2,2"
+25,1993,06 StB Klotzsche und nördliche OS,Kohle,"52,2"
+26,1993,06 StB Klotzsche und nördliche OS,Gas,"30,8"
+27,1993,06 StB Klotzsche und nördliche OS,Öl,"14,4"
+28,1993,06 StB Klotzsche und nördliche OS,Strom,"2,7"
+29,1993,06 StB Klotzsche und nördliche OS,sonstige,0
+30,1993,07 StB Loschwitz und OS Schönfeld-Weißig,Kohle,"56,2"
+31,1993,07 StB Loschwitz und OS Schönfeld-Weißig,Gas,"31,2"
+32,1993,07 StB Loschwitz und OS Schönfeld-Weißig,Öl,"11,6"
+33,1993,07 StB Loschwitz und OS Schönfeld-Weißig,Strom,1
+34,1993,07 StB Loschwitz und OS Schönfeld-Weißig,sonstige,0
+35,1993,"08 Blasewitz, Striesen",Kohle,"77,8"
+36,1993,"08 Blasewitz, Striesen",Gas,"14,5"
+37,1993,"08 Blasewitz, Striesen",Öl,"4,2"
+38,1993,"08 Blasewitz, Striesen",Strom,"3,6"
+39,1993,"08 Blasewitz, Striesen",sonstige,0
+40,1993,"09 Tolkewitz, Seidnitz, Gruna",Kohle,73
+41,1993,"09 Tolkewitz, Seidnitz, Gruna",Gas,"23,2"
+42,1993,"09 Tolkewitz, Seidnitz, Gruna",Öl,1
+43,1993,"09 Tolkewitz, Seidnitz, Gruna",Strom,"0,6"
+44,1993,"09 Tolkewitz, Seidnitz, Gruna",sonstige,"2,2"
+45,1993,10 StB Leuben,Kohle,69
+46,1993,10 StB Leuben,Gas,"25,4"
+47,1993,10 StB Leuben,Öl,"4,1"
+48,1993,10 StB Leuben,Strom,"1,5"
+49,1993,10 StB Leuben,sonstige,0
+50,1993,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Kohle,"45,1"
+51,1993,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Gas,"38,9"
+52,1993,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Öl,0
+53,1993,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Strom,16
+54,1993,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",sonstige,0
+55,1993,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Kohle,"56,7"
+56,1993,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Gas,"36,7"
+57,1993,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Öl,"5,1"
+58,1993,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Strom,"0,6"
+59,1993,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",sonstige,"0,8"
+60,1993,"13 Südvorstadt, Zschertnitz",Kohle,"70,3"
+61,1993,"13 Südvorstadt, Zschertnitz",Gas,"25,8"
+62,1993,"13 Südvorstadt, Zschertnitz",Öl,"1,7"
+63,1993,"13 Südvorstadt, Zschertnitz",Strom,"1,2"
+64,1993,"13 Südvorstadt, Zschertnitz",sonstige,1
+65,1993,"14 Mockritz, Coschütz, Plauen",Kohle,"59,2"
+66,1993,"14 Mockritz, Coschütz, Plauen",Gas,28
+67,1993,"14 Mockritz, Coschütz, Plauen",Öl,"7,5"
+68,1993,"14 Mockritz, Coschütz, Plauen",Strom,"5,3"
+69,1993,"14 Mockritz, Coschütz, Plauen",sonstige,0
+70,1993,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Kohle,"80,5"
+71,1993,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Gas,12
+72,1993,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Öl,"6,1"
+73,1993,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Strom,"0,5"
+74,1993,"15 Cotta, Löbtau, Naußlitz, Dölzschen",sonstige,"0,9"
+75,1993,16 Gorbitz,Kohle,0
+76,1993,16 Gorbitz,Gas,0
+77,1993,16 Gorbitz,Öl,0
+78,1993,16 Gorbitz,Strom,0
+79,1993,16 Gorbitz,sonstige,0
+80,1993,17 Briesnitz und westliche OS,Kohle,"70,8"
+81,1993,17 Briesnitz und westliche OS,Gas,"22,2"
+82,1993,17 Briesnitz und westliche OS,Öl,7
+83,1993,17 Briesnitz und westliche OS,Strom,0
+84,1993,17 Briesnitz und westliche OS,sonstige,0
+85,1993,18 Dresden gesamt,Kohle,"72,4"
+86,1993,18 Dresden gesamt,Gas,"19,4"
+87,1993,18 Dresden gesamt,Öl,"5,8"
+88,1993,18 Dresden gesamt,Strom,"1,8"
+89,1993,18 Dresden gesamt,sonstige,"0,7"
+90,1995,01 StB Altstadt ohne Johannstadt,Kohle,54
+91,1995,01 StB Altstadt ohne Johannstadt,Gas,"28,5"
+92,1995,01 StB Altstadt ohne Johannstadt,Öl,0
+93,1995,01 StB Altstadt ohne Johannstadt,Strom,"9,8"
+94,1995,01 StB Altstadt ohne Johannstadt,sonstige,"7,8"
+95,1995,02 Johannstadt,Kohle,"74,8"
+96,1995,02 Johannstadt,Gas,16
+97,1995,02 Johannstadt,Öl,0
+98,1995,02 Johannstadt,Strom,5
+99,1995,02 Johannstadt,sonstige,"4,2"
+100,1995,03 StB Neustadt ohne Leipziger Vorstadt,Kohle,"72,9"
+101,1995,03 StB Neustadt ohne Leipziger Vorstadt,Gas,"22,4"
+102,1995,03 StB Neustadt ohne Leipziger Vorstadt,Öl,"4,7"
+103,1995,03 StB Neustadt ohne Leipziger Vorstadt,Strom,0
+104,1995,03 StB Neustadt ohne Leipziger Vorstadt,sonstige,0
+105,1995,"04 Leipziger Vorstadt, Pieschen",Kohle,"86,7"
+106,1995,"04 Leipziger Vorstadt, Pieschen",Gas,"9,7"
+107,1995,"04 Leipziger Vorstadt, Pieschen",Öl,"1,5"
+108,1995,"04 Leipziger Vorstadt, Pieschen",Strom,"1,1"
+109,1995,"04 Leipziger Vorstadt, Pieschen",sonstige,"1,1"
+110,1995,"05 Mickten, Kaditz, Trachau",Kohle,"62,1"
+111,1995,"05 Mickten, Kaditz, Trachau",Gas,"31,8"
+112,1995,"05 Mickten, Kaditz, Trachau",Öl,"5,5"
+113,1995,"05 Mickten, Kaditz, Trachau",Strom,"0,5"
+114,1995,"05 Mickten, Kaditz, Trachau",sonstige,0
+115,1995,06 StB Klotzsche und nördliche OS,Kohle,37
+116,1995,06 StB Klotzsche und nördliche OS,Gas,"39,5"
+117,1995,06 StB Klotzsche und nördliche OS,Öl,"18,1"
+118,1995,06 StB Klotzsche und nördliche OS,Strom,"5,4"
+119,1995,06 StB Klotzsche und nördliche OS,sonstige,0
+120,1995,07 StB Loschwitz und OS Schönfeld-Weißig,Kohle,"43,1"
+121,1995,07 StB Loschwitz und OS Schönfeld-Weißig,Gas,"36,7"
+122,1995,07 StB Loschwitz und OS Schönfeld-Weißig,Öl,17
+123,1995,07 StB Loschwitz und OS Schönfeld-Weißig,Strom,"3,2"
+124,1995,07 StB Loschwitz und OS Schönfeld-Weißig,sonstige,0
+125,1995,"08 Blasewitz, Striesen",Kohle,"66,5"
+126,1995,"08 Blasewitz, Striesen",Gas,"28,4"
+127,1995,"08 Blasewitz, Striesen",Öl,"2,4"
+128,1995,"08 Blasewitz, Striesen",Strom,"2,6"
+129,1995,"08 Blasewitz, Striesen",sonstige,0
+130,1995,"09 Tolkewitz, Seidnitz, Gruna",Kohle,"74,2"
+131,1995,"09 Tolkewitz, Seidnitz, Gruna",Gas,"20,2"
+132,1995,"09 Tolkewitz, Seidnitz, Gruna",Öl,"1,7"
+133,1995,"09 Tolkewitz, Seidnitz, Gruna",Strom,"3,9"
+134,1995,"09 Tolkewitz, Seidnitz, Gruna",sonstige,0
+135,1995,10 StB Leuben,Kohle,"54,9"
+136,1995,10 StB Leuben,Gas,"34,3"
+137,1995,10 StB Leuben,Öl,"5,6"
+138,1995,10 StB Leuben,Strom,"4,7"
+139,1995,10 StB Leuben,sonstige,"0,5"
+140,1995,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Kohle,"49,9"
+141,1995,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Gas,46
+142,1995,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Öl,0
+143,1995,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Strom,2
+144,1995,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",sonstige,"2,1"
+145,1995,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Kohle,"35,3"
+146,1995,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Gas,"50,7"
+147,1995,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Öl,"11,3"
+148,1995,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Strom,"2,7"
+149,1995,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",sonstige,0
+150,1995,"13 Südvorstadt, Zschertnitz",Kohle,"61,6"
+151,1995,"13 Südvorstadt, Zschertnitz",Gas,"30,5"
+152,1995,"13 Südvorstadt, Zschertnitz",Öl,"4,3"
+153,1995,"13 Südvorstadt, Zschertnitz",Strom,"3,6"
+154,1995,"13 Südvorstadt, Zschertnitz",sonstige,0
+155,1995,"14 Mockritz, Coschütz, Plauen",Kohle,"38,8"
+156,1995,"14 Mockritz, Coschütz, Plauen",Gas,"44,3"
+157,1995,"14 Mockritz, Coschütz, Plauen",Öl,11
+158,1995,"14 Mockritz, Coschütz, Plauen",Strom,"2,4"
+159,1995,"14 Mockritz, Coschütz, Plauen",sonstige,"3,5"
+160,1995,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Kohle,71
+161,1995,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Gas,"20,5"
+162,1995,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Öl,"7,3"
+163,1995,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Strom,"1,2"
+164,1995,"15 Cotta, Löbtau, Naußlitz, Dölzschen",sonstige,0
+165,1995,16 Gorbitz,Kohle,0
+166,1995,16 Gorbitz,Gas,0
+167,1995,16 Gorbitz,Öl,0
+168,1995,16 Gorbitz,Strom,0
+169,1995,16 Gorbitz,sonstige,0
+170,1995,17 Briesnitz und westliche OS,Kohle,"48,7"
+171,1995,17 Briesnitz und westliche OS,Gas,"47,6"
+172,1995,17 Briesnitz und westliche OS,Öl,"1,6"
+173,1995,17 Briesnitz und westliche OS,Strom,"2,1"
+174,1995,17 Briesnitz und westliche OS,sonstige,0
+175,1995,18 Dresden gesamt,Kohle,"61,2"
+176,1995,18 Dresden gesamt,Gas,"29,2"
+177,1995,18 Dresden gesamt,Öl,"6,2"
+178,1995,18 Dresden gesamt,Strom,"2,7"
+179,1995,18 Dresden gesamt,sonstige,"0,7"
+180,1996,01 StB Altstadt ohne Johannstadt,Kohle,"51,3"
+181,1996,01 StB Altstadt ohne Johannstadt,Gas,"25,7"
+182,1996,01 StB Altstadt ohne Johannstadt,Öl,"14,1"
+183,1996,01 StB Altstadt ohne Johannstadt,Strom,"4,4"
+184,1996,01 StB Altstadt ohne Johannstadt,sonstige,"4,4"
+185,1996,02 Johannstadt,Kohle,"77,9"
+186,1996,02 Johannstadt,Gas,10
+187,1996,02 Johannstadt,Öl,"2,7"
+188,1996,02 Johannstadt,Strom,"9,4"
+189,1996,02 Johannstadt,sonstige,0
+190,1996,03 StB Neustadt ohne Leipziger Vorstadt,Kohle,66
+191,1996,03 StB Neustadt ohne Leipziger Vorstadt,Gas,"27,1"
+192,1996,03 StB Neustadt ohne Leipziger Vorstadt,Öl,"2,4"
+193,1996,03 StB Neustadt ohne Leipziger Vorstadt,Strom,"4,6"
+194,1996,03 StB Neustadt ohne Leipziger Vorstadt,sonstige,0
+195,1996,"04 Leipziger Vorstadt, Pieschen",Kohle,"54,5"
+196,1996,"04 Leipziger Vorstadt, Pieschen",Gas,"39,7"
+197,1996,"04 Leipziger Vorstadt, Pieschen",Öl,"1,9"
+198,1996,"04 Leipziger Vorstadt, Pieschen",Strom,"3,9"
+199,1996,"04 Leipziger Vorstadt, Pieschen",sonstige,0
+200,1996,"05 Mickten, Kaditz, Trachau",Kohle,46
+201,1996,"05 Mickten, Kaditz, Trachau",Gas,"41,4"
+202,1996,"05 Mickten, Kaditz, Trachau",Öl,"8,2"
+203,1996,"05 Mickten, Kaditz, Trachau",Strom,"3,1"
+204,1996,"05 Mickten, Kaditz, Trachau",sonstige,"1,3"
+205,1996,06 StB Klotzsche und nördliche OS,Kohle,"19,8"
+206,1996,06 StB Klotzsche und nördliche OS,Gas,"53,7"
+207,1996,06 StB Klotzsche und nördliche OS,Öl,"22,5"
+208,1996,06 StB Klotzsche und nördliche OS,Strom,"4,1"
+209,1996,06 StB Klotzsche und nördliche OS,sonstige,0
+210,1996,07 StB Loschwitz und OS Schönfeld-Weißig,Kohle,"33,5"
+211,1996,07 StB Loschwitz und OS Schönfeld-Weißig,Gas,"53,7"
+212,1996,07 StB Loschwitz und OS Schönfeld-Weißig,Öl,"10,4"
+213,1996,07 StB Loschwitz und OS Schönfeld-Weißig,Strom,"2,4"
+214,1996,07 StB Loschwitz und OS Schönfeld-Weißig,sonstige,0
+215,1996,"08 Blasewitz, Striesen",Kohle,48
+216,1996,"08 Blasewitz, Striesen",Gas,"42,9"
+217,1996,"08 Blasewitz, Striesen",Öl,"4,9"
+218,1996,"08 Blasewitz, Striesen",Strom,"4,2"
+219,1996,"08 Blasewitz, Striesen",sonstige,0
+220,1996,"09 Tolkewitz, Seidnitz, Gruna",Kohle,"54,2"
+221,1996,"09 Tolkewitz, Seidnitz, Gruna",Gas,"39,2"
+222,1996,"09 Tolkewitz, Seidnitz, Gruna",Öl,"2,2"
+223,1996,"09 Tolkewitz, Seidnitz, Gruna",Strom,"4,4"
+224,1996,"09 Tolkewitz, Seidnitz, Gruna",sonstige,0
+225,1996,10 StB Leuben,Kohle,"32,7"
+226,1996,10 StB Leuben,Gas,"55,5"
+227,1996,10 StB Leuben,Öl,"10,3"
+228,1996,10 StB Leuben,Strom,1
+229,1996,10 StB Leuben,sonstige,"0,4"
+230,1996,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Kohle,"25,3"
+231,1996,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Gas,"60,4"
+232,1996,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Öl,"6,3"
+233,1996,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Strom,"8,1"
+234,1996,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",sonstige,0
+235,1996,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Kohle,"20,7"
+236,1996,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Gas,66
+237,1996,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Öl,"10,8"
+238,1996,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Strom,"1,6"
+239,1996,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",sonstige,"0,8"
+240,1996,"13 Südvorstadt, Zschertnitz",Kohle,"45,5"
+241,1996,"13 Südvorstadt, Zschertnitz",Gas,"45,3"
+242,1996,"13 Südvorstadt, Zschertnitz",Öl,"2,8"
+243,1996,"13 Südvorstadt, Zschertnitz",Strom,"6,5"
+244,1996,"13 Südvorstadt, Zschertnitz",sonstige,0
+245,1996,"14 Mockritz, Coschütz, Plauen",Kohle,"24,3"
+246,1996,"14 Mockritz, Coschütz, Plauen",Gas,"55,2"
+247,1996,"14 Mockritz, Coschütz, Plauen",Öl,"17,4"
+248,1996,"14 Mockritz, Coschütz, Plauen",Strom,"3,1"
+249,1996,"14 Mockritz, Coschütz, Plauen",sonstige,0
+250,1996,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Kohle,"42,2"
+251,1996,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Gas,"50,7"
+252,1996,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Öl,"5,5"
+253,1996,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Strom,"1,6"
+254,1996,"15 Cotta, Löbtau, Naußlitz, Dölzschen",sonstige,0
+255,1996,16 Gorbitz,Kohle,0
+256,1996,16 Gorbitz,Gas,0
+257,1996,16 Gorbitz,Öl,0
+258,1996,16 Gorbitz,Strom,0
+259,1996,16 Gorbitz,sonstige,0
+260,1996,17 Briesnitz und westliche OS,Kohle,"35,8"
+261,1996,17 Briesnitz und westliche OS,Gas,"52,9"
+262,1996,17 Briesnitz und westliche OS,Öl,"8,5"
+263,1996,17 Briesnitz und westliche OS,Strom,"2,8"
+264,1996,17 Briesnitz und westliche OS,sonstige,0
+265,1996,18 Dresden gesamt,Kohle,"40,5"
+266,1996,18 Dresden gesamt,Gas,48
+267,1996,18 Dresden gesamt,Öl,"7,9"
+268,1996,18 Dresden gesamt,Strom,"3,4"
+269,1996,18 Dresden gesamt,sonstige,"0,3"
+270,1998,01 StB Altstadt ohne Johannstadt,Kohle,"32,9"
+271,1998,01 StB Altstadt ohne Johannstadt,Gas,"52,9"
+272,1998,01 StB Altstadt ohne Johannstadt,Öl,"1,5"
+273,1998,01 StB Altstadt ohne Johannstadt,Strom,"10,6"
+274,1998,01 StB Altstadt ohne Johannstadt,sonstige,"2,1"
+275,1998,02 Johannstadt,Kohle,"49,6"
+276,1998,02 Johannstadt,Gas,24
+277,1998,02 Johannstadt,Öl,0
+278,1998,02 Johannstadt,Strom,"7,7"
+279,1998,02 Johannstadt,sonstige,"18,6"
+280,1998,03 StB Neustadt ohne Leipziger Vorstadt,Kohle,"27,3"
+281,1998,03 StB Neustadt ohne Leipziger Vorstadt,Gas,"55,7"
+282,1998,03 StB Neustadt ohne Leipziger Vorstadt,Öl,"7,8"
+283,1998,03 StB Neustadt ohne Leipziger Vorstadt,Strom,"7,3"
+284,1998,03 StB Neustadt ohne Leipziger Vorstadt,sonstige,"1,9"
+285,1998,"04 Leipziger Vorstadt, Pieschen",Kohle,"31,6"
+286,1998,"04 Leipziger Vorstadt, Pieschen",Gas,"50,5"
+287,1998,"04 Leipziger Vorstadt, Pieschen",Öl,"9,9"
+288,1998,"04 Leipziger Vorstadt, Pieschen",Strom,"6,5"
+289,1998,"04 Leipziger Vorstadt, Pieschen",sonstige,"1,5"
+290,1998,"05 Mickten, Kaditz, Trachau",Kohle,"20,9"
+291,1998,"05 Mickten, Kaditz, Trachau",Gas,"67,5"
+292,1998,"05 Mickten, Kaditz, Trachau",Öl,5
+293,1998,"05 Mickten, Kaditz, Trachau",Strom,"5,6"
+294,1998,"05 Mickten, Kaditz, Trachau",sonstige,"0,9"
+295,1998,06 StB Klotzsche und nördliche OS,Kohle,"13,4"
+296,1998,06 StB Klotzsche und nördliche OS,Gas,65
+297,1998,06 StB Klotzsche und nördliche OS,Öl,"21,2"
+298,1998,06 StB Klotzsche und nördliche OS,Strom,0
+299,1998,06 StB Klotzsche und nördliche OS,sonstige,"0,4"
+300,1998,07 StB Loschwitz und OS Schönfeld-Weißig,Kohle,"9,5"
+301,1998,07 StB Loschwitz und OS Schönfeld-Weißig,Gas,"64,8"
+302,1998,07 StB Loschwitz und OS Schönfeld-Weißig,Öl,"22,2"
+303,1998,07 StB Loschwitz und OS Schönfeld-Weißig,Strom,3
+304,1998,07 StB Loschwitz und OS Schönfeld-Weißig,sonstige,"0,5"
+305,1998,"08 Blasewitz, Striesen",Kohle,"19,1"
+306,1998,"08 Blasewitz, Striesen",Gas,73
+307,1998,"08 Blasewitz, Striesen",Öl,"5,9"
+308,1998,"08 Blasewitz, Striesen",Strom,"1,7"
+309,1998,"08 Blasewitz, Striesen",sonstige,"0,3"
+310,1998,"09 Tolkewitz, Seidnitz, Gruna",Kohle,"30,5"
+311,1998,"09 Tolkewitz, Seidnitz, Gruna",Gas,"64,5"
+312,1998,"09 Tolkewitz, Seidnitz, Gruna",Öl,"3,9"
+313,1998,"09 Tolkewitz, Seidnitz, Gruna",Strom,"1,2"
+314,1998,"09 Tolkewitz, Seidnitz, Gruna",sonstige,0
+315,1998,10 StB Leuben,Kohle,"18,8"
+316,1998,10 StB Leuben,Gas,"69,6"
+317,1998,10 StB Leuben,Öl,"5,2"
+318,1998,10 StB Leuben,Strom,"5,1"
+319,1998,10 StB Leuben,sonstige,"1,3"
+320,1998,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Kohle,11
+321,1998,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Gas,74
+322,1998,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Öl,7
+323,1998,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Strom,8
+324,1998,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",sonstige,0
+325,1998,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Kohle,"11,3"
+326,1998,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Gas,"72,6"
+327,1998,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Öl,"13,8"
+328,1998,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Strom,"2,3"
+329,1998,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",sonstige,0
+330,1998,"13 Südvorstadt, Zschertnitz",Kohle,"38,3"
+331,1998,"13 Südvorstadt, Zschertnitz",Gas,"53,3"
+332,1998,"13 Südvorstadt, Zschertnitz",Öl,"5,9"
+333,1998,"13 Südvorstadt, Zschertnitz",Strom,"1,2"
+334,1998,"13 Südvorstadt, Zschertnitz",sonstige,"1,3"
+335,1998,"14 Mockritz, Coschütz, Plauen",Kohle,"17,8"
+336,1998,"14 Mockritz, Coschütz, Plauen",Gas,"70,2"
+337,1998,"14 Mockritz, Coschütz, Plauen",Öl,"8,4"
+338,1998,"14 Mockritz, Coschütz, Plauen",Strom,"3,6"
+339,1998,"14 Mockritz, Coschütz, Plauen",sonstige,0
+340,1998,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Kohle,"21,5"
+341,1998,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Gas,"65,3"
+342,1998,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Öl,"10,6"
+343,1998,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Strom,"2,4"
+344,1998,"15 Cotta, Löbtau, Naußlitz, Dölzschen",sonstige,"0,3"
+345,1998,16 Gorbitz,Kohle,0
+346,1998,16 Gorbitz,Gas,0
+347,1998,16 Gorbitz,Öl,0
+348,1998,16 Gorbitz,Strom,0
+349,1998,16 Gorbitz,sonstige,0
+350,1998,17 Briesnitz und westliche OS,Kohle,"10,1"
+351,1998,17 Briesnitz und westliche OS,Gas,"62,8"
+352,1998,17 Briesnitz und westliche OS,Öl,24
+353,1998,17 Briesnitz und westliche OS,Strom,"0,6"
+354,1998,17 Briesnitz und westliche OS,sonstige,"2,5"
+355,1998,18 Dresden gesamt,Kohle,"20,8"
+356,1998,18 Dresden gesamt,Gas,"64,1"
+357,1998,18 Dresden gesamt,Öl,"10,4"
+358,1998,18 Dresden gesamt,Strom,"3,7"
+359,1998,18 Dresden gesamt,sonstige,1
+360,2002,01 StB Altstadt ohne Johannstadt,Kohle,0
+361,2002,01 StB Altstadt ohne Johannstadt,Gas,100
+362,2002,01 StB Altstadt ohne Johannstadt,Öl,0
+363,2002,01 StB Altstadt ohne Johannstadt,Strom,0
+364,2002,01 StB Altstadt ohne Johannstadt,sonstige,0
+365,2002,02 Johannstadt,Kohle,"26,4"
+366,2002,02 Johannstadt,Gas,54
+367,2002,02 Johannstadt,Öl,0
+368,2002,02 Johannstadt,Strom,"14,7"
+369,2002,02 Johannstadt,sonstige,5
+370,2002,03 StB Neustadt ohne Leipziger Vorstadt,Kohle,"2,6"
+371,2002,03 StB Neustadt ohne Leipziger Vorstadt,Gas,"73,7"
+372,2002,03 StB Neustadt ohne Leipziger Vorstadt,Öl,"19,7"
+373,2002,03 StB Neustadt ohne Leipziger Vorstadt,Strom,"3,1"
+374,2002,03 StB Neustadt ohne Leipziger Vorstadt,sonstige,"0,9"
+375,2002,"04 Leipziger Vorstadt, Pieschen",Kohle,6
+376,2002,"04 Leipziger Vorstadt, Pieschen",Gas,"78,4"
+377,2002,"04 Leipziger Vorstadt, Pieschen",Öl,"12,9"
+378,2002,"04 Leipziger Vorstadt, Pieschen",Strom,2
+379,2002,"04 Leipziger Vorstadt, Pieschen",sonstige,"0,7"
+380,2002,"05 Mickten, Kaditz, Trachau",Kohle,"4,3"
+381,2002,"05 Mickten, Kaditz, Trachau",Gas,"87,8"
+382,2002,"05 Mickten, Kaditz, Trachau",Öl,"5,8"
+383,2002,"05 Mickten, Kaditz, Trachau",Strom,"1,2"
+384,2002,"05 Mickten, Kaditz, Trachau",sonstige,"0,9"
+385,2002,06 StB Klotzsche und nördliche OS,Kohle,"3,7"
+386,2002,06 StB Klotzsche und nördliche OS,Gas,"69,1"
+387,2002,06 StB Klotzsche und nördliche OS,Öl,"21,8"
+388,2002,06 StB Klotzsche und nördliche OS,Strom,"4,8"
+389,2002,06 StB Klotzsche und nördliche OS,sonstige,"0,6"
+390,2002,07 StB Loschwitz und OS Schönfeld-Weißig,Kohle,"2,3"
+391,2002,07 StB Loschwitz und OS Schönfeld-Weißig,Gas,"71,9"
+392,2002,07 StB Loschwitz und OS Schönfeld-Weißig,Öl,"19,3"
+393,2002,07 StB Loschwitz und OS Schönfeld-Weißig,Strom,"5,7"
+394,2002,07 StB Loschwitz und OS Schönfeld-Weißig,sonstige,"0,7"
+395,2002,"08 Blasewitz, Striesen",Kohle,"1,5"
+396,2002,"08 Blasewitz, Striesen",Gas,"84,4"
+397,2002,"08 Blasewitz, Striesen",Öl,"11,8"
+398,2002,"08 Blasewitz, Striesen",Strom,"0,5"
+399,2002,"08 Blasewitz, Striesen",sonstige,"1,8"
+400,2002,"09 Tolkewitz, Seidnitz, Gruna",Kohle,"5,4"
+401,2002,"09 Tolkewitz, Seidnitz, Gruna",Gas,"70,8"
+402,2002,"09 Tolkewitz, Seidnitz, Gruna",Öl,"21,1"
+403,2002,"09 Tolkewitz, Seidnitz, Gruna",Strom,"2,8"
+404,2002,"09 Tolkewitz, Seidnitz, Gruna",sonstige,0
+405,2002,10 StB Leuben,Kohle,"6,8"
+406,2002,10 StB Leuben,Gas,"73,1"
+407,2002,10 StB Leuben,Öl,"10,3"
+408,2002,10 StB Leuben,Strom,"6,4"
+409,2002,10 StB Leuben,sonstige,"3,4"
+410,2002,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Kohle,"1,1"
+411,2002,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Gas,"74,5"
+412,2002,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Öl,"3,5"
+413,2002,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Strom,"18,6"
+414,2002,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",sonstige,"2,3"
+415,2002,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Kohle,"1,3"
+416,2002,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Gas,"80,1"
+417,2002,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Öl,"12,7"
+418,2002,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Strom,"5,3"
+419,2002,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",sonstige,"0,6"
+420,2002,"13 Südvorstadt, Zschertnitz",Kohle,"3,6"
+421,2002,"13 Südvorstadt, Zschertnitz",Gas,"76,1"
+422,2002,"13 Südvorstadt, Zschertnitz",Öl,"16,4"
+423,2002,"13 Südvorstadt, Zschertnitz",Strom,4
+424,2002,"13 Südvorstadt, Zschertnitz",sonstige,0
+425,2002,"14 Mockritz, Coschütz, Plauen",Kohle,"7,1"
+426,2002,"14 Mockritz, Coschütz, Plauen",Gas,"83,6"
+427,2002,"14 Mockritz, Coschütz, Plauen",Öl,"4,4"
+428,2002,"14 Mockritz, Coschütz, Plauen",Strom,"1,3"
+429,2002,"14 Mockritz, Coschütz, Plauen",sonstige,"3,5"
+430,2002,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Kohle,"8,9"
+431,2002,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Gas,"78,4"
+432,2002,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Öl,"7,4"
+433,2002,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Strom,"5,4"
+434,2002,"15 Cotta, Löbtau, Naußlitz, Dölzschen",sonstige,0
+435,2002,16 Gorbitz,Kohle,0
+436,2002,16 Gorbitz,Gas,"45,6"
+437,2002,16 Gorbitz,Öl,"54,4"
+438,2002,16 Gorbitz,Strom,0
+439,2002,16 Gorbitz,sonstige,0
+440,2002,17 Briesnitz und westliche OS,Kohle,3
+441,2002,17 Briesnitz und westliche OS,Gas,"55,3"
+442,2002,17 Briesnitz und westliche OS,Öl,"32,6"
+443,2002,17 Briesnitz und westliche OS,Strom,"6,4"
+444,2002,17 Briesnitz und westliche OS,sonstige,"2,7"
+445,2002,18 Dresden gesamt,Kohle,"4,6"
+446,2002,18 Dresden gesamt,Gas,"75,3"
+447,2002,18 Dresden gesamt,Öl,"14,5"
+448,2002,18 Dresden gesamt,Strom,"4,2"
+449,2002,18 Dresden gesamt,sonstige,"1,3"
+450,2005,01 StB Altstadt ohne Johannstadt,Kohle,"9,9"
+451,2005,01 StB Altstadt ohne Johannstadt,Gas,"52,9"
+452,2005,01 StB Altstadt ohne Johannstadt,Öl,"7,2"
+453,2005,01 StB Altstadt ohne Johannstadt,Strom,30
+454,2005,01 StB Altstadt ohne Johannstadt,sonstige,0
+455,2005,02 Johannstadt,Kohle,13
+456,2005,02 Johannstadt,Gas,67
+457,2005,02 Johannstadt,Öl,9
+458,2005,02 Johannstadt,Strom,11
+459,2005,02 Johannstadt,sonstige,0
+460,2005,03 StB Neustadt ohne Leipziger Vorstadt,Kohle,"10,8"
+461,2005,03 StB Neustadt ohne Leipziger Vorstadt,Gas,"70,4"
+462,2005,03 StB Neustadt ohne Leipziger Vorstadt,Öl,"5,1"
+463,2005,03 StB Neustadt ohne Leipziger Vorstadt,Strom,"11,6"
+464,2005,03 StB Neustadt ohne Leipziger Vorstadt,sonstige,"2,1"
+465,2005,"04 Leipziger Vorstadt, Pieschen",Kohle,"6,2"
+466,2005,"04 Leipziger Vorstadt, Pieschen",Gas,"76,1"
+467,2005,"04 Leipziger Vorstadt, Pieschen",Öl,11
+468,2005,"04 Leipziger Vorstadt, Pieschen",Strom,"5,9"
+469,2005,"04 Leipziger Vorstadt, Pieschen",sonstige,"0,9"
+470,2005,"05 Mickten, Kaditz, Trachau",Kohle,"1,3"
+471,2005,"05 Mickten, Kaditz, Trachau",Gas,"87,4"
+472,2005,"05 Mickten, Kaditz, Trachau",Öl,"9,8"
+473,2005,"05 Mickten, Kaditz, Trachau",Strom,1
+474,2005,"05 Mickten, Kaditz, Trachau",sonstige,"0,6"
+475,2005,06 StB Klotzsche und nördliche OS,Kohle,"2,2"
+476,2005,06 StB Klotzsche und nördliche OS,Gas,"73,3"
+477,2005,06 StB Klotzsche und nördliche OS,Öl,"16,9"
+478,2005,06 StB Klotzsche und nördliche OS,Strom,"4,7"
+479,2005,06 StB Klotzsche und nördliche OS,sonstige,"2,9"
+480,2005,07 StB Loschwitz und OS Schönfeld-Weißig,Kohle,"7,7"
+481,2005,07 StB Loschwitz und OS Schönfeld-Weißig,Gas,"77,1"
+482,2005,07 StB Loschwitz und OS Schönfeld-Weißig,Öl,"12,9"
+483,2005,07 StB Loschwitz und OS Schönfeld-Weißig,Strom,"1,7"
+484,2005,07 StB Loschwitz und OS Schönfeld-Weißig,sonstige,"0,6"
+485,2005,"08 Blasewitz, Striesen",Kohle,"0,3"
+486,2005,"08 Blasewitz, Striesen",Gas,"85,4"
+487,2005,"08 Blasewitz, Striesen",Öl,9
+488,2005,"08 Blasewitz, Striesen",Strom,"3,7"
+489,2005,"08 Blasewitz, Striesen",sonstige,"1,6"
+490,2005,"09 Tolkewitz, Seidnitz, Gruna",Kohle,2
+491,2005,"09 Tolkewitz, Seidnitz, Gruna",Gas,91
+492,2005,"09 Tolkewitz, Seidnitz, Gruna",Öl,"7,1"
+493,2005,"09 Tolkewitz, Seidnitz, Gruna",Strom,0
+494,2005,"09 Tolkewitz, Seidnitz, Gruna",sonstige,0
+495,2005,10 StB Leuben,Kohle,"0,5"
+496,2005,10 StB Leuben,Gas,"90,6"
+497,2005,10 StB Leuben,Öl,7
+498,2005,10 StB Leuben,Strom,"1,1"
+499,2005,10 StB Leuben,sonstige,"0,8"
+500,2005,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Kohle,"5,2"
+501,2005,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Gas,86
+502,2005,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Öl,"4,2"
+503,2005,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Strom,"3,5"
+504,2005,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",sonstige,"1,1"
+505,2005,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Kohle,"2,2"
+506,2005,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Gas,"79,2"
+507,2005,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Öl,"10,7"
+508,2005,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Strom,"6,6"
+509,2005,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",sonstige,"1,2"
+510,2005,"13 Südvorstadt, Zschertnitz",Kohle,"10,7"
+511,2005,"13 Südvorstadt, Zschertnitz",Gas,"77,5"
+512,2005,"13 Südvorstadt, Zschertnitz",Öl,"4,4"
+513,2005,"13 Südvorstadt, Zschertnitz",Strom,"7,5"
+514,2005,"13 Südvorstadt, Zschertnitz",sonstige,0
+515,2005,"14 Mockritz, Coschütz, Plauen",Kohle,0
+516,2005,"14 Mockritz, Coschütz, Plauen",Gas,83
+517,2005,"14 Mockritz, Coschütz, Plauen",Öl,"14,3"
+518,2005,"14 Mockritz, Coschütz, Plauen",Strom,"2,7"
+519,2005,"14 Mockritz, Coschütz, Plauen",sonstige,0
+520,2005,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Kohle,"3,2"
+521,2005,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Gas,"82,8"
+522,2005,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Öl,"9,2"
+523,2005,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Strom,"2,6"
+524,2005,"15 Cotta, Löbtau, Naußlitz, Dölzschen",sonstige,"2,1"
+525,2005,16 Gorbitz,Kohle,0
+526,2005,16 Gorbitz,Gas,"73,2"
+527,2005,16 Gorbitz,Öl,"22,7"
+528,2005,16 Gorbitz,Strom,0
+529,2005,16 Gorbitz,sonstige,"4,1"
+530,2005,17 Briesnitz und westliche OS,Kohle,"5,3"
+531,2005,17 Briesnitz und westliche OS,Gas,"68,6"
+532,2005,17 Briesnitz und westliche OS,Öl,"23,8"
+533,2005,17 Briesnitz und westliche OS,Strom,"2,3"
+534,2005,17 Briesnitz und westliche OS,sonstige,0
+535,2005,18 Dresden gesamt,Kohle,"3,9"
+536,2005,18 Dresden gesamt,Gas,"79,9"
+537,2005,18 Dresden gesamt,Öl,"11,2"
+538,2005,18 Dresden gesamt,Strom,"3,9"
+539,2005,18 Dresden gesamt,sonstige,"1,1"
+540,2007,01 StB Altstadt ohne Johannstadt,Kohle,2
+541,2007,01 StB Altstadt ohne Johannstadt,Gas,"43,5"
+542,2007,01 StB Altstadt ohne Johannstadt,Öl,"18,3"
+543,2007,01 StB Altstadt ohne Johannstadt,Strom,"36,1"
+544,2007,01 StB Altstadt ohne Johannstadt,sonstige,0
+545,2007,02 Johannstadt,Kohle,"10,9"
+546,2007,02 Johannstadt,Gas,"62,1"
+547,2007,02 Johannstadt,Öl,"12,4"
+548,2007,02 Johannstadt,Strom,"13,2"
+549,2007,02 Johannstadt,sonstige,"1,3"
+550,2007,03 StB Neustadt ohne Leipziger Vorstadt,Kohle,"12,4"
+551,2007,03 StB Neustadt ohne Leipziger Vorstadt,Gas,"64,5"
+552,2007,03 StB Neustadt ohne Leipziger Vorstadt,Öl,"15,3"
+553,2007,03 StB Neustadt ohne Leipziger Vorstadt,Strom,"5,3"
+554,2007,03 StB Neustadt ohne Leipziger Vorstadt,sonstige,"2,5"
+555,2007,"04 Leipziger Vorstadt, Pieschen",Kohle,"10,4"
+556,2007,"04 Leipziger Vorstadt, Pieschen",Gas,"74,8"
+557,2007,"04 Leipziger Vorstadt, Pieschen",Öl,"9,4"
+558,2007,"04 Leipziger Vorstadt, Pieschen",Strom,"4,6"
+559,2007,"04 Leipziger Vorstadt, Pieschen",sonstige,"0,7"
+560,2007,"05 Mickten, Kaditz, Trachau",Kohle,"0,6"
+561,2007,"05 Mickten, Kaditz, Trachau",Gas,"77,4"
+562,2007,"05 Mickten, Kaditz, Trachau",Öl,"14,8"
+563,2007,"05 Mickten, Kaditz, Trachau",Strom,"5,6"
+564,2007,"05 Mickten, Kaditz, Trachau",sonstige,"1,7"
+565,2007,06 StB Klotzsche und nördliche OS,Kohle,"2,3"
+566,2007,06 StB Klotzsche und nördliche OS,Gas,"66,5"
+567,2007,06 StB Klotzsche und nördliche OS,Öl,"22,5"
+568,2007,06 StB Klotzsche und nördliche OS,Strom,"6,4"
+569,2007,06 StB Klotzsche und nördliche OS,sonstige,"2,4"
+570,2007,07 StB Loschwitz und OS Schönfeld-Weißig,Kohle,3
+571,2007,07 StB Loschwitz und OS Schönfeld-Weißig,Gas,74
+572,2007,07 StB Loschwitz und OS Schönfeld-Weißig,Öl,"14,9"
+573,2007,07 StB Loschwitz und OS Schönfeld-Weißig,Strom,4
+574,2007,07 StB Loschwitz und OS Schönfeld-Weißig,sonstige,"4,1"
+575,2007,"08 Blasewitz, Striesen",Kohle,"0,7"
+576,2007,"08 Blasewitz, Striesen",Gas,"79,3"
+577,2007,"08 Blasewitz, Striesen",Öl,"11,7"
+578,2007,"08 Blasewitz, Striesen",Strom,"7,9"
+579,2007,"08 Blasewitz, Striesen",sonstige,"0,5"
+580,2007,"09 Tolkewitz, Seidnitz, Gruna",Kohle,"1,3"
+581,2007,"09 Tolkewitz, Seidnitz, Gruna",Gas,"76,4"
+582,2007,"09 Tolkewitz, Seidnitz, Gruna",Öl,"13,2"
+583,2007,"09 Tolkewitz, Seidnitz, Gruna",Strom,7
+584,2007,"09 Tolkewitz, Seidnitz, Gruna",sonstige,"2,1"
+585,2007,10 StB Leuben,Kohle,"0,3"
+586,2007,10 StB Leuben,Gas,"88,9"
+587,2007,10 StB Leuben,Öl,"3,4"
+588,2007,10 StB Leuben,Strom,"5,7"
+589,2007,10 StB Leuben,sonstige,"1,6"
+590,2007,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Kohle,0
+591,2007,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Gas,"82,1"
+592,2007,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Öl,"11,6"
+593,2007,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Strom,"4,3"
+594,2007,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",sonstige,2
+595,2007,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Kohle,"0,5"
+596,2007,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Gas,"85,5"
+597,2007,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Öl,7
+598,2007,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Strom,6
+599,2007,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",sonstige,1
+600,2007,"13 Südvorstadt, Zschertnitz",Kohle,"3,1"
+601,2007,"13 Südvorstadt, Zschertnitz",Gas,"81,1"
+602,2007,"13 Südvorstadt, Zschertnitz",Öl,"10,6"
+603,2007,"13 Südvorstadt, Zschertnitz",Strom,"3,5"
+604,2007,"13 Südvorstadt, Zschertnitz",sonstige,"1,8"
+605,2007,"14 Mockritz, Coschütz, Plauen",Kohle,"0,9"
+606,2007,"14 Mockritz, Coschütz, Plauen",Gas,"84,8"
+607,2007,"14 Mockritz, Coschütz, Plauen",Öl,"10,3"
+608,2007,"14 Mockritz, Coschütz, Plauen",Strom,4
+609,2007,"14 Mockritz, Coschütz, Plauen",sonstige,0
+610,2007,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Kohle,4
+611,2007,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Gas,"83,4"
+612,2007,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Öl,"6,7"
+613,2007,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Strom,"4,9"
+614,2007,"15 Cotta, Löbtau, Naußlitz, Dölzschen",sonstige,1
+615,2007,16 Gorbitz,Kohle,0
+616,2007,16 Gorbitz,Gas,"78,9"
+617,2007,16 Gorbitz,Öl,"3,1"
+618,2007,16 Gorbitz,Strom,0
+619,2007,16 Gorbitz,sonstige,18
+620,2007,17 Briesnitz und westliche OS,Kohle,"0,6"
+621,2007,17 Briesnitz und westliche OS,Gas,"70,4"
+622,2007,17 Briesnitz und westliche OS,Öl,"25,5"
+623,2007,17 Briesnitz und westliche OS,Strom,3
+624,2007,17 Briesnitz und westliche OS,sonstige,"0,5"
+625,2007,18 Dresden gesamt,Kohle,"3,1"
+626,2007,18 Dresden gesamt,Gas,77
+627,2007,18 Dresden gesamt,Öl,"12,6"
+628,2007,18 Dresden gesamt,Strom,"5,7"
+629,2007,18 Dresden gesamt,sonstige,"1,6"
+630,2010,01 StB Altstadt ohne Johannstadt,Kohle,0
+631,2010,01 StB Altstadt ohne Johannstadt,Gas,k.A.
+632,2010,01 StB Altstadt ohne Johannstadt,Öl,k.A.
+633,2010,01 StB Altstadt ohne Johannstadt,Strom,k.A.
+634,2010,01 StB Altstadt ohne Johannstadt,sonstige,0
+635,2010,02 Johannstadt,Kohle,0
+636,2010,02 Johannstadt,Gas,k.A.
+637,2010,02 Johannstadt,Öl,0
+638,2010,02 Johannstadt,Strom,k.A.
+639,2010,02 Johannstadt,sonstige,0
+640,2010,03 StB Neustadt ohne Leipziger Vorstadt,Kohle,8
+641,2010,03 StB Neustadt ohne Leipziger Vorstadt,Gas,"62,2"
+642,2010,03 StB Neustadt ohne Leipziger Vorstadt,Öl,24
+643,2010,03 StB Neustadt ohne Leipziger Vorstadt,Strom,"4,6"
+644,2010,03 StB Neustadt ohne Leipziger Vorstadt,sonstige,"1,2"
+645,2010,"04 Leipziger Vorstadt, Pieschen",Kohle,"3,2"
+646,2010,"04 Leipziger Vorstadt, Pieschen",Gas,"77,2"
+647,2010,"04 Leipziger Vorstadt, Pieschen",Öl,"10,1"
+648,2010,"04 Leipziger Vorstadt, Pieschen",Strom,"8,8"
+649,2010,"04 Leipziger Vorstadt, Pieschen",sonstige,"0,8"
+650,2010,"05 Mickten, Kaditz, Trachau",Kohle,0
+651,2010,"05 Mickten, Kaditz, Trachau",Gas,"81,3"
+652,2010,"05 Mickten, Kaditz, Trachau",Öl,"13,2"
+653,2010,"05 Mickten, Kaditz, Trachau",Strom,"4,1"
+654,2010,"05 Mickten, Kaditz, Trachau",sonstige,"1,4"
+655,2010,06 StB Klotzsche und nördliche OS,Kohle,"0,7"
+656,2010,06 StB Klotzsche und nördliche OS,Gas,"70,6"
+657,2010,06 StB Klotzsche und nördliche OS,Öl,"22,3"
+658,2010,06 StB Klotzsche und nördliche OS,Strom,5
+659,2010,06 StB Klotzsche und nördliche OS,sonstige,"1,4"
+660,2010,07 StB Loschwitz und OS Schönfeld-Weißig,Kohle,0
+661,2010,07 StB Loschwitz und OS Schönfeld-Weißig,Gas,"83,4"
+662,2010,07 StB Loschwitz und OS Schönfeld-Weißig,Öl,"9,8"
+663,2010,07 StB Loschwitz und OS Schönfeld-Weißig,Strom,"5,8"
+664,2010,07 StB Loschwitz und OS Schönfeld-Weißig,sonstige,1
+665,2010,"08 Blasewitz, Striesen",Kohle,"3,5"
+666,2010,"08 Blasewitz, Striesen",Gas,"79,7"
+667,2010,"08 Blasewitz, Striesen",Öl,"11,8"
+668,2010,"08 Blasewitz, Striesen",Strom,5
+669,2010,"08 Blasewitz, Striesen",sonstige,0
+670,2010,"09 Tolkewitz, Seidnitz, Gruna",Kohle,0
+671,2010,"09 Tolkewitz, Seidnitz, Gruna",Gas,"88,6"
+672,2010,"09 Tolkewitz, Seidnitz, Gruna",Öl,"8,3"
+673,2010,"09 Tolkewitz, Seidnitz, Gruna",Strom,"1,1"
+674,2010,"09 Tolkewitz, Seidnitz, Gruna",sonstige,2
+675,2010,10 StB Leuben,Kohle,0
+676,2010,10 StB Leuben,Gas,"86,9"
+677,2010,10 StB Leuben,Öl,7
+678,2010,10 StB Leuben,Strom,"4,6"
+679,2010,10 StB Leuben,sonstige,"1,5"
+680,2010,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Kohle,0
+681,2010,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Gas,k.A.
+682,2010,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Öl,k.A.
+683,2010,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Strom,0
+684,2010,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",sonstige,0
+685,2010,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Kohle,0
+686,2010,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Gas,"84,8"
+687,2010,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Öl,"7,8"
+688,2010,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Strom,"5,4"
+689,2010,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",sonstige,2
+690,2010,"13 Südvorstadt, Zschertnitz",Kohle,0
+691,2010,"13 Südvorstadt, Zschertnitz",Gas,k.A.
+692,2010,"13 Südvorstadt, Zschertnitz",Öl,k.A.
+693,2010,"13 Südvorstadt, Zschertnitz",Strom,k.A.
+694,2010,"13 Südvorstadt, Zschertnitz",sonstige,k.A.
+695,2010,"14 Mockritz, Coschütz, Plauen",Kohle,0
+696,2010,"14 Mockritz, Coschütz, Plauen",Gas,"78,4"
+697,2010,"14 Mockritz, Coschütz, Plauen",Öl,"15,5"
+698,2010,"14 Mockritz, Coschütz, Plauen",Strom,5
+699,2010,"14 Mockritz, Coschütz, Plauen",sonstige,1
+700,2010,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Kohle,"0,6"
+701,2010,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Gas,88
+702,2010,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Öl,"8,3"
+703,2010,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Strom,"1,2"
+704,2010,"15 Cotta, Löbtau, Naußlitz, Dölzschen",sonstige,"1,9"
+705,2010,16 Gorbitz,Kohle,0
+706,2010,16 Gorbitz,Gas,0
+707,2010,16 Gorbitz,Öl,0
+708,2010,16 Gorbitz,Strom,0
+709,2010,16 Gorbitz,sonstige,0
+710,2010,17 Briesnitz und westliche OS,Kohle,0
+711,2010,17 Briesnitz und westliche OS,Gas,"74,9"
+712,2010,17 Briesnitz und westliche OS,Öl,"16,4"
+713,2010,17 Briesnitz und westliche OS,Strom,"5,4"
+714,2010,17 Briesnitz und westliche OS,sonstige,"3,4"
+715,2010,18 Dresden gesamt,Kohle,"1,2"
+716,2010,18 Dresden gesamt,Gas,79
+717,2010,18 Dresden gesamt,Öl,"12,7"
+718,2010,18 Dresden gesamt,Strom,"5,8"
+719,2010,18 Dresden gesamt,sonstige,"1,4"
+720,2012,01 StB Altstadt ohne Johannstadt,Kohle,0
+721,2012,01 StB Altstadt ohne Johannstadt,Gas,k.A.
+722,2012,01 StB Altstadt ohne Johannstadt,Öl,0
+723,2012,01 StB Altstadt ohne Johannstadt,Strom,k.A.
+724,2012,01 StB Altstadt ohne Johannstadt,sonstige,0
+725,2012,02 Johannstadt,Kohle,0
+726,2012,02 Johannstadt,Gas,k.A.
+727,2012,02 Johannstadt,Öl,0
+728,2012,02 Johannstadt,Strom,k.A.
+729,2012,02 Johannstadt,sonstige,0
+730,2012,03 StB Neustadt ohne Leipziger Vorstadt,Kohle,"4,7"
+731,2012,03 StB Neustadt ohne Leipziger Vorstadt,Gas,"77,1"
+732,2012,03 StB Neustadt ohne Leipziger Vorstadt,Öl,"6,6"
+733,2012,03 StB Neustadt ohne Leipziger Vorstadt,Strom,"10,4"
+734,2012,03 StB Neustadt ohne Leipziger Vorstadt,sonstige,"1,3"
+735,2012,"04 Leipziger Vorstadt, Pieschen",Kohle,"0,8"
+736,2012,"04 Leipziger Vorstadt, Pieschen",Gas,"79,8"
+737,2012,"04 Leipziger Vorstadt, Pieschen",Öl,"7,8"
+738,2012,"04 Leipziger Vorstadt, Pieschen",Strom,"4,6"
+739,2012,"04 Leipziger Vorstadt, Pieschen",sonstige,7
+740,2012,"05 Mickten, Kaditz, Trachau",Kohle,0
+741,2012,"05 Mickten, Kaditz, Trachau",Gas,"84,7"
+742,2012,"05 Mickten, Kaditz, Trachau",Öl,"4,3"
+743,2012,"05 Mickten, Kaditz, Trachau",Strom,"6,4"
+744,2012,"05 Mickten, Kaditz, Trachau",sonstige,"4,6"
+745,2012,06 StB Klotzsche und nördliche OS,Kohle,"0,7"
+746,2012,06 StB Klotzsche und nördliche OS,Gas,"71,4"
+747,2012,06 StB Klotzsche und nördliche OS,Öl,"14,3"
+748,2012,06 StB Klotzsche und nördliche OS,Strom,"11,1"
+749,2012,06 StB Klotzsche und nördliche OS,sonstige,"2,5"
+750,2012,07 StB Loschwitz und OS Schönfeld-Weißig,Kohle,"4,8"
+751,2012,07 StB Loschwitz und OS Schönfeld-Weißig,Gas,"77,6"
+752,2012,07 StB Loschwitz und OS Schönfeld-Weißig,Öl,"9,5"
+753,2012,07 StB Loschwitz und OS Schönfeld-Weißig,Strom,"4,8"
+754,2012,07 StB Loschwitz und OS Schönfeld-Weißig,sonstige,"3,4"
+755,2012,"08 Blasewitz, Striesen",Kohle,0
+756,2012,"08 Blasewitz, Striesen",Gas,"90,6"
+757,2012,"08 Blasewitz, Striesen",Öl,"5,8"
+758,2012,"08 Blasewitz, Striesen",Strom,3
+759,2012,"08 Blasewitz, Striesen",sonstige,"0,5"
+760,2012,"09 Tolkewitz, Seidnitz, Gruna",Kohle,0
+761,2012,"09 Tolkewitz, Seidnitz, Gruna",Gas,"73,7"
+762,2012,"09 Tolkewitz, Seidnitz, Gruna",Öl,"13,6"
+763,2012,"09 Tolkewitz, Seidnitz, Gruna",Strom,"9,1"
+764,2012,"09 Tolkewitz, Seidnitz, Gruna",sonstige,"3,7"
+765,2012,10 StB Leuben,Kohle,0
+766,2012,10 StB Leuben,Gas,"88,2"
+767,2012,10 StB Leuben,Öl,4
+768,2012,10 StB Leuben,Strom,"4,9"
+769,2012,10 StB Leuben,sonstige,"2,9"
+770,2012,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Kohle,0
+771,2012,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Gas,k.A.
+772,2012,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Öl,k.A.
+773,2012,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Strom,k.A.
+774,2012,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",sonstige,k.A.
+775,2012,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Kohle,0
+776,2012,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Gas,"83,3"
+777,2012,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Öl,"6,9"
+778,2012,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Strom,"9,1"
+779,2012,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",sonstige,"0,8"
+780,2012,"13 Südvorstadt, Zschertnitz",Kohle,"2,1"
+781,2012,"13 Südvorstadt, Zschertnitz",Gas,"69,1"
+782,2012,"13 Südvorstadt, Zschertnitz",Öl,"5,7"
+783,2012,"13 Südvorstadt, Zschertnitz",Strom,"9,4"
+784,2012,"13 Südvorstadt, Zschertnitz",sonstige,"13,8"
+785,2012,"14 Mockritz, Coschütz, Plauen",Kohle,"1,6"
+786,2012,"14 Mockritz, Coschütz, Plauen",Gas,78
+787,2012,"14 Mockritz, Coschütz, Plauen",Öl,"13,7"
+788,2012,"14 Mockritz, Coschütz, Plauen",Strom,"6,1"
+789,2012,"14 Mockritz, Coschütz, Plauen",sonstige,"0,7"
+790,2012,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Kohle,"1,4"
+791,2012,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Gas,"84,3"
+792,2012,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Öl,"10,2"
+793,2012,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Strom,"4,1"
+794,2012,"15 Cotta, Löbtau, Naußlitz, Dölzschen",sonstige,0
+795,2012,16 Gorbitz,Kohle,k.A.
+796,2012,16 Gorbitz,Gas,k.A.
+797,2012,16 Gorbitz,Öl,k.A.
+798,2012,16 Gorbitz,Strom,0
+799,2012,16 Gorbitz,sonstige,0
+800,2012,17 Briesnitz und westliche OS,Kohle,0
+801,2012,17 Briesnitz und westliche OS,Gas,"57,4"
+802,2012,17 Briesnitz und westliche OS,Öl,"35,1"
+803,2012,17 Briesnitz und westliche OS,Strom,5
+804,2012,17 Briesnitz und westliche OS,sonstige,"2,6"
+805,2012,18 Dresden gesamt,Kohle,"1,3"
+806,2012,18 Dresden gesamt,Gas,"79,9"
+807,2012,18 Dresden gesamt,Öl,"9,9"
+808,2012,18 Dresden gesamt,Strom,"6,1"
+809,2012,18 Dresden gesamt,sonstige,"2,8"
+810,2014,01 StB Altstadt ohne Johannstadt,Kohle,0
+811,2014,01 StB Altstadt ohne Johannstadt,Gas,k.A.
+812,2014,01 StB Altstadt ohne Johannstadt,Öl,k.A.
+813,2014,01 StB Altstadt ohne Johannstadt,Strom,k.A.
+814,2014,01 StB Altstadt ohne Johannstadt,sonstige,k.A.
+815,2014,02 Johannstadt,Kohle,0
+816,2014,02 Johannstadt,Gas,k.A.
+817,2014,02 Johannstadt,Öl,0
+818,2014,02 Johannstadt,Strom,k.A.
+819,2014,02 Johannstadt,sonstige,0
+820,2014,03 StB Neustadt ohne Leipziger Vorstadt,Kohle,0
+821,2014,03 StB Neustadt ohne Leipziger Vorstadt,Gas,"70,7"
+822,2014,03 StB Neustadt ohne Leipziger Vorstadt,Öl,"12,3"
+823,2014,03 StB Neustadt ohne Leipziger Vorstadt,Strom,"8,5"
+824,2014,03 StB Neustadt ohne Leipziger Vorstadt,sonstige,"8,6"
+825,2014,"04 Leipziger Vorstadt, Pieschen",Kohle,"11,6"
+826,2014,"04 Leipziger Vorstadt, Pieschen",Gas,"62,1"
+827,2014,"04 Leipziger Vorstadt, Pieschen",Öl,"10,5"
+828,2014,"04 Leipziger Vorstadt, Pieschen",Strom,15
+829,2014,"04 Leipziger Vorstadt, Pieschen",sonstige,"0,8"
+830,2014,"05 Mickten, Kaditz, Trachau",Kohle,"2,2"
+831,2014,"05 Mickten, Kaditz, Trachau",Gas,"75,1"
+832,2014,"05 Mickten, Kaditz, Trachau",Öl,"8,7"
+833,2014,"05 Mickten, Kaditz, Trachau",Strom,"11,7"
+834,2014,"05 Mickten, Kaditz, Trachau",sonstige,"2,2"
+835,2014,06 StB Klotzsche und nördliche OS,Kohle,"2,6"
+836,2014,06 StB Klotzsche und nördliche OS,Gas,72
+837,2014,06 StB Klotzsche und nördliche OS,Öl,"17,1"
+838,2014,06 StB Klotzsche und nördliche OS,Strom,"6,3"
+839,2014,06 StB Klotzsche und nördliche OS,sonstige,2
+840,2014,07 StB Loschwitz und OS Schönfeld-Weißig,Kohle,"3,1"
+841,2014,07 StB Loschwitz und OS Schönfeld-Weißig,Gas,"74,8"
+842,2014,07 StB Loschwitz und OS Schönfeld-Weißig,Öl,10
+843,2014,07 StB Loschwitz und OS Schönfeld-Weißig,Strom,"7,5"
+844,2014,07 StB Loschwitz und OS Schönfeld-Weißig,sonstige,"4,1"
+845,2014,"08 Blasewitz, Striesen",Kohle,"0,9"
+846,2014,"08 Blasewitz, Striesen",Gas,"87,7"
+847,2014,"08 Blasewitz, Striesen",Öl,6
+848,2014,"08 Blasewitz, Striesen",Strom,"4,3"
+849,2014,"08 Blasewitz, Striesen",sonstige,"1,1"
+850,2014,"09 Tolkewitz, Seidnitz, Gruna",Kohle,"13,1"
+851,2014,"09 Tolkewitz, Seidnitz, Gruna",Gas,"72,1"
+852,2014,"09 Tolkewitz, Seidnitz, Gruna",Öl,"1,3"
+853,2014,"09 Tolkewitz, Seidnitz, Gruna",Strom,"8,1"
+854,2014,"09 Tolkewitz, Seidnitz, Gruna",sonstige,"5,4"
+855,2014,10 StB Leuben,Kohle,0
+856,2014,10 StB Leuben,Gas,"86,8"
+857,2014,10 StB Leuben,Öl,"4,6"
+858,2014,10 StB Leuben,Strom,"5,5"
+859,2014,10 StB Leuben,sonstige,"3,1"
+860,2014,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Kohle,0
+861,2014,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Gas,k.A.
+862,2014,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Öl,0
+863,2014,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Strom,k.A.
+864,2014,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",sonstige,0
+865,2014,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Kohle,0
+866,2014,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Gas,"87,2"
+867,2014,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Öl,6
+868,2014,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Strom,"6,2"
+869,2014,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",sonstige,"0,6"
+870,2014,"13 Südvorstadt, Zschertnitz",Kohle,0
+871,2014,"13 Südvorstadt, Zschertnitz",Gas,"82,7"
+872,2014,"13 Südvorstadt, Zschertnitz",Öl,"11,1"
+873,2014,"13 Südvorstadt, Zschertnitz",Strom,"6,2"
+874,2014,"13 Südvorstadt, Zschertnitz",sonstige,0
+875,2014,"14 Mockritz, Coschütz, Plauen",Kohle,0
+876,2014,"14 Mockritz, Coschütz, Plauen",Gas,"80,3"
+877,2014,"14 Mockritz, Coschütz, Plauen",Öl,"10,4"
+878,2014,"14 Mockritz, Coschütz, Plauen",Strom,"8,4"
+879,2014,"14 Mockritz, Coschütz, Plauen",sonstige,"0,9"
+880,2014,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Kohle,"5,3"
+881,2014,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Gas,"77,1"
+882,2014,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Öl,"4,6"
+883,2014,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Strom,"9,7"
+884,2014,"15 Cotta, Löbtau, Naußlitz, Dölzschen",sonstige,"3,1"
+885,2014,16 Gorbitz,Kohle,0
+886,2014,16 Gorbitz,Gas,k.A.
+887,2014,16 Gorbitz,Öl,k.A.
+888,2014,16 Gorbitz,Strom,0
+889,2014,16 Gorbitz,sonstige,0
+890,2014,17 Briesnitz und westliche OS,Kohle,"1,6"
+891,2014,17 Briesnitz und westliche OS,Gas,"72,8"
+892,2014,17 Briesnitz und westliche OS,Öl,"14,3"
+893,2014,17 Briesnitz und westliche OS,Strom,"7,3"
+894,2014,17 Briesnitz und westliche OS,sonstige,4
+895,2014,18 Dresden gesamt,Kohle,3
+896,2014,18 Dresden gesamt,Gas,"77,1"
+897,2014,18 Dresden gesamt,Öl,"8,6"
+898,2014,18 Dresden gesamt,Strom,"8,3"
+899,2014,18 Dresden gesamt,sonstige,3
+900,2016,01 StB Altstadt ohne Johannstadt,Kohle,"3,6"
+901,2016,01 StB Altstadt ohne Johannstadt,Gas,"49,5"
+902,2016,01 StB Altstadt ohne Johannstadt,Öl,"9,6"
+903,2016,01 StB Altstadt ohne Johannstadt,Strom,"23,8"
+904,2016,01 StB Altstadt ohne Johannstadt,sonstige,"13,5"
+905,2016,02 Johannstadt,Kohle,0
+906,2016,02 Johannstadt,Gas,k.A.
+907,2016,02 Johannstadt,Öl,0
+908,2016,02 Johannstadt,Strom,k.A.
+909,2016,02 Johannstadt,sonstige,k.A.
+910,2016,03 StB Neustadt ohne Leipziger Vorstadt,Kohle,"8,4"
+911,2016,03 StB Neustadt ohne Leipziger Vorstadt,Gas,"50,8"
+912,2016,03 StB Neustadt ohne Leipziger Vorstadt,Öl,"16,8"
+913,2016,03 StB Neustadt ohne Leipziger Vorstadt,Strom,"18,5"
+914,2016,03 StB Neustadt ohne Leipziger Vorstadt,sonstige,"5,5"
+915,2016,"04 Leipziger Vorstadt, Pieschen",Kohle,0
+916,2016,"04 Leipziger Vorstadt, Pieschen",Gas,"73,2"
+917,2016,"04 Leipziger Vorstadt, Pieschen",Öl,"9,8"
+918,2016,"04 Leipziger Vorstadt, Pieschen",Strom,"8,7"
+919,2016,"04 Leipziger Vorstadt, Pieschen",sonstige,"8,2"
+920,2016,"05 Mickten, Kaditz, Trachau",Kohle,"1,7"
+921,2016,"05 Mickten, Kaditz, Trachau",Gas,"75,9"
+922,2016,"05 Mickten, Kaditz, Trachau",Öl,"7,1"
+923,2016,"05 Mickten, Kaditz, Trachau",Strom,"11,2"
+924,2016,"05 Mickten, Kaditz, Trachau",sonstige,"4,2"
+925,2016,06 StB Klotzsche und nördliche OS,Kohle,"0,6"
+926,2016,06 StB Klotzsche und nördliche OS,Gas,80
+927,2016,06 StB Klotzsche und nördliche OS,Öl,"14,2"
+928,2016,06 StB Klotzsche und nördliche OS,Strom,"3,3"
+929,2016,06 StB Klotzsche und nördliche OS,sonstige,"1,9"
+930,2016,07 StB Loschwitz und OS Schönfeld-Weißig,Kohle,"1,6"
+931,2016,07 StB Loschwitz und OS Schönfeld-Weißig,Gas,"79,2"
+932,2016,07 StB Loschwitz und OS Schönfeld-Weißig,Öl,"8,5"
+933,2016,07 StB Loschwitz und OS Schönfeld-Weißig,Strom,"6,5"
+934,2016,07 StB Loschwitz und OS Schönfeld-Weißig,sonstige,"4,2"
+935,2016,"08 Blasewitz, Striesen",Kohle,0
+936,2016,"08 Blasewitz, Striesen",Gas,"82,2"
+937,2016,"08 Blasewitz, Striesen",Öl,"3,8"
+938,2016,"08 Blasewitz, Striesen",Strom,"8,7"
+939,2016,"08 Blasewitz, Striesen",sonstige,"5,3"
+940,2016,"09 Tolkewitz, Seidnitz, Gruna",Kohle,"0,7"
+941,2016,"09 Tolkewitz, Seidnitz, Gruna",Gas,"80,5"
+942,2016,"09 Tolkewitz, Seidnitz, Gruna",Öl,5
+943,2016,"09 Tolkewitz, Seidnitz, Gruna",Strom,"9,9"
+944,2016,"09 Tolkewitz, Seidnitz, Gruna",sonstige,"3,8"
+945,2016,10 StB Leuben,Kohle,0
+946,2016,10 StB Leuben,Gas,"86,6"
+947,2016,10 StB Leuben,Öl,"3,5"
+948,2016,10 StB Leuben,Strom,"8,7"
+949,2016,10 StB Leuben,sonstige,"1,1"
+950,2016,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Kohle,0
+951,2016,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Gas,k.A.
+952,2016,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Öl,k.A.
+953,2016,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Strom,k.A.
+954,2016,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",sonstige,0
+955,2016,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Kohle,"0,6"
+956,2016,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Gas,"85,2"
+957,2016,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Öl,"5,9"
+958,2016,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Strom,"3,4"
+959,2016,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",sonstige,5
+960,2016,"13 Südvorstadt, Zschertnitz",Kohle,0
+961,2016,"13 Südvorstadt, Zschertnitz",Gas,"84,3"
+962,2016,"13 Südvorstadt, Zschertnitz",Öl,"2,8"
+963,2016,"13 Südvorstadt, Zschertnitz",Strom,"5,2"
+964,2016,"13 Südvorstadt, Zschertnitz",sonstige,"7,8"
+965,2016,"14 Mockritz, Coschütz, Plauen",Kohle,0
+966,2016,"14 Mockritz, Coschütz, Plauen",Gas,"82,2"
+967,2016,"14 Mockritz, Coschütz, Plauen",Öl,"7,9"
+968,2016,"14 Mockritz, Coschütz, Plauen",Strom,"4,7"
+969,2016,"14 Mockritz, Coschütz, Plauen",sonstige,"5,2"
+970,2016,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Kohle,0
+971,2016,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Gas,"83,2"
+972,2016,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Öl,"7,2"
+973,2016,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Strom,"5,5"
+974,2016,"15 Cotta, Löbtau, Naußlitz, Dölzschen",sonstige,"4,2"
+975,2016,16 Gorbitz,Kohle,0
+976,2016,16 Gorbitz,Gas,k.A.
+977,2016,16 Gorbitz,Öl,k.A.
+978,2016,16 Gorbitz,Strom,0
+979,2016,16 Gorbitz,sonstige,0
+980,2016,17 Briesnitz und westliche OS,Kohle,0
+981,2016,17 Briesnitz und westliche OS,Gas,"67,9"
+982,2016,17 Briesnitz und westliche OS,Öl,"19,8"
+983,2016,17 Briesnitz und westliche OS,Strom,"7,6"
+984,2016,17 Briesnitz und westliche OS,sonstige,"4,7"
+985,2016,18 Dresden gesamt,Kohle,"0,9"
+986,2016,18 Dresden gesamt,Gas,"76,6"
+987,2016,18 Dresden gesamt,Öl,9
+988,2016,18 Dresden gesamt,Strom,"8,5"
+989,2016,18 Dresden gesamt,sonstige,"4,9"
+990,2018,01 StB Altstadt ohne Johannstadt,Kohle,0
+991,2018,01 StB Altstadt ohne Johannstadt,Gas,k.A.
+992,2018,01 StB Altstadt ohne Johannstadt,Öl,k.A.
+993,2018,01 StB Altstadt ohne Johannstadt,Strom,k.A.
+994,2018,01 StB Altstadt ohne Johannstadt,sonstige,k.A.
+995,2018,02 Johannstadt,Kohle,0
+996,2018,02 Johannstadt,Gas,"55,4"
+997,2018,02 Johannstadt,Öl,"9,6"
+998,2018,02 Johannstadt,Strom,"21,1"
+999,2018,02 Johannstadt,sonstige,"13,9"
+1000,2018,03 StB Neustadt ohne Leipziger Vorstadt,Kohle,"3,3"
+1001,2018,03 StB Neustadt ohne Leipziger Vorstadt,Gas,"60,7"
+1002,2018,03 StB Neustadt ohne Leipziger Vorstadt,Öl,"13,6"
+1003,2018,03 StB Neustadt ohne Leipziger Vorstadt,Strom,"11,7"
+1004,2018,03 StB Neustadt ohne Leipziger Vorstadt,sonstige,"10,7"
+1005,2018,"04 Leipziger Vorstadt, Pieschen",Kohle,"0,8"
+1006,2018,"04 Leipziger Vorstadt, Pieschen",Gas,"79,1"
+1007,2018,"04 Leipziger Vorstadt, Pieschen",Öl,"3,7"
+1008,2018,"04 Leipziger Vorstadt, Pieschen",Strom,"10,1"
+1009,2018,"04 Leipziger Vorstadt, Pieschen",sonstige,"6,4"
+1010,2018,"05 Mickten, Kaditz, Trachau",Kohle,0
+1011,2018,"05 Mickten, Kaditz, Trachau",Gas,"79,6"
+1012,2018,"05 Mickten, Kaditz, Trachau",Öl,"7,2"
+1013,2018,"05 Mickten, Kaditz, Trachau",Strom,"7,2"
+1014,2018,"05 Mickten, Kaditz, Trachau",sonstige,6
+1015,2018,06 StB Klotzsche und nördliche OS,Kohle,0
+1016,2018,06 StB Klotzsche und nördliche OS,Gas,"67,7"
+1017,2018,06 StB Klotzsche und nördliche OS,Öl,"16,5"
+1018,2018,06 StB Klotzsche und nördliche OS,Strom,"8,4"
+1019,2018,06 StB Klotzsche und nördliche OS,sonstige,"7,5"
+1020,2018,07 StB Loschwitz und OS Schönfeld-Weißig,Kohle,"1,5"
+1021,2018,07 StB Loschwitz und OS Schönfeld-Weißig,Gas,"72,7"
+1022,2018,07 StB Loschwitz und OS Schönfeld-Weißig,Öl,"12,1"
+1023,2018,07 StB Loschwitz und OS Schönfeld-Weißig,Strom,"9,5"
+1024,2018,07 StB Loschwitz und OS Schönfeld-Weißig,sonstige,"4,2"
+1025,2018,"08 Blasewitz, Striesen",Kohle,0
+1026,2018,"08 Blasewitz, Striesen",Gas,"75,5"
+1027,2018,"08 Blasewitz, Striesen",Öl,"6,1"
+1028,2018,"08 Blasewitz, Striesen",Strom,"13,9"
+1029,2018,"08 Blasewitz, Striesen",sonstige,"4,5"
+1030,2018,"09 Tolkewitz, Seidnitz, Gruna",Kohle,0
+1031,2018,"09 Tolkewitz, Seidnitz, Gruna",Gas,"75,7"
+1032,2018,"09 Tolkewitz, Seidnitz, Gruna",Öl,"4,8"
+1033,2018,"09 Tolkewitz, Seidnitz, Gruna",Strom,"9,4"
+1034,2018,"09 Tolkewitz, Seidnitz, Gruna",sonstige,"10,1"
+1035,2018,10 StB Leuben,Kohle,0
+1036,2018,10 StB Leuben,Gas,"83,5"
+1037,2018,10 StB Leuben,Öl,"3,2"
+1038,2018,10 StB Leuben,Strom,10
+1039,2018,10 StB Leuben,sonstige,"3,3"
+1040,2018,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Kohle,0
+1041,2018,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Gas,k.A.
+1042,2018,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Öl,0
+1043,2018,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",Strom,k.A.
+1044,2018,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",sonstige,0
+1045,2018,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Kohle,0
+1046,2018,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Gas,85
+1047,2018,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Öl,"8,8"
+1048,2018,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",Strom,"5,8"
+1049,2018,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",sonstige,"0,5"
+1050,2018,"13 Südvorstadt, Zschertnitz",Kohle,0
+1051,2018,"13 Südvorstadt, Zschertnitz",Gas,"69,1"
+1052,2018,"13 Südvorstadt, Zschertnitz",Öl,"13,1"
+1053,2018,"13 Südvorstadt, Zschertnitz",Strom,"15,7"
+1054,2018,"13 Südvorstadt, Zschertnitz",sonstige,2
+1055,2018,"14 Mockritz, Coschütz, Plauen",Kohle,0
+1056,2018,"14 Mockritz, Coschütz, Plauen",Gas,"85,4"
+1057,2018,"14 Mockritz, Coschütz, Plauen",Öl,"7,2"
+1058,2018,"14 Mockritz, Coschütz, Plauen",Strom,"7,5"
+1059,2018,"14 Mockritz, Coschütz, Plauen",sonstige,0
+1060,2018,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Kohle,"1,3"
+1061,2018,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Gas,"81,4"
+1062,2018,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Öl,"4,3"
+1063,2018,"15 Cotta, Löbtau, Naußlitz, Dölzschen",Strom,"10,8"
+1064,2018,"15 Cotta, Löbtau, Naußlitz, Dölzschen",sonstige,"2,1"
+1065,2018,16 Gorbitz,Kohle,0
+1066,2018,16 Gorbitz,Gas,k.A.
+1067,2018,16 Gorbitz,Öl,k.A.
+1068,2018,16 Gorbitz,Strom,k.A.
+1069,2018,16 Gorbitz,sonstige,0
+1070,2018,17 Briesnitz und westliche OS,Kohle,0
+1071,2018,17 Briesnitz und westliche OS,Gas,"64,6"
+1072,2018,17 Briesnitz und westliche OS,Öl,"21,9"
+1073,2018,17 Briesnitz und westliche OS,Strom,"7,8"
+1074,2018,17 Briesnitz und westliche OS,sonstige,"5,7"
+1075,2018,18 Dresden gesamt,Kohle,"0,6"
+1076,2018,18 Dresden gesamt,Gas,"74,5"
+1077,2018,18 Dresden gesamt,Öl,"9,4"
+1078,2018,18 Dresden gesamt,Strom,"10,5"
+1079,2018,18 Dresden gesamt,sonstige,5

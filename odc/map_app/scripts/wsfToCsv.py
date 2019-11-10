@@ -104,7 +104,7 @@ for bezirk in statBezirke.values():
     bezirk['polygon'] = Polygon(points)
 
 nodeId = '189'
-for i in range(1,1500):
+for i in range(1397,1700):
     try:
         transformToCsv(i, statBezirke)
     except Exception as err:

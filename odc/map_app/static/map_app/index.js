@@ -1,6 +1,10 @@
 let p = L.CRS.EPSG3857.project(L.point(51.050407, 13.737262));
 
-var stadtraumData = [];
+var currentYear = '2018';
+var polygonToStadtraum = {};
+var stadtraumData = {
+        "17 Briesnitz und westliche OS": "Test"
+};
 
 function ll(latLng) {
 	let m = matrixIds3857;
@@ -105,19 +109,19 @@ map.addLayer(tiles);
 //    CRS: 'urn:ogc:def:crs:EPSG::3857',
 //    attribution: "Weather data © 2012 IEM Nexrad"
 //}).addTo(map);
-var bezirke = L.tileLayer.betterWms("https://kommisdd.dresden.de/net3/public/ogcsl.ashx?Service=WMS&NODEID=189", {
-    layers: 'L138',
-    format: 'image/png',
-    transparent: true,
-    CRS: 'urn:ogc:def:crs:EPSG::3857',
-    attribution: "Weather data © 2012 IEM Nexrad"
-});
+//var bezirke = L.tileLayer.betterWms("https://kommisdd.dresden.de/net3/public/ogcsl.ashx?Service=WMS&NODEID=189", {
+//    layers: 'L138',
+//    format: 'image/png',
+//    transparent: true,
+//    CRS: 'urn:ogc:def:crs:EPSG::3857',
+//    attribution: "Weather data © 2012 IEM Nexrad"
+//});
 
-bezirke.on({
-    mouseover: highlightFeature
-});
-
-bezirke.addTo(map);
+//bezirke.on({
+//    mouseover: highlightFeature
+//});
+//
+//bezirke.addTo(map);
 
 var clinics = L.tileLayer.wms("https://kommisdd.dresden.de/net3/public/ogcsl.ashx?Service=WMS&NODEID=159", {
     layers: 'L88',
@@ -125,36 +129,282 @@ var clinics = L.tileLayer.wms("https://kommisdd.dresden.de/net3/public/ogcsl.ash
     transparent: true,
     CRS: 'urn:ogc:def:crs:EPSG::3857',
     attribution: "Weather data © 2012 IEM Nexrad"
-}).addTo(map);
-
-clinics.on({
-    mouseover: highlightFeature
 });
-
-clinics.addTo(map);
-
 
 var baseLayers = {
 		"Web Atlas" : tiles
 		
 	};
 
-L.control.layers({}, {"Web Atlas" : tiles, "Clinics " : clinics, 'Bezirke': bezirke}).addTo(map);    
+L.control.layers({"Web Atlas" : tiles}, {}).addTo(map);    
 
 //map.on('click', onMapClick);
 //
 let wfsBaseUrl = 'https://kommisdd.dresden.de/net3/public/ogcsl.ashx?Service=WFS&REQUEST=GetFeature&srsName=urn:ogc:def:crs:EPSG::3857';
 //addLibraries(wfsBaseUrl);
-addStadtteile(wfsBaseUrl);
+//addStadtteileViaSoap(wfsBaseUrl);
+addData(addInitialData);
 
-//function onMapClick(e) {
-//	popup
-//		.setLatLng(e.latlng)
-//		.setContent("You clicked the map at " + e.latlng.toString())
-//		.openOn(map);
-//}
+function onStadtraumClick(e) {
+    if($('#sidebar').is(':hidden')) {
+        let stadtraumName = polygonToStadtraum[e.target._leaflet_id];
+        let data = stadtraumData[stadtraumName];
+        updateSlider(stadtraumName);
+        $('#happiness-amount').val(stadtraumData[stadtraumName]['Wohlbefinden']['default']);
+        $('#sidebar').show("slide", { direction: "right" }, 750);
+        
+//        popup
+//        .setLatLng(e.latlng)
+//        .setContent("Stadtraum: " + stadtraumName + " Zufriedenheit: " + data['Wohlbefinden'][currentYear]['Glücksindex'])
+//        .openOn(map);
+    } else {
+        $('#sidebar').hide("slide", { direction: "right" }, 750);
+    }
+}
 
-function addStadtteile(wfsBaseUrl) {
+function addInitialData(data) {
+    stadtraumData = Object.assign(stadtraumData, data);
+    addStadtteilePrefetched();
+    let url = 'de-sn-dresden-kbu_-_einkommen_aequivalenz-_1993ff_stadtraum.csv';
+    let indexCols = ['Stadtraum', 'Jahr'];
+    let title = 'Einkommen';
+    let targetCols = [currentYear, 'Einkommen-Haushalt (Äquivalenz-)'];
+    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols));
+    
+    url = 'de-sn-dresden-kbu_-_wohnkosten_1995ff_nach_stadtraum.csv';
+    indexCols = ['Stadtraum', 'Jahr'];
+    title = 'Wohnkosten';
+    targetCols = [currentYear, 'Grundmiete'];
+    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols));
+    
+    url = 'de-sn-dresden-einwohner_-_haushalte_md21e_1999_-_2018_od_bevoelkerung_ab_stadtbezirk_kinderanzahl_no_kids.csv';
+    indexCols = ['Stadtraum', 'Jahr'];
+    title = 'Anteil_Haushalte_ohne_Kinder_in_prozent';
+    targetCols = [currentYear, 'Anteil_Haushalte_ohne_Kinder'];
+    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols));
+
+    url = 'de-sn-dresden-einwohner___md_33e_1999_-_2018_od_bevoelkerung_ab_stadtraum_hauptwohner_deutsche__auslaender_wohndauer.csv';
+    indexCols = ['Stadtraum', 'Jahr'];
+    title = 'Mittlere_Wohndauer';
+    targetCols = [currentYear, 'mean_Wohndauer'];
+    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols));
+
+    url = 'Bibliotheken.csv';
+    indexCols = ['Statistischer Bezirk'];
+    title = 'Bibliotheken';
+    targetCols = ['Bibliotheken (cls:L494)'];
+    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols));
+
+    url = 'Ausstellungen, Galerien.csv';
+    indexCols = ['Statistischer Bezirk'];
+    title = 'Galerien';
+    targetCols = ['Ausstellungen, Galerien (cls:L496)'];
+    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols));
+
+    url = 'Berufsbildende Schulen.csv';
+    indexCols = ['Statistischer Bezirk'];
+    title = 'Berufsbildende_Schulen';
+    targetCols = ['Berufsbildende Schulen (cls:L546)'];
+    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols));
+
+    url = 'Einkaufen & Service.csv';
+    indexCols = ['Statistischer Bezirk'];
+    title = 'Lebensmittelmärkte';
+    targetCols = ['Lebensmittelmärkte (cls:L700)'];
+    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols));
+
+    url = 'Grundschulen.csv';
+    indexCols = ['Statistischer Bezirk'];
+    title = 'Grundschulen';
+    targetCols = ['Grundschulen (cls:L542)'];
+    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols));
+
+    url = 'Gymnasien.csv';
+    indexCols = ['Statistischer Bezirk'];
+    title = 'Gymnasien';
+    targetCols = ['Gymnasien (cls:L545)'];
+    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols));
+
+    url = 'Horte.csv';
+    indexCols = ['Statistischer Bezirk'];
+    title = 'Horte';
+    targetCols = ['Horte (cls:L606)'];
+    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols));
+
+    url = 'Kirchen, Religiöse Einrichtungen.csv';
+    indexCols = ['Statistischer Bezirk'];
+    title = 'Kirchen_Religiöse_Einrichtungen';
+    targetCols = ['Kirchen, Religiöse Einrichtungen (cls:L121)'];
+    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols));
+
+    
+}
+
+function updateSlider(stadtraumName) {
+    for(key in stadtraumData[stadtraumName]) {
+        let slider = $('#'+key+'-slider');
+        if(slider.length>0 && !stadtraumData[stadtraumName][key]['sliderinit']) {
+            slider.slider({value: stadtraumData[stadtraumName][key]['default']});
+            $( "#"+key+"-amount" ).val(stadtraumData[stadtraumName][key]['default']);
+        }
+    }
+}
+
+function addToStadtraumDataAndAddSlider(dataTitle, targetCols, data) {
+    for(stadtraumName in stadtraumData) {
+        if(typeof stadtraumData[stadtraumName][dataTitle] === 'undefined') {
+            stadtraumData[stadtraumName][dataTitle] = {}
+        }
+        stadtraumData[stadtraumName][dataTitle] = data[stadtraumName];
+        if(typeof stadtraumData[stadtraumName][dataTitle] !== 'undefined') {
+            stadtraumData[stadtraumName][dataTitle]['sliderinit'] = false;
+        }
+    }
+    let label = $('<label for="'+dataTitle+'-amount">'+dataTitle+':</label>');
+    let input = $('<input type="text" id="'+dataTitle+'-amount" readonly style="width: 90px; margin-left: 10px; border:0; color:#f6931f; font-weight:bold;">');
+    let slider = $('<div id="'+dataTitle+'-slider"></div>');
+    $('#sidebar-content').append(label);
+    $('#sidebar-content').append(input);
+    $('#sidebar-content').append(slider);
+    
+    let dataCb = (data, stadtraumName) => {
+        data = data[dataTitle];
+        if(typeof data === 'undefined') {
+            return false;
+        }
+        for(col of targetCols) {
+            data = data[col];
+        }
+        let result = parseFloat(data)
+        if(dataTitle === 'Anteil_Haushalte_ohne_Kinder_in_prozent') {
+            result = parseInt(result * 100)
+        }
+        if(dataTitle === 'Mittlere_Wohndauer') {
+            result = parseInt(result)
+        }
+        if(targetCols[0].indexOf('cls:') > 0) {
+            result = parseInt(result / 3);
+        }
+        stadtraumData[stadtraumName][dataTitle]['default'] = result;
+        return result;
+    }
+    let min = dataMin(dataCb);
+    let max = dataMax(dataCb);
+    $( function() {
+        $("#"+dataTitle+"-slider").slider({
+            value:-1,
+            min: min,
+            max: max,
+            step: 1,
+            slide: function( event, ui ) {
+              $( "#"+dataTitle+"-amount" ).val(  ui.value );
+            }
+        });
+        $("#"+dataTitle+"-slider").attr('init', false);
+        $( "#"+dataTitle+"-amount" ).val( $( "#"+dataTitle+"-slider" ).slider( "value" ));
+    });
+}
+
+function addAggregatedCsvData(file_name, index_cols, successCb) {
+    $.ajax({method: 'POST',
+        url: 'opendata_dd_export_aggregated_csv/',
+        dataType: 'json',
+        data: {
+            file_name: file_name,
+            index_cols: index_cols
+        },
+        async: true,
+        cache: false,
+        success: function(data) {
+            successCb(data);
+        }
+    });
+
+}
+
+function addData(successCb) {
+    $.ajax({method: 'GET',
+        url: 'opendata_dd_lebensbedingungen/',
+        dataType: 'json',
+        async: true,
+        cache: false,
+        success: function(data) {
+            successCb(data)
+        }
+    });
+}
+
+function dataMin(dataCb) {
+    result = Infinity;
+    for(let stadtraumName in stadtraumData) {
+        let data = stadtraumData[stadtraumName];
+        let t = dataCb(data,stadtraumName);
+        if(t !== false)  {
+            result = Math.min(result, t);
+        }
+    }
+    return result;
+}
+
+function dataMax(dataCb) {
+    result = -Infinity;
+    for(let stadtraumName in stadtraumData) {
+        let data = stadtraumData[stadtraumName];
+        let t = dataCb(data,stadtraumName);
+        if(t !== false)  {
+            result = Math.max(result, t);
+        }
+    }
+    return result;
+}
+
+function normalize(current, min, max) {
+    return ((current - min) / ( max - min));
+}
+
+function getColor(current, min, max) {
+    current = normalize(current, min, max);
+    let color = interpolateLinearly(current, RdYlGn);
+    let r = Math.round(255*color[0]);
+    let g = Math.round(255*color[1]);
+    let b = Math.round(255*color[2]);
+    return "rgb("+r+","+g+","+b+")";
+    
+}
+
+function addStadtteilePrefetched() {
+    let bounds = JSON.parse(stadtraumBounds);
+    
+    let dataCb = (data) => {
+        return data['Wohlbefinden'][currentYear]['Glücksindex'];
+    }
+    let min = dataMin(dataCb);
+    let max = dataMax(dataCb);
+    let label = $('<label for="happiness-amount">Zufriedenheit</label>');
+    let input = $('<input type="text" id="happiness-amount" readonly style="margin-left: 10px; border:0; color:#f6931f; font-weight:bold;">');
+    $('#sidebar-content').append(label);
+    $('#sidebar-content').append(input);
+    $('#sidebar-content').append($('</br>'));
+    
+    let defaultStyle = {
+        weight: 1,
+        dashArray: '',
+        fillOpacity: 0.4};
+    for(let key in bounds) {            
+        let color = getColor(dataCb(stadtraumData[key]), min, max);
+        stadtraumData[key]['Wohlbefinden']['default'] = normalize(dataCb(stadtraumData[key]), min, max) * 10;
+        let style = Object.assign({ color: color}, defaultStyle);
+        let polygon = L.polygon(bounds[key], style).addTo(map);
+//
+        polygonToStadtraum[polygon._leaflet_id] = key;
+        polygon.on('click', onStadtraumClick);
+        polygon.on('mouseover', highlightFeature);
+        polygon.on('mouseout', () => polygon.setStyle(style));
+//         // zoom the map to the polygon
+    }
+}
+
+function addStadtteileViaSoap(wfsBaseUrl) {
     let typename = 'L138'
     let data = {
         nodeId : 0,
@@ -170,39 +420,51 @@ function addStadtteile(wfsBaseUrl) {
                 let p = L.CRS.EPSG3857.unproject(L.point(posList[i*2], posList[i*2+1]));
                 latLngs.push([p.lat, p.lng]);
             }
-            let defaultStyle = {
-                    color: 'red',
-                    weight: 1,
-                    dashArray: '',
-                    fillOpacity: 0.4};
             let polygon = turf.polygon([latLngs]);
+            
+            let stadtraumName = stadtraumMappings[feature["cls:"+typename][0]["cls:blocknr"][0]["jValue"]]
 
-            let stadtraumName = stadtraumMappings[parseInt(feature["cls:"+typename][0]["cls:blocknr"][0]["jValue"])]
             if(typeof stadtraumData[stadtraumName] === 'undefined') {
-                stadtraumData[stadtraumName] = [];
+                stadtraumData[stadtraumName] = {};
                 stadtraumData[stadtraumName]['name'] = stadtraumName;
                 stadtraumData[stadtraumName]['polygon'] = polygon;
             } else {
                 stadtraumData[stadtraumName]['polygon'] = turf.union(stadtraumData[stadtraumName]['polygon'], polygon)
             }
-//            stadtteilDefaultStyles[polygon._leaflet_id] = defaultStyle;
-//            
-//            let stadtraum = 
-//            
-//            polygon.on('mouseover', highlightFeature);
-//            polygon.on('mouseout', () => polygon.setStyle(defaultStyle));
-        });
-        stadtraumData.forEach(function(stadtraum) {
-            debugger;
+
         });
         
-//        let longLatPoint = L.CRS.EPSG3857.unproject(L.point(p[0], p[1]));
-//        L.polygon(latlngs, {color: 'red'});
-//        map.fitBounds(polygon.getBounds());
+        let defaultStyle = {
+                color: 'red',
+                weight: 1,
+                dashArray: '',
+                fillOpacity: 0.4};
+        //var textToSave = {};
+        for(let key in stadtraumData) {
+            let turfPolygon  = stadtraumData[key]["polygon"];
+            //textToSave[key] = turfPolygon.geometry.coordinates[0];
+            
+            let polygon = L.polygon(turfPolygon.geometry.coordinates[0], defaultStyle).addTo(map);
+//
+            polygon.on('mouseover', highlightFeature);
+            polygon.on('mouseout', () => polygon.setStyle(defaultStyle));
+//         // zoom the map to the polygon
+            map.fitBounds(polygon.getBounds());
+        }
+        //saveVarAsJsonFile(textToSave)
     });
 }
 
+function saveVarAsJsonFile(variable) {
+    textToSave = JSON.stringify(variable);
 
+    var hiddenElement = document.createElement('a');
+
+    hiddenElement.href = 'data:attachment/text,' + encodeURI(textToSave);
+    hiddenElement.target = '_blank';
+    hiddenElement.download = 'myFile.txt';
+    hiddenElement.click();
+}
 
 function addLibraries(wfsBaseUrl) {
 	let data = {

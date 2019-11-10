@@ -1,0 +1,217 @@
+,Jahr,Stadtraum,Anteil Wohnungen mit Bad,Anteil Wohnungen mit IWC,Anteil Wohnungen mit Balkon o.ä.
+0,1993,01 StB Altstadt ohne Johannstadt,74,94,61
+1,1993,02 Johannstadt,89,96,76
+2,1993,03 StB Neustadt ohne Leipziger Vorstadt,64,64,40
+3,1993,"04 Leipziger Vorstadt, Pieschen",55,64,22
+4,1993,"05 Mickten, Kaditz, Trachau",69,82,46
+5,1993,06 StB Klotzsche und nördliche OS,92,94,56
+6,1993,07 StB Loschwitz und OS Schönfeld-Weißig,84,89,53
+7,1993,"08 Blasewitz, Striesen",83,86,52
+8,1993,"09 Tolkewitz, Seidnitz, Gruna",90,95,65
+9,1993,10 StB Leuben,84,88,58
+10,1993,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",93,97,67
+11,1993,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",80,89,47
+12,1993,"13 Südvorstadt, Zschertnitz",89,96,62
+13,1993,"14 Mockritz, Coschütz, Plauen",79,84,50
+14,1993,"15 Cotta, Löbtau, Naußlitz, Dölzschen",51,63,38
+15,1993,16 Gorbitz,96,97,81
+16,1993,17 Briesnitz und westliche OS,74,74,22
+17,1993,18 Dresden gesamt,80,86,55
+18,1995,01 StB Altstadt ohne Johannstadt,85,97,56
+19,1995,02 Johannstadt,91,92,68
+20,1995,03 StB Neustadt ohne Leipziger Vorstadt,72,80,34
+21,1995,"04 Leipziger Vorstadt, Pieschen",59,67,26
+22,1995,"05 Mickten, Kaditz, Trachau",75,87,46
+23,1995,06 StB Klotzsche und nördliche OS,83,86,51
+24,1995,07 StB Loschwitz und OS Schönfeld-Weißig,77,86,49
+25,1995,"08 Blasewitz, Striesen",82,84,55
+26,1995,"09 Tolkewitz, Seidnitz, Gruna",89,96,72
+27,1995,10 StB Leuben,89,95,58
+28,1995,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",98,96,62
+29,1995,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",79,88,52
+30,1995,"13 Südvorstadt, Zschertnitz",94,96,67
+31,1995,"14 Mockritz, Coschütz, Plauen",88,90,57
+32,1995,"15 Cotta, Löbtau, Naußlitz, Dölzschen",61,72,37
+33,1995,16 Gorbitz,96,98,78
+34,1995,17 Briesnitz und westliche OS,76,86,22
+35,1995,18 Dresden gesamt,83,89,55
+36,1996,01 StB Altstadt ohne Johannstadt,94,96,72
+37,1996,02 Johannstadt,96,92,63
+38,1996,03 StB Neustadt ohne Leipziger Vorstadt,86,85,41
+39,1996,"04 Leipziger Vorstadt, Pieschen",73,83,41
+40,1996,"05 Mickten, Kaditz, Trachau",80,86,51
+41,1996,06 StB Klotzsche und nördliche OS,94,95,47
+42,1996,07 StB Loschwitz und OS Schönfeld-Weißig,83,93,55
+43,1996,"08 Blasewitz, Striesen",94,95,66
+44,1996,"09 Tolkewitz, Seidnitz, Gruna",95,95,78
+45,1996,10 StB Leuben,94,96,67
+46,1996,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",99,99,64
+47,1996,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",95,93,62
+48,1996,"13 Südvorstadt, Zschertnitz",96,95,69
+49,1996,"14 Mockritz, Coschütz, Plauen",95,94,66
+50,1996,"15 Cotta, Löbtau, Naußlitz, Dölzschen",79,87,40
+51,1996,16 Gorbitz,99,98,77
+52,1996,17 Briesnitz und westliche OS,80,91,34
+53,1996,18 Dresden gesamt,91,93,61
+54,1998,01 StB Altstadt ohne Johannstadt,97,93,62
+55,1998,02 Johannstadt,99,97,70
+56,1998,03 StB Neustadt ohne Leipziger Vorstadt,95,93,44
+57,1998,"04 Leipziger Vorstadt, Pieschen",84,90,43
+58,1998,"05 Mickten, Kaditz, Trachau",94,95,63
+59,1998,06 StB Klotzsche und nördliche OS,94,96,64
+60,1998,07 StB Loschwitz und OS Schönfeld-Weißig,93,92,64
+61,1998,"08 Blasewitz, Striesen",94,94,69
+62,1998,"09 Tolkewitz, Seidnitz, Gruna",99,99,75
+63,1998,10 StB Leuben,97,95,63
+64,1998,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",99,98,72
+65,1998,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",96,97,64
+66,1998,"13 Südvorstadt, Zschertnitz",97,96,69
+67,1998,"14 Mockritz, Coschütz, Plauen",92,94,62
+68,1998,"15 Cotta, Löbtau, Naußlitz, Dölzschen",88,91,49
+69,1998,16 Gorbitz,100,97,75
+70,1998,17 Briesnitz und westliche OS,90,92,45
+71,1998,18 Dresden gesamt,95,95,62
+72,2002,01 StB Altstadt ohne Johannstadt,92,94,60
+73,2002,02 Johannstadt,98,96,77
+74,2002,03 StB Neustadt ohne Leipziger Vorstadt,95,91,49
+75,2002,"04 Leipziger Vorstadt, Pieschen",91,88,60
+76,2002,"05 Mickten, Kaditz, Trachau",94,96,65
+77,2002,06 StB Klotzsche und nördliche OS,96,99,71
+78,2002,07 StB Loschwitz und OS Schönfeld-Weißig,94,95,71
+79,2002,"08 Blasewitz, Striesen",97,97,72
+80,2002,"09 Tolkewitz, Seidnitz, Gruna",98,96,83
+81,2002,10 StB Leuben,95,98,71
+82,2002,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",98,93,73
+83,2002,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",97,99,69
+84,2002,"13 Südvorstadt, Zschertnitz",96,96,75
+85,2002,"14 Mockritz, Coschütz, Plauen",97,94,72
+86,2002,"15 Cotta, Löbtau, Naußlitz, Dölzschen",93,95,60
+87,2002,16 Gorbitz,99,97,75
+88,2002,17 Briesnitz und westliche OS,94,95,58
+89,2002,18 Dresden gesamt,96,95,69
+90,2005,01 StB Altstadt ohne Johannstadt,99,100,75
+91,2005,02 Johannstadt,100,99,78
+92,2005,03 StB Neustadt ohne Leipziger Vorstadt,98,99,54
+93,2005,"04 Leipziger Vorstadt, Pieschen",97,98,51
+94,2005,"05 Mickten, Kaditz, Trachau",99,100,66
+95,2005,06 StB Klotzsche und nördliche OS,99,97,82
+96,2005,07 StB Loschwitz und OS Schönfeld-Weißig,97,96,74
+97,2005,"08 Blasewitz, Striesen",99,100,81
+98,2005,"09 Tolkewitz, Seidnitz, Gruna",99,100,89
+99,2005,10 StB Leuben,99,100,79
+100,2005,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",99,100,78
+101,2005,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",100,100,79
+102,2005,"13 Südvorstadt, Zschertnitz",99,100,77
+103,2005,"14 Mockritz, Coschütz, Plauen",100,100,81
+104,2005,"15 Cotta, Löbtau, Naußlitz, Dölzschen",98,99,64
+105,2005,16 Gorbitz,99,100,83
+106,2005,17 Briesnitz und westliche OS,98,97,70
+107,2005,18 Dresden gesamt,99,99,75
+108,2007,01 StB Altstadt ohne Johannstadt,98,100,72
+109,2007,02 Johannstadt,99,100,89
+110,2007,03 StB Neustadt ohne Leipziger Vorstadt,96,98,63
+111,2007,"04 Leipziger Vorstadt, Pieschen",98,99,58
+112,2007,"05 Mickten, Kaditz, Trachau",99,100,69
+113,2007,06 StB Klotzsche und nördliche OS,98,99,73
+114,2007,07 StB Loschwitz und OS Schönfeld-Weißig,100,98,83
+115,2007,"08 Blasewitz, Striesen",100,100,78
+116,2007,"09 Tolkewitz, Seidnitz, Gruna",100,100,84
+117,2007,10 StB Leuben,100,99,84
+118,2007,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",100,99,78
+119,2007,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",100,100,73
+120,2007,"13 Südvorstadt, Zschertnitz",99,99,70
+121,2007,"14 Mockritz, Coschütz, Plauen",99,99,79
+122,2007,"15 Cotta, Löbtau, Naußlitz, Dölzschen",97,98,66
+123,2007,16 Gorbitz,99,100,80
+124,2007,17 Briesnitz und westliche OS,99,98,72
+125,2007,18 Dresden gesamt,99,99,74
+126,2010,01 StB Altstadt ohne Johannstadt,100,100,74
+127,2010,02 Johannstadt,97,100,84
+128,2010,03 StB Neustadt ohne Leipziger Vorstadt,99,100,71
+129,2010,"04 Leipziger Vorstadt, Pieschen",100,99,58
+130,2010,"05 Mickten, Kaditz, Trachau",100,100,74
+131,2010,06 StB Klotzsche und nördliche OS,97,100,73
+132,2010,07 StB Loschwitz und OS Schönfeld-Weißig,100,98,87
+133,2010,"08 Blasewitz, Striesen",98,99,75
+134,2010,"09 Tolkewitz, Seidnitz, Gruna",100,100,88
+135,2010,10 StB Leuben,100,100,82
+136,2010,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",100,98,84
+137,2010,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",98,100,79
+138,2010,"13 Südvorstadt, Zschertnitz",100,100,77
+139,2010,"14 Mockritz, Coschütz, Plauen",97,97,80
+140,2010,"15 Cotta, Löbtau, Naußlitz, Dölzschen",100,99,79
+141,2010,16 Gorbitz,100,100,94
+142,2010,17 Briesnitz und westliche OS,99,99,81
+143,2010,18 Dresden gesamt,99,99,78
+144,2012,01 StB Altstadt ohne Johannstadt,99,100,76
+145,2012,02 Johannstadt,100,99,88
+146,2012,03 StB Neustadt ohne Leipziger Vorstadt,98,99,65
+147,2012,"04 Leipziger Vorstadt, Pieschen",100,100,49
+148,2012,"05 Mickten, Kaditz, Trachau",100,99,65
+149,2012,06 StB Klotzsche und nördliche OS,99,100,80
+150,2012,07 StB Loschwitz und OS Schönfeld-Weißig,99,97,78
+151,2012,"08 Blasewitz, Striesen",98,100,81
+152,2012,"09 Tolkewitz, Seidnitz, Gruna",100,100,88
+153,2012,10 StB Leuben,100,100,89
+154,2012,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",100,100,82
+155,2012,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",98,97,79
+156,2012,"13 Südvorstadt, Zschertnitz",100,99,72
+157,2012,"14 Mockritz, Coschütz, Plauen",99,99,79
+158,2012,"15 Cotta, Löbtau, Naußlitz, Dölzschen",100,99,53
+159,2012,16 Gorbitz,99,97,88
+160,2012,17 Briesnitz und westliche OS,100,100,73
+161,2012,18 Dresden gesamt,99,99,75
+162,2014,01 StB Altstadt ohne Johannstadt,100,98,67
+163,2014,02 Johannstadt,100,100,84
+164,2014,03 StB Neustadt ohne Leipziger Vorstadt,100,98,66
+165,2014,"04 Leipziger Vorstadt, Pieschen",100,98,65
+166,2014,"05 Mickten, Kaditz, Trachau",100,100,76
+167,2014,06 StB Klotzsche und nördliche OS,99,98,78
+168,2014,07 StB Loschwitz und OS Schönfeld-Weißig,100,99,91
+169,2014,"08 Blasewitz, Striesen",98,100,83
+170,2014,"09 Tolkewitz, Seidnitz, Gruna",100,100,88
+171,2014,10 StB Leuben,99,100,86
+172,2014,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",99,100,84
+173,2014,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",100,100,82
+174,2014,"13 Südvorstadt, Zschertnitz",100,98,77
+175,2014,"14 Mockritz, Coschütz, Plauen",100,100,83
+176,2014,"15 Cotta, Löbtau, Naußlitz, Dölzschen",99,98,61
+177,2014,16 Gorbitz,97,100,89
+178,2014,17 Briesnitz und westliche OS,100,100,72
+179,2014,18 Dresden gesamt,99,99,77
+180,2016,01 StB Altstadt ohne Johannstadt,96,94,75
+181,2016,02 Johannstadt,97,97,86
+182,2016,03 StB Neustadt ohne Leipziger Vorstadt,100,100,60
+183,2016,"04 Leipziger Vorstadt, Pieschen",99,98,59
+184,2016,"05 Mickten, Kaditz, Trachau",98,99,67
+185,2016,06 StB Klotzsche und nördliche OS,100,97,70
+186,2016,07 StB Loschwitz und OS Schönfeld-Weißig,100,100,77
+187,2016,"08 Blasewitz, Striesen",99,99,79
+188,2016,"09 Tolkewitz, Seidnitz, Gruna",98,100,84
+189,2016,10 StB Leuben,99,98,83
+190,2016,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",98,98,82
+191,2016,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",98,99,73
+192,2016,"13 Südvorstadt, Zschertnitz",98,100,84
+193,2016,"14 Mockritz, Coschütz, Plauen",100,99,77
+194,2016,"15 Cotta, Löbtau, Naußlitz, Dölzschen",97,99,67
+195,2016,16 Gorbitz,100,100,85
+196,2016,17 Briesnitz und westliche OS,99,98,71
+197,2016,18 Dresden gesamt,99,98,74
+198,2018,01 StB Altstadt ohne Johannstadt,100,97,78
+199,2018,02 Johannstadt,99,98,85
+200,2018,03 StB Neustadt ohne Leipziger Vorstadt,97,95,69
+201,2018,"04 Leipziger Vorstadt, Pieschen",98,95,65
+202,2018,"05 Mickten, Kaditz, Trachau",97,99,72
+203,2018,06 StB Klotzsche und nördliche OS,100,95,83
+204,2018,07 StB Loschwitz und OS Schönfeld-Weißig,100,97,81
+205,2018,"08 Blasewitz, Striesen",100,98,75
+206,2018,"09 Tolkewitz, Seidnitz, Gruna",100,99,88
+207,2018,10 StB Leuben,100,99,82
+208,2018,"11 Prohlis, Reick (mit Sternhäuser, Am Koitschgraben)",96,98,84
+209,2018,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternhäuser, Am Koitschgraben)",99,99,77
+210,2018,"13 Südvorstadt, Zschertnitz",99,100,79
+211,2018,"14 Mockritz, Coschütz, Plauen",100,100,85
+212,2018,"15 Cotta, Löbtau, Naußlitz, Dölzschen",100,100,68
+213,2018,16 Gorbitz,100,99,85
+214,2018,17 Briesnitz und westliche OS,97,99,68
+215,2018,18 Dresden gesamt,99,98,77
