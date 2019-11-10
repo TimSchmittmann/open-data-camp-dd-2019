@@ -1,5 +1,7 @@
 let p = L.CRS.EPSG3857.project(L.point(51.050407, 13.737262));
 
+var stadtraumData = [];
+
 function ll(latLng) {
 	let m = matrixIds3857;
 	let t = L.latLng(latLng.lat, latLng.lng);
@@ -18,6 +20,21 @@ function ll(latLng) {
 var map = L.map('mapid', {
 }).setView([51.050407, 13.737262], 12);
 var popup = L.popup();
+
+function highlightFeature(e) {
+    var layer = e.target;
+
+    layer.setStyle({
+        weight: 5,
+        color: '#666',
+        dashArray: '',
+        fillOpacity: 0.7
+    });
+
+    if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+        layer.bringToFront();
+    }
+}
 
 //https://geodienste.sachsen.de/wmts_geosn_dop-strassen/guest?SERVICE=WMTS&VERSION=1.0.0&REQUEST=GetCapabilities
 //https://geodienste.sachsen.de/wmts_geosn_webatlas-sn/guest?SERVICE=WMTS&VERSION=1.0.0&REQUEST=GetTile&LAYER=WMTS&STYLE=default&FORMAT=image/png&TILEMATRIXSET=grid_3857&TILEMATRIX=03&TILEROW=00&TILECOL=00
@@ -81,33 +98,111 @@ L.control.scale({'position':'bottomleft','metric':true,'imperial':false}).addTo(
 
 map.addLayer(tiles);
 
-var libs = L.tileLayer.wms("https://kommisdd.dresden.de/net3/public/ogcsl.ashx?Service=WMS&NODEID=664", {
-    layers: 'L494',
+//var libs = L.tileLayer.wms("https://kommisdd.dresden.de/net3/public/ogcsl.ashx?Service=WMS&NODEID=664", {
+//    layers: 'L494',
+//    format: 'image/png',
+//    transparent: true,
+//    CRS: 'urn:ogc:def:crs:EPSG::3857',
+//    attribution: "Weather data © 2012 IEM Nexrad"
+//}).addTo(map);
+var bezirke = L.tileLayer.betterWms("https://kommisdd.dresden.de/net3/public/ogcsl.ashx?Service=WMS&NODEID=189", {
+    layers: 'L138',
+    format: 'image/png',
+    transparent: true,
+    CRS: 'urn:ogc:def:crs:EPSG::3857',
+    attribution: "Weather data © 2012 IEM Nexrad"
+});
+
+bezirke.on({
+    mouseover: highlightFeature
+});
+
+bezirke.addTo(map);
+
+var clinics = L.tileLayer.wms("https://kommisdd.dresden.de/net3/public/ogcsl.ashx?Service=WMS&NODEID=159", {
+    layers: 'L88',
     format: 'image/png',
     transparent: true,
     CRS: 'urn:ogc:def:crs:EPSG::3857',
     attribution: "Weather data © 2012 IEM Nexrad"
 }).addTo(map);
 
+clinics.on({
+    mouseover: highlightFeature
+});
+
+clinics.addTo(map);
+
+
 var baseLayers = {
 		"Web Atlas" : tiles
 		
 	};
 
-L.control.layers(baseLayers, {"Bibliotheken " : libs}).addTo(map);    
+L.control.layers({}, {"Web Atlas" : tiles, "Clinics " : clinics, 'Bezirke': bezirke}).addTo(map);    
 
-map.on('click', onMapClick);
-
+//map.on('click', onMapClick);
 //
 let wfsBaseUrl = 'https://kommisdd.dresden.de/net3/public/ogcsl.ashx?Service=WFS&REQUEST=GetFeature&srsName=urn:ogc:def:crs:EPSG::3857';
-addLibraries(wfsBaseUrl);
+//addLibraries(wfsBaseUrl);
+addStadtteile(wfsBaseUrl);
 
-function onMapClick(e) {
-	popup
-		.setLatLng(e.latlng)
-		.setContent("You clicked the map at " + e.latlng.toString())
-		.openOn(map);
+//function onMapClick(e) {
+//	popup
+//		.setLatLng(e.latlng)
+//		.setContent("You clicked the map at " + e.latlng.toString())
+//		.openOn(map);
+//}
+
+function addStadtteile(wfsBaseUrl) {
+    let typename = 'L138'
+    let data = {
+        nodeId : 0,
+        typeNames: typename 
+    };
+
+    soap(wfsBaseUrl, data, (data) => {
+        let features = dataToFeatures(data)
+        features.forEach(function(feature) {
+            let posList = feature["cls:"+typename][0]["cls:PrimaryGeometry"][0]["gml:Polygon"][0]["gml:exterior"][0]["gml:LinearRing"][0]["gml:posList"][0]["jValue"].split(' ');
+            let latLngs = [];
+            for(let i=0; i<Math.floor(posList.length/2); i++) {
+                let p = L.CRS.EPSG3857.unproject(L.point(posList[i*2], posList[i*2+1]));
+                latLngs.push([p.lat, p.lng]);
+            }
+            let defaultStyle = {
+                    color: 'red',
+                    weight: 1,
+                    dashArray: '',
+                    fillOpacity: 0.4};
+            let polygon = turf.polygon([latLngs]);
+
+            let stadtraumName = stadtraumMappings[parseInt(feature["cls:"+typename][0]["cls:blocknr"][0]["jValue"])]
+            if(typeof stadtraumData[stadtraumName] === 'undefined') {
+                stadtraumData[stadtraumName] = [];
+                stadtraumData[stadtraumName]['name'] = stadtraumName;
+                stadtraumData[stadtraumName]['polygon'] = polygon;
+            } else {
+                stadtraumData[stadtraumName]['polygon'] = turf.union(stadtraumData[stadtraumName]['polygon'], polygon)
+            }
+//            stadtteilDefaultStyles[polygon._leaflet_id] = defaultStyle;
+//            
+//            let stadtraum = 
+//            
+//            polygon.on('mouseover', highlightFeature);
+//            polygon.on('mouseout', () => polygon.setStyle(defaultStyle));
+        });
+        stadtraumData.forEach(function(stadtraum) {
+            debugger;
+        });
+        
+//        let longLatPoint = L.CRS.EPSG3857.unproject(L.point(p[0], p[1]));
+//        L.polygon(latlngs, {color: 'red'});
+//        map.fitBounds(polygon.getBounds());
+    });
 }
+
+
 
 function addLibraries(wfsBaseUrl) {
 	let data = {

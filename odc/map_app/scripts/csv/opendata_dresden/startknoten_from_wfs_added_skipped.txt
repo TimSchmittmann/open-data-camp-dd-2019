@@ -1,0 +1,1147 @@
+NodeId: 0 Startknoten
+Added: 0, Processed: 0, Total: 573
+Skipped feature: Adressen (cls:L134)
+Added: 0, Processed: 1, Total: 573
+Skipped feature: Gemarkungen (cls:L1103)
+Added: 0, Processed: 2, Total: 573
+Skipped feature: Stadtbezirke/Ortschaften (cls:L139)
+Added: 0, Processed: 3, Total: 573
+Skipped feature: Stadtteile (cls:L137)
+Added: 0, Processed: 4, Total: 573
+Skipped feature: Statistische Bezirke (cls:L138)
+Added: 0, Processed: 5, Total: 573
+Skipped feature: Bruttoblöcke (cls:L479)
+Added: 0, Processed: 6, Total: 573
+Skipped feature: Nettoblöcke (cls:L480)
+Added: 0, Processed: 7, Total: 573
+Skipped feature: Flurstücke (cls:L28)
+Added: 0, Processed: 8, Total: 573
+Skipped feature: Gebäude (cls:L69)
+Added: 0, Processed: 9, Total: 573
+Skipped feature: Hausnummern (cls:L70)
+Added: 0, Processed: 10, Total: 573
+Skipped feature: Gebäude - Beschriftung (cls:L71)
+Added: 0, Processed: 11, Total: 573
+Skipped feature: Gemarkungsnamen (cls:L72)
+Added: 0, Processed: 12, Total: 573
+Skipped feature: Gemarkungen (cls:L73)
+Added: 0, Processed: 13, Total: 573
+Skipped feature: Nutzungsarten (cls:L82)
+Added: 0, Processed: 14, Total: 573
+Skipped feature: Nutzungsarten - Beschriftung (cls:L83)
+Added: 0, Processed: 15, Total: 573
+Skipped feature: Brücken (cls:L79)
+Added: 0, Processed: 16, Total: 573
+Skipped feature: Brücken (über Straßenbahntrassen) (cls:L76)
+Added: 0, Processed: 17, Total: 573
+Skipped feature: Brücken (unter Straßenbahntrassen) (cls:L77)
+Added: 0, Processed: 18, Total: 573
+Skipped feature: Straßenbahntrassen (cls:L80)
+Added: 0, Processed: 19, Total: 573
+Skipped feature: Verkehrswege (oben) (cls:L74)
+Added: 0, Processed: 20, Total: 573
+Skipped feature: Verkehrswege (unten) (cls:L78)
+Added: 0, Processed: 21, Total: 573
+Skipped feature: Fähren und Anlegestellen (cls:L81)
+Added: 0, Processed: 22, Total: 573
+Skipped feature: Stadtgrenze (cls:L84)
+Added: 0, Processed: 23, Total: 573
+Skipped feature: Orthophotos 2018/2019 - Befliegungsgrenzen (cls:L838)
+Added: 0, Processed: 24, Total: 573
+Skipped feature: Straßenknotennetz - Kanten (cls:L125)
+Added: 0, Processed: 25, Total: 573
+Skipped feature: Straßenknotennetz - Knoten (cls:L126)
+Added: 0, Processed: 26, Total: 573
+Skipped feature: Straßenbahntrassen (cls:L124)
+Added: 0, Processed: 27, Total: 573
+Skipped feature: Straßenknotennetz - Knoten (cls:L122)
+Added: 0, Processed: 28, Total: 573
+Skipped feature: Straßenknotennetz - Kanten (cls:L123)
+Added: 0, Processed: 29, Total: 573
+Skipped feature: Fließgewässer (cls:L59)
+Added: 0, Processed: 30, Total: 573
+Skipped feature: Elbe und stehende Gewässer (cls:L58)
+Added: 0, Processed: 31, Total: 573
+Skipped feature: Nutzungsarten (cls:L57)
+Added: 0, Processed: 32, Total: 573
+Skipped feature: Stadtgrenzband (cls:L52)
+Added: 0, Processed: 33, Total: 573
+Skipped feature: Stadtgrenze (cls:L2)
+Added: 0, Processed: 34, Total: 573
+Skipped feature: Überführungen (cls:L49)
+Added: 0, Processed: 35, Total: 573
+Skipped feature: Bahnhöfe (cls:L42)
+Added: 0, Processed: 36, Total: 573
+Skipped feature: Wege (cls:L45)
+Added: 0, Processed: 37, Total: 573
+Skipped feature: Bahntrassen (cls:L46)
+Added: 0, Processed: 38, Total: 573
+Added feature: Bahnhöfe, weitere (cls:L50)
+Added: 1, Processed: 39, Total: 573
+Skipped feature: Verkehrswege, sonstige (cls:L43)
+Added: 1, Processed: 40, Total: 573
+Skipped feature: Verkehrswegenummern (cls:L41)
+Added: 1, Processed: 41, Total: 573
+Skipped feature: Verkehrswege (cls:L47)
+Added: 1, Processed: 42, Total: 573
+Skipped feature: Tunnel (cls:L48)
+Added: 1, Processed: 43, Total: 573
+Added feature: Infrastruktur (cls:L51)
+Added: 2, Processed: 44, Total: 573
+Skipped feature: Landschaftsschutzgebiete (cls:L18)
+Added: 2, Processed: 45, Total: 573
+Skipped feature: Naturschutzgebiete (cls:L20)
+Added: 2, Processed: 46, Total: 573
+Skipped feature: Naturdenkmale (cls:L34)
+Added: 2, Processed: 47, Total: 573
+Skipped feature: FFH-Gebiete (cls:L618)
+Added: 2, Processed: 48, Total: 573
+Skipped feature: Besonders wertvolle Gehölze (cls:L807)
+Added: 2, Processed: 49, Total: 573
+Skipped feature: Geschützte Landschaftsbestandteile (cls:L928)
+Added: 2, Processed: 50, Total: 573
+Skipped feature: SPA-Gebiete (cls:L929)
+Added: 2, Processed: 51, Total: 573
+Skipped feature: Besonders geschützte Biotope (cls:L926)
+Added: 2, Processed: 52, Total: 573
+Added feature: Grillplätze und Lagerfeuerstellen (cls:L927)
+Added: 3, Processed: 53, Total: 573
+Skipped feature: Maßnahmegruppen Ausgleich (cls:L1074)
+Added: 3, Processed: 54, Total: 573
+Skipped feature: NO2 - Straßenrandbelastung (cls:L511)
+Added: 3, Processed: 55, Total: 573
+Skipped feature: NO2 - flächenhafte Belastung (cls:L512)
+Added: 3, Processed: 56, Total: 573
+Skipped feature: PM10 - flächenhafte Belastung (cls:L510)
+Added: 3, Processed: 57, Total: 573
+Skipped feature: PM10 - Straßenrandbelastung (cls:L509)
+Added: 3, Processed: 58, Total: 573
+Skipped feature: Überschwemmungsgebiete der Gewässer zweiter Ordnung - TSP (cls:L140)
+Added: 3, Processed: 59, Total: 573
+Skipped feature: 4.13.1 Hochwasser 2002 (W=9,40 m) - Tatsächlich überschwemmte Flächen - TSP (cls:L22)
+Added: 3, Processed: 60, Total: 573
+Skipped feature: 4.13.2 Tatsächlich überschwemmte Fläche Elbe-Hochwasser vom 04.04.2006 - TSP (cls:L758)
+Added: 3, Processed: 61, Total: 573
+Skipped feature: Minimale Grundwasserflurabstände - Hochwasser 2002 (interpoliert) (cls:L760)
+Added: 3, Processed: 62, Total: 573
+Added feature: Minimale Grundwasserflurabstände - Hochwasser 2002 (gemessene Werte) (cls:L759)
+Added: 4, Processed: 63, Total: 573
+Skipped feature: Minimale Grundwasserflurabstände - Hochwasser 2006 (interpoliert) (cls:L824)
+Added: 4, Processed: 64, Total: 573
+Added feature: Minimale Grundwasserflurabstände - Hochwasser 2006 (gemessene Werte) (cls:L825)
+Added: 5, Processed: 65, Total: 573
+Skipped feature: Alarmstufe 2 - Kontrolldienst (cls:L980)
+Added: 5, Processed: 66, Total: 573
+Skipped feature: Alarmstufe 3 - Wachdienst (cls:L981)
+Added: 5, Processed: 67, Total: 573
+Skipped feature: Alarmstufe 4 - Hochwasserabwehr (cls:L982)
+Added: 5, Processed: 68, Total: 573
+Skipped feature: Alarmstufe 1 - Meldedienst (cls:L1064)
+Added: 5, Processed: 69, Total: 573
+Added feature: Nitratbelastung im Zeitraum 2006 bis 2008 (cls:L978)
+Added: 6, Processed: 70, Total: 573
+Skipped feature: potentielle Nitrataustragsflächen (cls:L979)
+Added: 6, Processed: 71, Total: 573
+Skipped feature: Leitbodentypen und -arten (cls:L977)
+Added: 6, Processed: 72, Total: 573
+Skipped feature: Maptip zur Elbe (cls:L992)
+Added: 6, Processed: 73, Total: 573
+Skipped feature: Maptip zum Gewässersteckbrief (cls:L993)
+Added: 6, Processed: 74, Total: 573
+Skipped feature: an der Weißeritz und dem Lockwitzbach (cls:L986)
+Added: 6, Processed: 75, Total: 573
+Skipped feature: im Abwassersystem (cls:L987)
+Added: 6, Processed: 76, Total: 573
+Added feature: im Grundwasser (cls:L988)
+Added: 7, Processed: 77, Total: 573
+Added feature: an der Elbe (cls:L989)
+Added: 8, Processed: 78, Total: 573
+Skipped feature: an Gewässern zweiter Ordnung (cls:L990)
+Added: 8, Processed: 79, Total: 573
+Added feature: Stützstellen der Isolinien 2017 (cls:L1002)
+Added: 9, Processed: 80, Total: 573
+Skipped feature: Isolinien des Grundwasserstandes 2017 (cls:L1003)
+Added: 9, Processed: 81, Total: 573
+Added feature: Maptip Hochwassermarken (cls:L1000)
+Added: 10, Processed: 82, Total: 573
+Added feature: Hochwassermarken (cls:L1001)
+Added: 11, Processed: 83, Total: 573
+Skipped feature: Maßnahmen der Gewässerentwicklung an Gewässern zweiter Ordnung (cls:L1005)
+Added: 11, Processed: 84, Total: 573
+Skipped feature: Grundwasserstände 2017 (cls:L865)
+Added: 11, Processed: 85, Total: 573
+Skipped feature: 2013: Grundwasserflurabstand [m] außerhalb des quart. Elbtal-GWL (cls:L867)
+Added: 11, Processed: 86, Total: 573
+Added feature: 2013: Temperatur 1m unter Wasserspiegel  (Messwerte in Dresden) (cls:L960)
+Added: 12, Processed: 87, Total: 573
+Added feature: 2017: Temperatur 1m unter Wasserspiegel (Messwerte in Dresden) (cls:L961)
+Added: 13, Processed: 88, Total: 573
+Added feature: 2015: Temperatur 1m über Grundwasserleitersohle (Messwerte) (cls:L967)
+Added: 14, Processed: 89, Total: 573
+Added feature: 2015: Temperatur 1m unter Wasserspiegel (Messwerte) (cls:L970)
+Added: 15, Processed: 90, Total: 573
+Skipped feature: kretazischer Grundwasserleiter (cls:L870)
+Added: 15, Processed: 91, Total: 573
+Skipped feature: pleistozäne lokale Grundwasserleiter (cls:L871)
+Added: 15, Processed: 92, Total: 573
+Skipped feature: Hauptgrundwasserleiter, zusammengefasst (cls:L872)
+Added: 15, Processed: 93, Total: 573
+Skipped feature: pleistozäner Hauptgrundwasserleiter, differenziert (cls:L873)
+Added: 15, Processed: 94, Total: 573
+Skipped feature: schematische Grenze des pleistozänen Hauptgrundwasserleiters (cls:L959)
+Added: 15, Processed: 95, Total: 573
+Skipped feature: pleistozäne Bedeckung ohne bedeutende Grundwasserführung (cls:L1012)
+Added: 15, Processed: 96, Total: 573
+Skipped feature: Randpleistozän (cls:L1010)
+Added: 15, Processed: 97, Total: 573
+Skipped feature: Geologie (cls:L1011)
+Added: 15, Processed: 98, Total: 573
+Skipped feature:  Elbe -  550 cm Pegel Dresden, potentiell überschwemmte Flächen (Modell 2008)  (cls:L784)
+Added: 15, Processed: 99, Total: 573
+Skipped feature:  Elbe -  650 cm Pegel Dresden, potentiell überschwemmte Flächen (Modell 2008)  (cls:L785)
+Added: 15, Processed: 100, Total: 573
+Skipped feature:  Elbe -  750 cm Pegel Dresden (HQ10), potentiell überschwemmte Flächen (Modell 2008)  (cls:L786)
+Added: 15, Processed: 101, Total: 573
+Skipped feature: Elbe -  876 cm Pegel Dresden (HQ50), potentiell überschwemmte Flächen (Modell 2008)  (cls:L787)
+Added: 15, Processed: 102, Total: 573
+Skipped feature: Elbe -  924 cm Pegel Dresden (HQ100), potentiell überschwemmte Flächen (Modell 2008)  (cls:L771)
+Added: 15, Processed: 103, Total: 573
+Skipped feature:  Elbe -  400 cm Pegel Dresden, potentiell überschwemmte Flächen (Modell 2008)  (cls:L772)
+Added: 15, Processed: 104, Total: 573
+Skipped feature:  Elbe -  500 cm Pegel Dresden, potentiell überschwemmte Flächen (Modell 2008)  (cls:L773)
+Added: 15, Processed: 105, Total: 573
+Skipped feature:  Elbe - 700 cm Pegel Dresden (HQ5 - HQ10), potentiell überschwemmte Flächen (Modell 2008)  (cls:L775)
+Added: 15, Processed: 106, Total: 573
+Skipped feature:  Elbe -  600 cm Pegel Dresden, potentiell überschwemmte Flächen (Modell 2008)  (cls:L774)
+Added: 15, Processed: 107, Total: 573
+Skipped feature:  Elbe -  800 cm Pegel Dresden (HQ10 - HQ20), potentiell überschwemmte Flächen (Modell 2008)  (cls:L776)
+Added: 15, Processed: 108, Total: 573
+Skipped feature: Elbe -  850 cm Pegel Dresden, potentiell überschwemmte Flächen (Modell 2008)  (cls:L777)
+Added: 15, Processed: 109, Total: 573
+Skipped feature: Elbe -  900 cm Pegel Dresden, potentiell überschwemmte Flächen (Modell 2008)  (cls:L778)
+Added: 15, Processed: 110, Total: 573
+Skipped feature: Elbe -  950 cm Pegel Dresden, potentiell überschwemmte Flächen (Modell 2008)  (cls:L780)
+Added: 15, Processed: 111, Total: 573
+Skipped feature: Elbe - 1000 cm Pegel Dresden (HQ200 - HQ500), potentiell überschwemmte Flächen (Modell 2008)  (cls:L779)
+Added: 15, Processed: 112, Total: 573
+Skipped feature: Elbe - 1050 cm Pegel Dresden (>HQ500), potentiell überschwemmte Flächen (Modell 2008)  (cls:L781)
+Added: 15, Processed: 113, Total: 573
+Skipped feature:  Elbe -  350 cm Pegel Dresden, potentiell überschwemmte Flächen (Modell 2008)  (cls:L782)
+Added: 15, Processed: 114, Total: 573
+Skipped feature:  Elbe -  450 cm Pegel Dresden, potentiell überschwemmte Flächen (Modell 2008)  (cls:L783)
+Added: 15, Processed: 115, Total: 573
+Skipped feature: Elbe - ab 7,00 m bis 9,24 m (HW100) wirksame Hochwasserschutzanlagen (cls:L877)
+Added: 15, Processed: 116, Total: 573
+Skipped feature: HW 2013 - tatsächlich überschwemmte Flächen am Lockwitzbach (Gewässer erster Ordnung) (cls:L878)
+Added: 15, Processed: 117, Total: 573
+Skipped feature: HW 2013 - tatsächlich überschwemmte Flächen an der Elbe (W=8,78 m) (cls:L836)
+Added: 15, Processed: 118, Total: 573
+Skipped feature: HW 2013 - tatsächlich überschwemmte Flächen an Gewässern zweiter Ordnung (cls:L879)
+Added: 15, Processed: 119, Total: 573
+Skipped feature: HW 2013 - tatsächlich überschwemmte Flächen aus der Kanalisation (cls:L880)
+Added: 15, Processed: 120, Total: 573
+Added feature: Grundwasserflurabstände - Hochwasser 2013 (gemessene Werte) (cls:L983)
+Added: 16, Processed: 121, Total: 573
+Skipped feature: Grundhochwasserbereiche HW 2002 (cls:L791)
+Added: 16, Processed: 122, Total: 573
+Skipped feature: Elbe-Hochwasser 2006 (W=7,49 m) (cls:L765)
+Added: 16, Processed: 123, Total: 573
+Skipped feature: Elbe-Hochwasser 2006 - Sandsackverbaue (cls:L766)
+Added: 16, Processed: 124, Total: 573
+Skipped feature: Elbe-Hochwasser 2006 - Vernässte Flächen (cls:L767)
+Added: 16, Processed: 125, Total: 573
+Skipped feature: Elbe-Hochwasser 2002 - Abflussgebiet (cls:L768)
+Added: 16, Processed: 126, Total: 573
+Skipped feature: Elbe-Hochwasser 2002 - Sandsackverbaue (cls:L769)
+Added: 16, Processed: 127, Total: 573
+Skipped feature: Elbe-Hochwasser 2002 (W=9,40 m) (cls:L770)
+Added: 16, Processed: 128, Total: 573
+Skipped feature: Elbe-Hochwasser 1845 (W=8,77 m) (cls:L875)
+Added: 16, Processed: 129, Total: 573
+Skipped feature: Elbe-Hochwasser 1890 (W=8,37 m) (cls:L876)
+Added: 16, Processed: 130, Total: 573
+Skipped feature: Siedlungsbereiche mit einem verbleibenden Schutzgrad kleiner HQ100  an der Elbe (cls:L890)
+Added: 16, Processed: 131, Total: 573
+Skipped feature: Defizitbereiche an Gewässern zweiter Ordnung (cls:L888)
+Added: 16, Processed: 132, Total: 573
+Skipped feature: Hochwasserrisikomanagementpläne (cls:L889)
+Added: 16, Processed: 133, Total: 573
+Skipped feature: Vorläufig angestrebter Schutzgrad HQ25 bis zur Realisierung des Hochwasserrückhaltebeckens Lungkwitz II (cls:L995)
+Added: 16, Processed: 134, Total: 573
+Skipped feature:  Elbe - 924 cm Pegel Dresden (HQ100), potentiell überschwemmte Flächen (Modell 2015)  (cls:L830)
+Added: 16, Processed: 135, Total: 573
+Skipped feature:  Elbe - 878 cm Pegel Dresden (HW 2013, HQ50 - HQ100), potentiell überschwemmte Flächen (Modell 2015) (cls:L831)
+Added: 16, Processed: 136, Total: 573
+Skipped feature: Gebiete mit nutzungsbedingt erhöhtem Oberflächenabfluss (cls:L874)
+Added: 16, Processed: 137, Total: 573
+Skipped feature: potentielle Überflutungsflächen mit mehr als 20cm Wassertiefe (cls:L882)
+Added: 16, Processed: 138, Total: 573
+Skipped feature: potentielle Überflutungsflächen überstauter Schächte  (cls:L883)
+Added: 16, Processed: 139, Total: 573
+Added feature: überstaute Schächte bei gleichzeitigem Blockregen (cls:L998)
+Added: 17, Processed: 140, Total: 573
+Added feature: überstaute Schächte bei gleichzeitigem Gewitterregen (cls:L997)
+Added: 18, Processed: 141, Total: 573
+Added feature: überstaute Schächte Stetzsch bei einem Wiederkehrintervall von 10 Jahren (cls:L996)
+Added: 19, Processed: 142, Total: 573
+Skipped feature: Elbe -  450 cm Pegel Dresden, potentiell überschwemmte Flächen (Modell 2017) (cls:L1042)
+Added: 19, Processed: 143, Total: 573
+Skipped feature: Elbe -  650 cm Pegel Dresden (< HQ5), potentiell überschwemmte Flächen (Modell 2017) (cls:L1043)
+Added: 19, Processed: 144, Total: 573
+Skipped feature: Elbe -  811 cm Pegel Dresden (HQ20), potentiell überschwemmte Flächen (Modell 2017) (cls:L1044)
+Added: 19, Processed: 145, Total: 573
+Skipped feature: Elbe -  924 cm Pegel Dresden (HQ100), potentiell überschwemmte Flächen (Modell 2017) (cls:L1045)
+Added: 19, Processed: 146, Total: 573
+Skipped feature: Elbe -  965 cm Pegel Dresden (HQ200), potentiell überschwemmte Flächen (Modell 2017) (cls:L1046)
+Added: 19, Processed: 147, Total: 573
+Skipped feature: Elbe -  900 cm Pegel Dresden, potentiell überschwemmte Flächen (Modell 2017) (cls:L1047)
+Added: 19, Processed: 148, Total: 573
+Skipped feature: Elbe -  750 cm Pegel Dresden (HQ10), potentiell überschwemmte Flächen (Modell 2017) (cls:L1048)
+Added: 19, Processed: 149, Total: 573
+Skipped feature: Elbe -  550 cm Pegel Dresden (< HQ2), potentiell überschwemmte Flächen (Modell 2017) (cls:L1049)
+Added: 19, Processed: 150, Total: 573
+Skipped feature: Elbe -  500 cm Pegel Dresden, potentiell überschwemmte Flächen (Modell 2017) (cls:L1050)
+Added: 19, Processed: 151, Total: 573
+Skipped feature: Elbe -  600 cm Pegel Dresden (> HQ2), potentiell überschwemmte Flächen (Modell 2017) (cls:L1051)
+Added: 19, Processed: 152, Total: 573
+Skipped feature: Elbe -  850 cm Pegel Dresden, potentiell überschwemmte Flächen (Modell 2017) (cls:L1052)
+Added: 19, Processed: 153, Total: 573
+Skipped feature: Elbe -  400 cm Pegel Dresden, potentiell überschwemmte Flächen (Modell 2017) (cls:L1053)
+Added: 19, Processed: 154, Total: 573
+Skipped feature: Elbe - 1017 cm Pegel Dresden (HQ500), potentiell überschwemmte Flächen (Modell 2017) (cls:L1054)
+Added: 19, Processed: 155, Total: 573
+Skipped feature: Elbe -  800 cm Pegel Dresden, potentiell überschwemmte Flächen (Modell 2017) (cls:L1055)
+Added: 19, Processed: 156, Total: 573
+Skipped feature: Elbe -  700 cm Pegel Dresden (> HQ5), potentiell überschwemmte Flächen (Modell 2017) (cls:L1056)
+Added: 19, Processed: 157, Total: 573
+Skipped feature: Elbe -  878 cm Pegel Dresden (HQ50), potentiell überschwemmte Flächen (Modell 2017) (cls:L1057)
+Added: 19, Processed: 158, Total: 573
+Skipped feature: Elbe -  950 cm Pegel Dresden, potentiell überschwemmte Flächen (Modell 2017) (cls:L1058)
+Added: 19, Processed: 159, Total: 573
+Skipped feature: Elbe - 1000 cm Pegel Dresden, potentiell überschwemmte Flächen (Modell 2017) (cls:L1059)
+Added: 19, Processed: 160, Total: 573
+Skipped feature: Elbe - 1050 cm Pegel Dresden (>HQ500), potentiell überschwemmte Flächen (Modell 2017) (cls:L1060)
+Added: 19, Processed: 161, Total: 573
+Skipped feature: Maßgebliche Abflusskomponente bei Starkregen entsprechend WBS FLAB - Ist Zustand, mittlere Vorfeuchte (cls:L994)
+Added: 19, Processed: 162, Total: 573
+Skipped feature: Fluglärm, Nacht-Lärmindex (cls:L154)
+Added: 19, Processed: 163, Total: 573
+Skipped feature: Fluglärm, Tag-Abend-Nacht-Lärmindex (cls:L153)
+Added: 19, Processed: 164, Total: 573
+Skipped feature: Fluglärm 65-dB(A)-Linie (cls:L907)
+Added: 19, Processed: 165, Total: 573
+Skipped feature: Fluglärm 55-dB(A)-Linie (cls:L908)
+Added: 19, Processed: 166, Total: 573
+Skipped feature: Straßenverkehrslärm - maßgeblicher Außenlärmpegel an Gebäudefassaden (cls:L910)
+Added: 19, Processed: 167, Total: 573
+Skipped feature: Luftfahrzeuge L_DEN - TSP (cls:L1008)
+Added: 19, Processed: 168, Total: 573
+Skipped feature: Ballungsraum (cls:L1037)
+Added: 19, Processed: 169, Total: 573
+Skipped feature: Lärmschutzwand (cls:L1038)
+Added: 19, Processed: 170, Total: 573
+Error. Skipped feature: Lärmschutzwand (cls:L1038)
+Added: 19, Processed: 171, Total: 573
+Error. Skipped feature: Lärmschutzwand (cls:L1038)
+Added: 19, Processed: 172, Total: 573
+Skipped feature: Bereich erhöhter Fluglärmbelastung 2003 (cls:L789)
+Added: 19, Processed: 173, Total: 573
+Skipped feature: Siedlungsbeschränkungsbereich 2003 (cls:L790)
+Added: 19, Processed: 174, Total: 573
+Skipped feature: Siedlungsbeschränkungsbereich 2012 (in Vorbereitung) (cls:L897)
+Added: 19, Processed: 175, Total: 573
+Skipped feature: NO2 - flächenhafte Belastung (2013) (cls:L803)
+Added: 19, Processed: 176, Total: 573
+Skipped feature: NO2 - Straßenrandbelastung (2013) (cls:L804)
+Added: 19, Processed: 177, Total: 573
+Skipped feature: PM10 - flächenhafte Belastung (2013) (cls:L805)
+Added: 19, Processed: 178, Total: 573
+Skipped feature: PM10 - Straßenrandbelastung (2013) (cls:L806)
+Added: 19, Processed: 179, Total: 573
+Skipped feature: NO2 - Straßenrandbelastung (2011) (cls:L799)
+Added: 19, Processed: 180, Total: 573
+Skipped feature: PM10 - Straßenrandbelastung (2011) (cls:L800)
+Added: 19, Processed: 181, Total: 573
+Skipped feature: NO2 - flächenhafte Belastung (2011) (cls:L801)
+Added: 19, Processed: 182, Total: 573
+Skipped feature: PM10 - flächenhafte Belastung (2011) (cls:L802)
+Added: 19, Processed: 183, Total: 573
+Skipped feature: Straßenverkehrslärm, Nacht-Lärmindex (cls:L795)
+Added: 19, Processed: 184, Total: 573
+Skipped feature: Schienenverkehrslärm, Nacht-Lärmindex (cls:L796)
+Added: 19, Processed: 185, Total: 573
+Skipped feature: Schienenverkehrslärm, Tag-Abend-Nacht-Lärmindex (cls:L797)
+Added: 19, Processed: 186, Total: 573
+Skipped feature: Straßenverkehrslärm, Tag-Abend-Nacht-Lärmindex (cls:L798)
+Added: 19, Processed: 187, Total: 573
+Skipped feature: Schienenverkehrslärm 65-dB(A)-Linie (cls:L911)
+Added: 19, Processed: 188, Total: 573
+Skipped feature: Straßenverkehrslärm 55-dB(A)-Linie (cls:L912)
+Added: 19, Processed: 189, Total: 573
+Skipped feature: Straßenverkehrslärm 65-dB(A)-Linie (cls:L913)
+Added: 19, Processed: 190, Total: 573
+Skipped feature: Schienenverkehrslärm 55-dB(A)-Linie (cls:L914)
+Added: 19, Processed: 191, Total: 573
+Skipped feature: Gebäude als Schallhindernis (cls:L915)
+Added: 19, Processed: 192, Total: 573
+Skipped feature: Lärmschutzwand (cls:L916)
+Added: 19, Processed: 193, Total: 573
+Skipped feature: Kraftfahrzeuge L_DEN - TSP (cls:L1006)
+Added: 19, Processed: 194, Total: 573
+Skipped feature: Kraftfahrzeuge L_Night - TSP (cls:L1007)
+Added: 19, Processed: 195, Total: 573
+Skipped feature: Tag-Schutzzone 1 (cls:L894)
+Added: 19, Processed: 196, Total: 573
+Skipped feature: Nacht-Schutzzone (cls:L895)
+Added: 19, Processed: 197, Total: 573
+Skipped feature: Tag-Schutzzone 2 (cls:L896)
+Added: 19, Processed: 198, Total: 573
+Skipped feature: Außenlärmpegel - Nacht (cls:L892)
+Added: 19, Processed: 199, Total: 573
+Skipped feature: Nachts 6 Ereignisse mit mindestens 53 dB(A) innen (Langzeitprognose) (cls:L891)
+Added: 19, Processed: 200, Total: 573
+Skipped feature: Außenlärmpegel - Tag (cls:L893)
+Added: 19, Processed: 201, Total: 573
+Skipped feature: NO2 - flächenhafte Belastung (2015) (cls:L917)
+Added: 19, Processed: 202, Total: 573
+Skipped feature: NO2 - Straßenrandbelastung (2015) (cls:L918)
+Added: 19, Processed: 203, Total: 573
+Skipped feature: PM10 - flächenhafte Belastung (2015) (cls:L919)
+Added: 19, Processed: 204, Total: 573
+Skipped feature: PM10 - Straßenrandbelastung (2015) (cls:L920)
+Added: 19, Processed: 205, Total: 573
+Skipped feature: Landschaftsräume mit besonders ruhigen Gebieten (cls:L1065)
+Added: 19, Processed: 206, Total: 573
+Skipped feature: Relativ Ruhige Gebiete (cls:L1066)
+Added: 19, Processed: 207, Total: 573
+Skipped feature: Landschaftsräume mit ruhigen Gebieten (cls:L1067)
+Added: 19, Processed: 208, Total: 573
+Skipped feature: Sonstige Stadtoasen (cls:L1068)
+Added: 19, Processed: 209, Total: 573
+Skipped feature: Überschwemmungsgefährdetes Gebiet der Vereinigten Weißeritz (cls:L143)
+Added: 19, Processed: 210, Total: 573
+Skipped feature: Überschwemmungsgefährdete Gebiete der Elbe vom 01.10.2018, geändert 21.01.2019 (cls:L755)
+Added: 19, Processed: 211, Total: 573
+Skipped feature: Trinkwasserschutzgebiete (cls:L13)
+Added: 19, Processed: 212, Total: 573
+Skipped feature: Fläche des ÜG Lockwitzbach vom 24.07.2006 (cls:L613)
+Added: 19, Processed: 213, Total: 573
+Skipped feature: Abflussgebiet des ÜG Elbe vom 01.10.2018 (cls:L753)
+Added: 19, Processed: 214, Total: 573
+Skipped feature: Fläche des ÜG Elbe vom 01.10.2018, geändert 21.01.2019 (cls:L754)
+Added: 19, Processed: 215, Total: 573
+Skipped feature: Begrenzung des ÜG Elbe vom 01.10.2018, geändert 21.01.2019 (cls:L829)
+Added: 19, Processed: 216, Total: 573
+Skipped feature: Erdwärmesonden unzulässig (cls:L985)
+Added: 19, Processed: 217, Total: 573
+Skipped feature: Hydrogeologisch kritische Bereiche (cls:L984)
+Added: 19, Processed: 218, Total: 573
+Skipped feature: Erdwärmesonden - wasserrechtliche Verfahren (cls:L1030)
+Added: 19, Processed: 219, Total: 573
+Skipped feature: vermutete Störungen (cls:L1031)
+Added: 19, Processed: 220, Total: 573
+Skipped feature: Gebietstypen des natürlichen Wasserhaushaltes (cls:L1106)
+Added: 19, Processed: 221, Total: 573
+Skipped feature: stehende Gewässer (cls:L147)
+Added: 19, Processed: 222, Total: 573
+Skipped feature: Fließgewässer (cls:L146)
+Added: 19, Processed: 223, Total: 573
+Added feature: Quellen (cls:L757)
+Added: 20, Processed: 224, Total: 573
+Skipped feature: Elbe (cls:L941)
+Added: 20, Processed: 225, Total: 573
+Skipped feature: Flutrinnen, schematische Darstellung (cls:L958)
+Added: 20, Processed: 226, Total: 573
+Skipped feature: vorübergehend freigelegtes Grundwasser (cls:L1034)
+Added: 20, Processed: 227, Total: 573
+Skipped feature: sonstige Wasserflächen (cls:L1033)
+Added: 20, Processed: 228, Total: 573
+Skipped feature: sonstige Wasserläufe (cls:L1032)
+Added: 20, Processed: 229, Total: 573
+Skipped feature: Einstauflächen von Hochwasserrückhalteanlagen an Gewässern zweiter Ordnung (cls:L762)
+Added: 20, Processed: 230, Total: 573
+Added feature: HWRB-Anlage, Standort (cls:L934)
+Added: 21, Processed: 231, Total: 573
+Skipped feature: Unterhaltung von Anlagen, Fängen an Gewässern zweiter Ordnung (cls:L761)
+Added: 21, Processed: 232, Total: 573
+Added feature: Regenrückhalteanlagen, Punkt (cls:L763)
+Added: 22, Processed: 233, Total: 573
+Added feature: Einleitstellen Regenrückhaltebecken (cls:L764)
+Added: 23, Processed: 234, Total: 573
+Skipped feature: Gewässerverlauf im Jahr 1790 (cls:L937)
+Added: 23, Processed: 235, Total: 573
+Skipped feature: Gewässerverlauf im Jahr 1880 (cls:L938)
+Added: 23, Processed: 236, Total: 573
+Skipped feature: Gewässerverlauf im Jahr 1900 (cls:L939)
+Added: 23, Processed: 237, Total: 573
+Skipped feature: Gewässerverlauf im Jahr 1940 (cls:L940)
+Added: 23, Processed: 238, Total: 573
+Skipped feature: Gewässersysteme (cls:L832)
+Added: 23, Processed: 239, Total: 573
+Skipped feature: Oberirdische Gewässereinzugsgebiete Dresden (cls:L698)
+Added: 23, Processed: 240, Total: 573
+Skipped feature: Nettoteilblöcke (cls:L788)
+Added: 23, Processed: 241, Total: 573
+Skipped feature: Naturräume (Mikrogeochoren) (cls:L839)
+Added: 23, Processed: 242, Total: 573
+Skipped feature: Abwasseranlagen - alle aktuell unbeschränkt (cls:L840)
+Added: 23, Processed: 243, Total: 573
+Skipped feature: Sonstige Anlagen - alle aktuell unbeschränkt (cls:L841)
+Added: 23, Processed: 244, Total: 573
+Skipped feature: Gewässer und Hochwasserschutz - alle aktuell unbeschränkt (cls:L842)
+Added: 23, Processed: 245, Total: 573
+Skipped feature: Kleingärten - alle aktuell unbeschränkt (cls:L843)
+Added: 23, Processed: 246, Total: 573
+Skipped feature: Naturschutz und Landschaftspflege - alle aktuell unbeschränkt (cls:L844)
+Added: 23, Processed: 247, Total: 573
+Added feature: Hochwasserschadensbeseitigung 2013 - alle aktuell unbeschränkt (cls:L846)
+Added: 24, Processed: 248, Total: 573
+Skipped feature: Oeffentliche Verkehrsanlagen - alle aktuell unbeschränkt (cls:L845)
+Added: 24, Processed: 249, Total: 573
+Skipped feature: Bewertung Erholungseignung - urbaner und stadtbezogener Raum (cls:L962)
+Added: 24, Processed: 250, Total: 573
+Skipped feature: Bewertung Erholungseignung - Naturnahe Bereiche (cls:L963)
+Added: 24, Processed: 251, Total: 573
+Skipped feature: Bewertung Erholungseignung - Ländliche Bereiche (cls:L964)
+Added: 24, Processed: 252, Total: 573
+Skipped feature: Bewertung der Qualität des Landschaftsbildes (cls:L973)
+Added: 24, Processed: 253, Total: 573
+Added feature: Dominanten im Landschaftsbild (cls:L971)
+Added: 25, Processed: 254, Total: 573
+Skipped feature: Darstellungen ausgewählter Beeinträchtigungen zum Kartenverständnis (cls:L972)
+Added: 25, Processed: 255, Total: 573
+Skipped feature: überregionale Reitwege (cls:L826)
+Added: 25, Processed: 256, Total: 573
+Skipped feature: regionale Reitwege (cls:L827)
+Added: 25, Processed: 257, Total: 573
+Added feature: Deponielehrpfad - Infotafeln (cls:L1024)
+Added: 26, Processed: 258, Total: 573
+Skipped feature: Lehrpfade, diagonal grün (cls:L1015)
+Added: 26, Processed: 259, Total: 573
+Skipped feature: Stadtteilwege (cls:L1016)
+Added: 26, Processed: 260, Total: 573
+Skipped feature: Wanderweg Roter Punkt (cls:L1017)
+Added: 26, Processed: 261, Total: 573
+Skipped feature: Wanderweg Roter Strich (cls:L1018)
+Added: 26, Processed: 262, Total: 573
+Skipped feature: Wanderweg Gelber Punkt (cls:L1019)
+Added: 26, Processed: 263, Total: 573
+Skipped feature: Wanderweg Gelber Strich (cls:L1020)
+Added: 26, Processed: 264, Total: 573
+Skipped feature: Wanderweg Grüner Punkt (cls:L1021)
+Added: 26, Processed: 265, Total: 573
+Skipped feature: Wanderweg Grüner Strich (cls:L1022)
+Added: 26, Processed: 266, Total: 573
+Skipped feature: Lehrpfad Hochwasser (cls:L1023)
+Added: 26, Processed: 267, Total: 573
+Skipped feature: Deponielehrpfad (cls:L1025)
+Added: 26, Processed: 268, Total: 573
+Skipped feature: Weinwanderweg (cls:L1026)
+Added: 26, Processed: 269, Total: 573
+Skipped feature: Sächsischer Jakobsweg (cls:L1027)
+Added: 26, Processed: 270, Total: 573
+Added feature: Lehrpfad Albertpark - Infotafeln (cls:L1028)
+Added: 27, Processed: 271, Total: 573
+Skipped feature: Lehrpfad Albertpark (cls:L1029)
+Added: 27, Processed: 272, Total: 573
+Skipped feature: Bodentypen und -arten (cls:L1071)
+Added: 27, Processed: 273, Total: 573
+Skipped feature: Substratgenese (cls:L854)
+Added: 27, Processed: 274, Total: 573
+Skipped feature: Natürliche Funktionen des Bodens (cls:L859)
+Added: 27, Processed: 275, Total: 573
+Skipped feature: Bodenqualität (ohne Altlasten) (cls:L861)
+Added: 27, Processed: 276, Total: 573
+Skipped feature: Depositionsgefährdete Flächen mit baulichen Anlagen (cls:L856)
+Added: 27, Processed: 277, Total: 573
+Added feature: Übertrittsstellen und Akkumulationen (cls:L847)
+Added: 28, Processed: 278, Total: 573
+Skipped feature: Abflussbahnen (cls:L848)
+Added: 28, Processed: 279, Total: 573
+Skipped feature: Erosionsabtragsflächen (cls:L974)
+Added: 28, Processed: 280, Total: 573
+Added feature: Hangrutschungen (cls:L975)
+Added: 29, Processed: 281, Total: 573
+Skipped feature: Wasserspeichervermögen (cls:L849)
+Added: 29, Processed: 282, Total: 573
+Skipped feature: Besondere Standorteigenschaften (cls:L850)
+Added: 29, Processed: 283, Total: 573
+Skipped feature: Archiv für Natur- und Kulturgeschichte (cls:L851)
+Added: 29, Processed: 284, Total: 573
+Skipped feature: Filter- und Pufferfunktion (cls:L852)
+Added: 29, Processed: 285, Total: 573
+Skipped feature: Natürliche Bodenfruchtbarkeit (cls:L853)
+Added: 29, Processed: 286, Total: 573
+Skipped feature: Spezifischer Kaltluftvolumenstrom gegen Mitternacht [m³ pro m und s] (cls:L955)
+Added: 29, Processed: 287, Total: 573
+Skipped feature: Bodennahe Kaltluftgeschwindigkeit gegen Mitternacht [m pro s] (cls:L957)
+Added: 29, Processed: 288, Total: 573
+Skipped feature: Spezifischer Kaltluftvolumenstrom zu Sonnenaufgang [m³ pro m und s] (cls:L950)
+Added: 29, Processed: 289, Total: 573
+Skipped feature: Spezifischer Kaltluftvolumenstrom zu Sonnenuntergang [m³ pro m und s] (cls:L952)
+Added: 29, Processed: 290, Total: 573
+Skipped feature: Bodennahe Kaltluftgeschwindigkeit zu Sonnenuntergang [m pro s] (cls:L954)
+Added: 29, Processed: 291, Total: 573
+Added feature: Hangwinde (cls:L944)
+Added: 30, Processed: 292, Total: 573
+Added feature: Kalt- und Frischluftabflussbahnen (Fließrichtung) (cls:L945)
+Added: 31, Processed: 293, Total: 573
+Skipped feature: Luftleitbahnen (Flächen) (cls:L946)
+Added: 31, Processed: 294, Total: 573
+Skipped feature: Kalt- und Frischluftabflussbahnen (Flächen) (cls:L947)
+Added: 31, Processed: 295, Total: 573
+Added feature: Luftleitbahnen (Fließrichtung) (cls:L949)
+Added: 32, Processed: 296, Total: 573
+Skipped feature: mittlere Windrichtungshäufigkeitsverteilung (cls:L932)
+Added: 32, Processed: 297, Total: 573
+Skipped feature: mittlere Windgeschwindigkeit (cls:L933)
+Added: 32, Processed: 298, Total: 573
+Skipped feature: Planungshinweise Stadtklima (cls:L942)
+Added: 32, Processed: 299, Total: 573
+Skipped feature: Neue Baugebiete, neue Verkehrsflächen (Stand 2017) (cls:L943)
+Added: 32, Processed: 300, Total: 573
+Skipped feature: Spezifisches Grünvolumen pro Nettoteilblock (cls:L794)
+Added: 32, Processed: 301, Total: 573
+Skipped feature: A - Offene Bebauung (cls:L808)
+Added: 32, Processed: 302, Total: 573
+Skipped feature: D - Sonstige (großflächige) Bebauung (cls:L809)
+Added: 32, Processed: 303, Total: 573
+Skipped feature: B - Zeilen- und Reihenbebauung (cls:L810)
+Added: 32, Processed: 304, Total: 573
+Skipped feature: C - Geschlossene Bebauung (cls:L811)
+Added: 32, Processed: 305, Total: 573
+Skipped feature: E - Sport- und Freizeitanlagen (cls:L812)
+Added: 32, Processed: 306, Total: 573
+Skipped feature: F - Grün- und Freiflächen (cls:L813)
+Added: 32, Processed: 307, Total: 573
+Skipped feature: G - Bahngelände (cls:L814)
+Added: 32, Processed: 308, Total: 573
+Skipped feature: H - Landwirtschaftlich genutzte Flächen, Erwerbsgartenbau (cls:L815)
+Added: 32, Processed: 309, Total: 573
+Skipped feature: I - Parkanlagen, Zoo, Botanischer Garten (cls:L816)
+Added: 32, Processed: 310, Total: 573
+Skipped feature: K - Friedhöfe (cls:L817)
+Added: 32, Processed: 311, Total: 573
+Skipped feature: L - Wald und Gehölz (cls:L818)
+Added: 32, Processed: 312, Total: 573
+Skipped feature: M - Wasserflächen (cls:L819)
+Added: 32, Processed: 313, Total: 573
+Skipped feature: N - Abgrabungen und Aufschüttungen (cls:L820)
+Added: 32, Processed: 314, Total: 573
+Skipped feature: O - Baustellen (cls:L821)
+Added: 32, Processed: 315, Total: 573
+Skipped feature: P - Verkehrsflächen (cls:L822)
+Added: 32, Processed: 316, Total: 573
+Skipped feature: Q - Unbebaute Siedlungsfläche und Brachflächen (cls:L823)
+Added: 32, Processed: 317, Total: 573
+Skipped feature: Gründachkartierung (cls:L1081)
+Added: 32, Processed: 318, Total: 573
+Skipped feature: Versiegelungsklassen (cls:L931)
+Added: 32, Processed: 319, Total: 573
+Skipped feature: Stillgelegte Deponien in städtischer Verantwortung (cls:L976)
+Added: 32, Processed: 320, Total: 573
+Added feature: GPS-Referenzpunkte (cls:L529)
+Added: 33, Processed: 321, Total: 573
+Skipped feature: Landkreise/Kreisfreie Städte Sachsen (cls:L526)
+Added: 33, Processed: 322, Total: 573
+Skipped feature: Städte/Gemeinden Sachsen (cls:L525)
+Added: 33, Processed: 323, Total: 573
+Skipped feature: Postleitzahlgebiete (cls:L527)
+Added: 33, Processed: 324, Total: 573
+Skipped feature: Stadträume (cls:L604)
+Added: 33, Processed: 325, Total: 573
+Skipped feature: Eingemeindungen (cls:L524)
+Added: 33, Processed: 326, Total: 573
+Added feature: Gründer- und Technologiezentren (cls:L505)
+Added: 34, Processed: 327, Total: 573
+Added feature: Hochschulen, Fachhochschulen, Studienakademien (cls:L506)
+Added: 35, Processed: 328, Total: 573
+Added feature: Tagungsstätten (cls:L97)
+Added: 36, Processed: 329, Total: 573
+Added feature: Schülerlabore & Schülerprogramme (cls:L478)
+Added: 37, Processed: 330, Total: 573
+Added feature: Messe (cls:L98)
+Added: 38, Processed: 331, Total: 573
+Added feature: Forschungseinrichtungen (cls:L476)
+Added: 39, Processed: 332, Total: 573
+Skipped feature: Kommunale Gewerbegebiete - Gebietsumringe (cls:L508)
+Added: 39, Processed: 333, Total: 573
+Skipped feature: Kommunale Gewerbegebiete - Einzelflächen (cls:L507)
+Added: 39, Processed: 334, Total: 573
+Added feature: Kirchen, Religiöse Einrichtungen (cls:L121)
+Added: 40, Processed: 335, Total: 573
+Added feature: Ausstellungen, Galerien (cls:L496)
+Added: 41, Processed: 336, Total: 573
+Added feature: Veranstaltungsorte (cls:L498)
+Added: 42, Processed: 337, Total: 573
+Added feature: Theater, Musik, Tanz (cls:L499)
+Added: 43, Processed: 338, Total: 573
+Added feature: Studentenclubs (cls:L493)
+Added: 44, Processed: 339, Total: 573
+Added feature: Museen (cls:L497)
+Added: 45, Processed: 340, Total: 573
+Added feature: Kulturelle Bildung, Soziokultur (cls:L500)
+Added: 46, Processed: 341, Total: 573
+Added feature: Kinos (cls:L495)
+Added: 47, Processed: 342, Total: 573
+Added feature: Bibliotheken (cls:L494)
+Added: 48, Processed: 343, Total: 573
+Added feature: Sehenswürdigkeiten (cls:L92)
+Added: 49, Processed: 344, Total: 573
+Skipped feature: Hotelrouten (cls:L472)
+Added: 49, Processed: 345, Total: 573
+Added feature: Nette Toilette - Teilnehmer (cls:L205)
+Added: 50, Processed: 346, Total: 573
+Added feature: Öffentliche Toiletten (cls:L204)
+Added: 51, Processed: 347, Total: 573
+Added feature: Friedhöfe (cls:L103)
+Added: 52, Processed: 348, Total: 573
+Added feature: Parkanlagen, Gärten (cls:L104)
+Added: 53, Processed: 349, Total: 573
+Skipped feature: Kleingartenanlagen (cls:L292)
+Added: 53, Processed: 350, Total: 573
+Skipped feature: Wald nach § 2 SächsWaldG (cls:L574)
+Added: 53, Processed: 351, Total: 573
+Skipped feature: Spielbereiche (Punkte) (cls:L571)
+Added: 53, Processed: 352, Total: 573
+Skipped feature: Wassertechnische Anlagen (Flächen) (cls:L572)
+Added: 53, Processed: 353, Total: 573
+Added feature: Wassertechnische Anlagen (Punkte) (cls:L573)
+Added: 54, Processed: 354, Total: 573
+Skipped feature: Park- und Grünanlagen (Flächen) (cls:L569)
+Added: 54, Processed: 355, Total: 573
+Added feature: Park- und Grünanlagen (Punkte) (cls:L570)
+Added: 55, Processed: 356, Total: 573
+Skipped feature: Spielbereiche (Flächen) (cls:L568)
+Added: 55, Processed: 357, Total: 573
+Skipped feature: Denkmalschutzsatzungen (cls:L206)
+Added: 55, Processed: 358, Total: 573
+Added feature: Sonstige Unterkünfte (cls:L94)
+Added: 56, Processed: 359, Total: 573
+Added feature: Hotels (cls:L93)
+Added: 57, Processed: 360, Total: 573
+Added feature: Hostel und Jugendherbergen (cls:L95)
+Added: 58, Processed: 361, Total: 573
+Added feature: Campingplätze (cls:L751)
+Added: 59, Processed: 362, Total: 573
+Added feature: Nagelsche Säulen (cls:L602)
+Added: 60, Processed: 363, Total: 573
+Skipped feature: Grenze Königreich Sachsen (cls:L473)
+Added: 60, Processed: 364, Total: 573
+Added feature: Dresdner Revolutionsweg (cls:L464)
+Added: 61, Processed: 365, Total: 573
+Added feature: Touristinformation (cls:L471)
+Added: 62, Processed: 366, Total: 573
+Added feature: Beratungs- und Vermittlungsstellen (cls:L605)
+Added: 63, Processed: 367, Total: 573
+Added feature: Horte (cls:L606)
+Added: 64, Processed: 368, Total: 573
+Added feature: Kindertagesstätten (cls:L608)
+Added: 65, Processed: 369, Total: 573
+Added feature: legale Graffitiflächen (cls:L230)
+Added: 66, Processed: 370, Total: 573
+Added feature: Spielplätze (cls:L229)
+Added: 67, Processed: 371, Total: 573
+Added feature: Kinderschutzprojekt "Bärenstarker August" (cls:L231)
+Added: 68, Processed: 372, Total: 573
+Added feature: Freizeiteinrichtungen (cls:L1100)
+Added: 69, Processed: 373, Total: 573
+Added feature: Beratung und Unterstützung (cls:L1102)
+Added: 70, Processed: 374, Total: 573
+Added feature: Schulsozialarbeit (cls:L1101)
+Added: 71, Processed: 375, Total: 573
+Added feature: Jobcenter Dresden (cls:L101)
+Added: 72, Processed: 376, Total: 573
+Added feature: Beratung arbeitsloser Menschen (cls:L382)
+Added: 73, Processed: 377, Total: 573
+Added feature: Berufsorientierung und Weiterbildung (cls:L477)
+Added: 74, Processed: 378, Total: 573
+Added feature: Freibäder (cls:L560)
+Added: 75, Processed: 379, Total: 573
+Added feature: Kegelsportstätten (cls:L551)
+Added: 76, Processed: 380, Total: 573
+Added feature: Reitsportstätten (cls:L552)
+Added: 77, Processed: 381, Total: 573
+Added feature: Schwimmhallen (cls:L553)
+Added: 78, Processed: 382, Total: 573
+Added feature: Eissportstätten (cls:L550)
+Added: 79, Processed: 383, Total: 573
+Added feature: Sonstige Sportstätten/ Freizeitsport (cls:L559)
+Added: 80, Processed: 384, Total: 573
+Added feature: Sporthallen (cls:L554)
+Added: 81, Processed: 385, Total: 573
+Added feature: Sportkomplexe (cls:L555)
+Added: 82, Processed: 386, Total: 573
+Added feature: Sportplätze und -stadien (cls:L556)
+Added: 83, Processed: 387, Total: 573
+Added feature: Tennissportstätten (cls:L557)
+Added: 84, Processed: 388, Total: 573
+Added feature: Wassersportstätten (cls:L558)
+Added: 85, Processed: 389, Total: 573
+Skipped feature: Walking People - Strecken (cls:L562)
+Added: 85, Processed: 390, Total: 573
+Skipped feature: City-Walking (cls:L561)
+Added: 85, Processed: 391, Total: 573
+Added feature: Lebensmittelmärkte (cls:L700)
+Added: 86, Processed: 392, Total: 573
+Added feature: WLAN-Hotspots (cls:L581)
+Added: 87, Processed: 393, Total: 573
+Added feature: Paketstationen/Paketboxen (cls:L582)
+Added: 88, Processed: 394, Total: 573
+Added feature: Märkte (cls:L108)
+Added: 89, Processed: 395, Total: 573
+Added feature: Geldautomaten (cls:L110)
+Added: 90, Processed: 396, Total: 573
+Added feature: Notare (cls:L109)
+Added: 91, Processed: 397, Total: 573
+Added feature: Verbraucherberatung (cls:L461)
+Added: 92, Processed: 398, Total: 573
+Added feature: Krankenhäuser (cls:L532)
+Added: 93, Processed: 399, Total: 573
+Added feature: Krankenkassen (cls:L89)
+Added: 94, Processed: 400, Total: 573
+Added feature: Gesundheitseinrichtungen (cls:L88)
+Added: 95, Processed: 401, Total: 573
+Added feature: Suchtberatung (cls:L388)
+Added: 96, Processed: 402, Total: 573
+Added feature: Sozialpsychiatrischer Dienst (cls:L389)
+Added: 97, Processed: 403, Total: 573
+Added feature: Kontakt- und Informationsstelle für Selbsthilfegruppen (cls:L390)
+Added: 98, Processed: 404, Total: 573
+Added feature: Hospizdienste (cls:L391)
+Added: 99, Processed: 405, Total: 573
+Added feature: Tierärzte (cls:L460)
+Added: 100, Processed: 406, Total: 573
+Added feature: Kostenfreies Trinkwasser (Refill) (cls:L459)
+Added: 101, Processed: 407, Total: 573
+Added feature: Apotheken (cls:L458)
+Added: 102, Processed: 408, Total: 573
+Added feature: Defibrillatoren (cls:L392)
+Added: 103, Processed: 409, Total: 573
+Added feature: Berufsbildende Schulen (cls:L546)
+Added: 104, Processed: 410, Total: 573
+Added feature: Förderschulen (cls:L541)
+Added: 105, Processed: 411, Total: 573
+Added feature: Grundschulen (cls:L542)
+Added: 106, Processed: 412, Total: 573
+Skipped feature: Grundschulbezirke (cls:L547)
+Added: 106, Processed: 413, Total: 573
+Added feature: Zweiter Bildungsweg (cls:L544)
+Added: 107, Processed: 414, Total: 573
+Added feature: Oberschulen (cls:L543)
+Added: 108, Processed: 415, Total: 573
+Added feature: Gymnasien (cls:L545)
+Added: 109, Processed: 416, Total: 573
+Added feature: Konsulate (cls:L225)
+Added: 110, Processed: 417, Total: 573
+Added feature: Nachhaltigkeitsinitiativen (cls:L530)
+Added: 111, Processed: 418, Total: 573
+Added feature: Kleidung für einkommensschwache Menschen (cls:L264)
+Added: 112, Processed: 419, Total: 573
+Added feature: Möbel für einkommensschwache Menschen (cls:L265)
+Added: 113, Processed: 420, Total: 573
+Added feature: Beratung bei (drohender) Wohnungslosigkeit (cls:L282)
+Added: 114, Processed: 421, Total: 573
+Added feature: Betreuung und Begleitung Langzeitarbeitsloser (cls:L262)
+Added: 115, Processed: 422, Total: 573
+Added feature: Schuldnerberatung (cls:L266)
+Added: 116, Processed: 423, Total: 573
+Added feature: Übergangswohnheime für Wohnungslose (cls:L281)
+Added: 117, Processed: 424, Total: 573
+Added feature: Essen für einkommensschwache Menschen (cls:L263)
+Added: 118, Processed: 425, Total: 573
+Added feature: Beratung & Begegnung (cls:L387)
+Added: 119, Processed: 426, Total: 573
+Skipped feature: Arbeitslosigkeit (cls:L385)
+Added: 119, Processed: 427, Total: 573
+Skipped feature: Bevölkerung 14 bis 17 Jahre (cls:L269)
+Added: 119, Processed: 428, Total: 573
+Skipped feature: Bevölkerung 0 bis 5 Jahre (cls:L268)
+Added: 119, Processed: 429, Total: 573
+Skipped feature: Bevölkerung 18 bis 26 Jahre (cls:L270)
+Added: 119, Processed: 430, Total: 573
+Skipped feature: Bevölkerung 27 bis 59 Jahre (cls:L271)
+Added: 119, Processed: 431, Total: 573
+Skipped feature: Bevölkerung 6 bis 13 Jahre (cls:L272)
+Added: 119, Processed: 432, Total: 573
+Skipped feature: Bevölkerung 60 bis 74 Jahre (cls:L273)
+Added: 119, Processed: 433, Total: 573
+Skipped feature: Bevölkerung ab 75 Jahre (cls:L274)
+Added: 119, Processed: 434, Total: 573
+Skipped feature: SGB II Empfänger - Kinder bis 14 Jahre (cls:L384)
+Added: 119, Processed: 435, Total: 573
+Skipped feature: Wohnungsleerstand (cls:L267)
+Added: 119, Processed: 436, Total: 573
+Skipped feature: Beschäftigung (cls:L386)
+Added: 119, Processed: 437, Total: 573
+Skipped feature: SGB II Empfänger - erwerbsfähige Regelleistungsberechtigte (cls:L383)
+Added: 119, Processed: 438, Total: 573
+Added feature: Wohnungsgenossenschaften (cls:L465)
+Added: 120, Processed: 439, Total: 573
+Added feature: Seniorenbegegnungsstätten (cls:L259)
+Added: 121, Processed: 440, Total: 573
+Added feature: Pflegedienste (cls:L257)
+Added: 122, Processed: 441, Total: 573
+Added feature: Seniorenberatungsstellen (cls:L260)
+Added: 123, Processed: 442, Total: 573
+Added feature: Betreutes Wohnen (cls:L254)
+Added: 124, Processed: 443, Total: 573
+Added feature: Senioren- und Pflegeheime (cls:L258)
+Added: 125, Processed: 444, Total: 573
+Added feature: Kurzzeitpflege (cls:L256)
+Added: 126, Processed: 445, Total: 573
+Added feature: Seniorentagespflege (cls:L261)
+Added: 127, Processed: 446, Total: 573
+Added feature: Kommunale Sozialarbeit (cls:L255)
+Added: 128, Processed: 447, Total: 573
+Added feature: Alltagsbegleitung (cls:L1108)
+Added: 129, Processed: 448, Total: 573
+Added feature: Wohnstätten (cls:L240)
+Added: 130, Processed: 449, Total: 573
+Added feature: Werkstätten (cls:L241)
+Added: 131, Processed: 450, Total: 573
+Added feature: Betreutes Wohnen (cls:L246)
+Added: 132, Processed: 451, Total: 573
+Added feature: ambulante Frühförderung (cls:L245)
+Added: 133, Processed: 452, Total: 573
+Added feature: ambulante mobile Dienste (cls:L244)
+Added: 134, Processed: 453, Total: 573
+Added feature: Begegnungsstätten (cls:L243)
+Added: 135, Processed: 454, Total: 573
+Added feature: Beratungsstellen (cls:L242)
+Added: 136, Processed: 455, Total: 573
+Added feature: Begegnung & Bildung (cls:L247)
+Added: 137, Processed: 456, Total: 573
+Added feature: Beratung & Kontakt (cls:L248)
+Added: 138, Processed: 457, Total: 573
+Added feature: Integrationskurse (cls:L538)
+Added: 139, Processed: 458, Total: 573
+Added feature: Migrationsdienste (cls:L540)
+Added: 140, Processed: 459, Total: 573
+Skipped feature: Regionalkoordinatoren - Bereiche (cls:L539)
+Added: 140, Processed: 460, Total: 573
+Added feature: Regionalkoordinatoren (cls:L537)
+Added: 141, Processed: 461, Total: 573
+Added feature: Asyl - Übergangswohnheime (cls:L250)
+Added: 142, Processed: 462, Total: 573
+Added feature: Asyl - Erstaufnahmeeinrichtungen (cls:L249)
+Added: 143, Processed: 463, Total: 573
+Added feature: Behörden - Polizei (cls:L100)
+Added: 144, Processed: 464, Total: 573
+Added feature: Sirenen (cls:L564)
+Added: 145, Processed: 465, Total: 573
+Added feature: Berufsfeuerwehr (cls:L501)
+Added: 146, Processed: 466, Total: 573
+Added feature: Freiwillige Feuerwehr (cls:L502)
+Added: 147, Processed: 467, Total: 573
+Skipped feature: Wahlkreise - Kommunalwahl 2019 (cls:L284)
+Added: 147, Processed: 468, Total: 573
+Skipped feature: Wahlbezirke - Bundestagswahl 2017 (cls:L703)
+Added: 147, Processed: 469, Total: 573
+Skipped feature: Wahlkreise - Bundestagswahl 2017 (cls:L702)
+Added: 147, Processed: 470, Total: 573
+Skipped feature: Wahlbezirke - Landtagswahl 2019 (cls:L1091)
+Added: 147, Processed: 471, Total: 573
+Skipped feature: Wahlkreise - Landtagswahl 2019 (cls:L285)
+Added: 147, Processed: 472, Total: 573
+Skipped feature: Wahlbezirke - Kommunalwahl 2019 (cls:L1063)
+Added: 147, Processed: 473, Total: 573
+Added feature: Behörden - Land, Bund (cls:L99)
+Added: 148, Processed: 474, Total: 573
+Added feature: Behörden - Stadt (cls:L102)
+Added: 149, Processed: 475, Total: 573
+Added feature: Auslagestellen Amtsblatt (cls:L467)
+Added: 150, Processed: 476, Total: 573
+Added feature: Standesamtlich Heiraten (cls:L466)
+Added: 151, Processed: 477, Total: 573
+Added feature: Städtische Einrichtungen und Unternehmen (cls:L462)
+Added: 152, Processed: 478, Total: 573
+Skipped feature: Leinenzwang-Gebiete für Hunde (cls:L1088)
+Added: 152, Processed: 479, Total: 573
+Added feature: Tankstellen (cls:L107)
+Added: 153, Processed: 480, Total: 573
+Added feature: Reisebusparkplätze (cls:L738)
+Added: 154, Processed: 481, Total: 573
+Added feature: Pendlerparkplätze (cls:L371)
+Added: 155, Processed: 482, Total: 573
+Skipped feature: Parkraumbewirtschaftungszonen - BUFFER1 (cls:L704)
+Added: 155, Processed: 483, Total: 573
+Skipped feature: Parkraumbewirtschaftungszonen - BUFFER2 (cls:L705)
+Added: 155, Processed: 484, Total: 573
+Skipped feature: Kfz/Tag HIN (cls:L363)
+Added: 155, Processed: 485, Total: 573
+Skipped feature: Kfz/Tag RÜCK (cls:L364)
+Added: 155, Processed: 486, Total: 573
+Skipped feature: Kfz/Tag und SV in % HIN - Beschriftung (cls:L362)
+Added: 155, Processed: 487, Total: 573
+Skipped feature: Kfz/Tag und SV in % RÜCK - Beschriftung (cls:L366)
+Added: 155, Processed: 488, Total: 573
+Skipped feature: Buslinien (cls:L1076)
+Added: 155, Processed: 489, Total: 573
+Added feature: Bergbahnen (cls:L491)
+Added: 156, Processed: 490, Total: 573
+Added feature: Bahnhöfe (cls:L490)
+Added: 157, Processed: 491, Total: 573
+Added feature: Flughafen (cls:L489)
+Added: 158, Processed: 492, Total: 573
+Skipped feature: Straßenbahnlinien (cls:L457)
+Added: 158, Processed: 493, Total: 573
+Added feature: Fähren/Anlegestellen (cls:L492)
+Added: 159, Processed: 494, Total: 573
+Added feature: Fahrscheinautomaten (cls:L1086)
+Added: 160, Processed: 495, Total: 573
+Added feature: DVB-Servicepunkte (cls:L1087)
+Added: 161, Processed: 496, Total: 573
+Skipped feature: Öffentliche Verkehrswege - gesamt (cls:L592)
+Added: 161, Processed: 497, Total: 573
+Skipped feature: Mobilitätspunkte - Fläche (Konzept, Planung) (cls:L835)
+Added: 161, Processed: 498, Total: 573
+Added feature: Mobilitätspunkte - in Betrieb (cls:L834)
+Added: 162, Processed: 499, Total: 573
+Added feature: Mobilitätspunkte - Konzept, Planung (cls:L833)
+Added: 163, Processed: 500, Total: 573
+Skipped feature: Lkw-Vorrangroutennetz (cls:L1107)
+Added: 163, Processed: 501, Total: 573
+Added feature: Bodenrichtwerte (cls:L303)
+Added: 164, Processed: 502, Total: 573
+Skipped feature: Bodenrichtwerte - Satzungen (cls:L304)
+Added: 164, Processed: 503, Total: 573
+Added feature: Bodenrichtwerte (cls:L483)
+Added: 165, Processed: 504, Total: 573
+Skipped feature: Bodenrichtwerte - Satzungen (cls:L482)
+Added: 165, Processed: 505, Total: 573
+Added feature: Bodenrichtwertzonen 2015 - Beschriftung (cls:L580)
+Added: 166, Processed: 506, Total: 573
+Skipped feature: Bodenrichtwerte - Satzungen (cls:L37)
+Added: 166, Processed: 507, Total: 573
+Skipped feature: Bodenrichtwertzonen 2015 (cls:L38)
+Added: 166, Processed: 508, Total: 573
+Skipped feature: Flächen für Landwirtschaft usw. 2015 (cls:L36)
+Added: 166, Processed: 509, Total: 573
+Added feature: Bodenleitwerte (cls:L295)
+Added: 167, Processed: 510, Total: 573
+Added feature: Bodenrichtwerte (cls:L318)
+Added: 168, Processed: 511, Total: 573
+Skipped feature: Bodenrichtwerte - Satzungen (cls:L319)
+Added: 168, Processed: 512, Total: 573
+Added feature: Bodenrichtwerte (cls:L308)
+Added: 169, Processed: 513, Total: 573
+Skipped feature: Bodenrichtwerte - Satzungen (cls:L307)
+Added: 169, Processed: 514, Total: 573
+Skipped feature: Bodenrichtwerte - Satzungen (cls:L321)
+Added: 169, Processed: 515, Total: 573
+Added feature: Bodenrichtwerte (cls:L322)
+Added: 170, Processed: 516, Total: 573
+Skipped feature: Bodenrichtwerte - Satzungen (cls:L310)
+Added: 170, Processed: 517, Total: 573
+Added feature: Bodenrichtwerte (cls:L311)
+Added: 171, Processed: 518, Total: 573
+Added feature: Bodenrichtwerte (cls:L331)
+Added: 172, Processed: 519, Total: 573
+Skipped feature: Bodenrichtwerte - Satzungen (cls:L330)
+Added: 172, Processed: 520, Total: 573
+Added feature: Bodenrichtwerte (cls:L312)
+Added: 173, Processed: 521, Total: 573
+Skipped feature: Bodenrichtwerte - Satzungen (cls:L313)
+Added: 173, Processed: 522, Total: 573
+Skipped feature: Bodenrichtwerte - Satzungen (cls:L324)
+Added: 173, Processed: 523, Total: 573
+Added feature: Bodenrichtwerte (cls:L326)
+Added: 174, Processed: 524, Total: 573
+Skipped feature: Bodenrichtwerte - Satzungen (cls:L334)
+Added: 174, Processed: 525, Total: 573
+Added feature: Bodenrichtwerte (cls:L335)
+Added: 175, Processed: 526, Total: 573
+Added feature: Bodenrichtwerte (cls:L315)
+Added: 176, Processed: 527, Total: 573
+Skipped feature: Bodenrichtwerte - Satzungen (cls:L316)
+Added: 176, Processed: 528, Total: 573
+Added feature: Bodenrichtwerte (cls:L329)
+Added: 177, Processed: 529, Total: 573
+Skipped feature: Bodenrichtwerte - Satzungen (cls:L327)
+Added: 177, Processed: 530, Total: 573
+Added feature: Bodenrichtwerte (cls:L337)
+Added: 178, Processed: 531, Total: 573
+Skipped feature: Bodenrichtwerte - Satzungen (cls:L338)
+Added: 178, Processed: 532, Total: 573
+Skipped feature: Bodenrichtwerte - Satzungen (cls:L340)
+Added: 178, Processed: 533, Total: 573
+Skipped feature: Bodenrichtwertzonen 2011 (cls:L339)
+Added: 178, Processed: 534, Total: 573
+Added feature: Bodenrichtwertzonen 2011 - Beschriftung (cls:L588)
+Added: 179, Processed: 535, Total: 573
+Skipped feature: Flächen für Landwirtschaft usw. 2011 (cls:L342)
+Added: 179, Processed: 536, Total: 573
+Added feature: Bodenrichtwertzonen 2013 - Beschriftung (cls:L589)
+Added: 180, Processed: 537, Total: 573
+Skipped feature: Bodenrichtwerte - Satzungen (cls:L344)
+Added: 180, Processed: 538, Total: 573
+Skipped feature: Bodenrichtwertzonen 2013 (cls:L343)
+Added: 180, Processed: 539, Total: 573
+Skipped feature: Flächen für Landwirtschaft usw. 2013 (cls:L346)
+Added: 180, Processed: 540, Total: 573
+Added feature: Bodenrichtwerte (cls:L298)
+Added: 181, Processed: 541, Total: 573
+Skipped feature: Bodenrichtwerte - Satzungen (cls:L299)
+Added: 181, Processed: 542, Total: 573
+Added feature: Bodenrichtwerte (cls:L301)
+Added: 182, Processed: 543, Total: 573
+Skipped feature: Bodenrichtwerte - Satzungen (cls:L300)
+Added: 182, Processed: 544, Total: 573
+Skipped feature: Bodenrichtwerte - Satzungen (cls:L680)
+Added: 182, Processed: 545, Total: 573
+Skipped feature: Flächen für Landwirtschaft usw. 2017 (cls:L683)
+Added: 182, Processed: 546, Total: 573
+Skipped feature: Bodenrichtwertzonen 2017 (cls:L681)
+Added: 182, Processed: 547, Total: 573
+Added feature: Bodenrichtwertzonen 2017 - Beschriftung (cls:L682)
+Added: 183, Processed: 548, Total: 573
+Skipped feature: Bodenrichtwertzonen 2019 (cls:L1077)
+Added: 183, Processed: 549, Total: 573
+Skipped feature: Bodenrichtwerte - Satzungen (cls:L1078)
+Added: 183, Processed: 550, Total: 573
+Skipped feature: Flächen für Landwirtschaft usw. 2019 (cls:L1080)
+Added: 183, Processed: 551, Total: 573
+Added feature: Bodenrichtwertzonen 2019 - Beschriftung (cls:L1079)
+Added: 184, Processed: 552, Total: 573
+Skipped feature: Umlegungsverfahren (cls:L294)
+Added: 184, Processed: 553, Total: 573
+Skipped feature: Verfahren nach Landwirtschaftsanpassungsgesetz (cls:L579)
+Added: 184, Processed: 554, Total: 573
+Skipped feature: Flurbereinigungsverfahren (cls:L293)
+Added: 184, Processed: 555, Total: 573
+Skipped feature: Erhaltungssatzungen (cls:L356)
+Added: 184, Processed: 556, Total: 573
+Skipped feature: Satzungen nach §§ 34, 35 BauGB (cls:L576)
+Added: 184, Processed: 557, Total: 573
+Skipped feature: VE- und VB-Pläne (cls:L575)
+Added: 184, Processed: 558, Total: 573
+Skipped feature: Bebauungspläne (cls:L354)
+Added: 184, Processed: 559, Total: 573
+Skipped feature: Anfangswerte - Sanierungssatzungen (aufgehoben) (cls:L587)
+Added: 184, Processed: 560, Total: 573
+Skipped feature: Anfangswerte - Flächen (cls:L585)
+Added: 184, Processed: 561, Total: 573
+Skipped feature: Anfangswerte - Sanierungssatzungen (cls:L347)
+Added: 184, Processed: 562, Total: 573
+Skipped feature: zentrale Versorgungsbereiche (cls:L349)
+Added: 184, Processed: 563, Total: 573
+Skipped feature: Bearbeitungsgebiete (cls:L463)
+Added: 184, Processed: 564, Total: 573
+Skipped feature: Gestaltungssatzungen (cls:L358)
+Added: 184, Processed: 565, Total: 573
+Skipped feature: Sanierungssatzungen (cls:L350)
+Added: 184, Processed: 566, Total: 573
+Added feature: Baukultur in Dresden (cls:L1090)
+Added: 185, Processed: 567, Total: 573
+Added feature: Abfallsäcke - Ausgabestellen (cls:L287)
+Added: 186, Processed: 568, Total: 573
+Added feature: Mobile Sammelstellen (cls:L565)
+Added: 187, Processed: 569, Total: 573
+Added feature: Wertstoffhöfe/Annahmestellen (cls:L566)
+Added: 188, Processed: 570, Total: 573
+Added feature: Wertstoffcontainerstandplätze (cls:L567)
+Added: 189, Processed: 571, Total: 573
+Added feature: HandYcap - Sammlung von Mobiltelefonen (cls:L288)
+Added: 190, Processed: 572, Total: 573
+Added feature: Mehrwegbecher willkommen (cls:L699)
