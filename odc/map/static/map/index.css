@@ -6,11 +6,39 @@
     right: 0;
     top: 0;
     z-index: 9999;
-    width: 35%;
+    width: 40%;
 }
 
 .sidebar-content {
     height: 95vh;
     display: block;
     overflow-y: scroll;
+}
+
+.sidebar-content label {
+    margin-bottom: 0;
+}
+
+.sidebar-content label:first-child {
+    margin-bottom: 2rem;
+}
+
+.sidebar-content .ui-slider {
+    margin-top: 0.2rem;
+    margin-bottom: 0.75rem;
+}
+
+.sidebar-content__buttons {
+    float: right;
+}
+
+.sidebar-content__button-label {
+    position: relative;
+    top: 0;
+}
+
+.sidebar-content__button {
+    margin-left: 5px;
+    position: relative;
+    top: 3px;
 }

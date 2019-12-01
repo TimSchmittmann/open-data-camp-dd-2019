@@ -1,19 +1,20 @@
 let p = L.CRS.EPSG3857.project(L.point(51.050407, 13.737262));
 
+//var styles = {}
 var currentYear = '2018';
 var polygonToStadtraum = {};
 var stadtraumData = {
         "17 Briesnitz und westliche OS": "Test"
 };
 
-function ll(latLng) {
-	let m = matrixIds3857;
-	let t = L.latLng(latLng.lat, latLng.lng);
-	let topLeftCornerLatLng = L.CRS.EPSG3857.unproject(L.point(1302438.04228, 6746062.31756));
-	t.lat += topLeftCornerLatLng.lat;
-	t.lng += topLeftCornerLatLng.lng;
-	return t;
-}
+//function ll(latLng) {
+//	let m = matrixIds3857;
+//	let t = L.latLng(latLng.lat, latLng.lng);
+//	let topLeftCornerLatLng = L.CRS.EPSG3857.unproject(L.point(1302438.04228, 6746062.31756));
+//	t.lat += topLeftCornerLatLng.lat;
+//	t.lng += topLeftCornerLatLng.lng;
+//	return t;
+//}
 //, {
 //	maxBounds: L.latLngBounds(
 //			ll(L.latLng(50, 15)),
@@ -136,7 +137,9 @@ var baseLayers = {
 		
 	};
 
-L.control.layers({"Web Atlas" : tiles}, {}).addTo(map);    
+var controlLayers={}; 
+//= L.control.layers({"Web Atlas" : tiles}, {});
+//.addTo(map);    
 
 //map.on('click', onMapClick);
 //
@@ -150,6 +153,7 @@ function onStadtraumClick(e) {
         let stadtraumName = polygonToStadtraum[e.target._leaflet_id];
         let data = stadtraumData[stadtraumName];
         updateSlider(stadtraumName);
+
         $('#happiness-amount').val(stadtraumData[stadtraumName]['Wohlbefinden']['default']);
         $('#sidebar').show("slide", { direction: "right" }, 750);
         
@@ -250,6 +254,17 @@ function updateSlider(stadtraumName) {
     }
 }
 
+function addWms(dataTitle, cls) {
+    controlLayers[dataTitle] = L.tileLayer.wms("https://kommisdd.dresden.de/net3/public/ogcsl.ashx?Service=WMS&NODEID=0", {
+        layers: cls, //'L88',
+        format: 'image/png',
+        transparent: true,
+        CRS: 'urn:ogc:def:crs:EPSG::3857',
+        attribution: "Weather data © 2012 IEM Nexrad"
+    });
+    controlLayers[dataTitle]['added'] = false;
+}
+
 function addToStadtraumDataAndAddSlider(dataTitle, targetCols, data) {
     for(stadtraumName in stadtraumData) {
         if(typeof stadtraumData[stadtraumName][dataTitle] === 'undefined') {
@@ -260,12 +275,6 @@ function addToStadtraumDataAndAddSlider(dataTitle, targetCols, data) {
             stadtraumData[stadtraumName][dataTitle]['sliderinit'] = false;
         }
     }
-    let label = $('<label for="'+dataTitle+'-amount">'+dataTitle+':</label>');
-    let input = $('<input type="text" id="'+dataTitle+'-amount" readonly style="width: 90px; margin-left: 10px; border:0; color:#f6931f; font-weight:bold;">');
-    let slider = $('<div id="'+dataTitle+'-slider"></div>');
-    $('#sidebar-content').append(label);
-    $('#sidebar-content').append(input);
-    $('#sidebar-content').append(slider);
     
     let dataCb = (data, stadtraumName) => {
         data = data[dataTitle];
@@ -290,6 +299,64 @@ function addToStadtraumDataAndAddSlider(dataTitle, targetCols, data) {
     }
     let min = dataMin(dataCb);
     let max = dataMax(dataCb);
+        
+    let label = $('<label for="'+dataTitle+'-amount">'+dataTitle.replace(/_/g, ' ')+':</label>');
+    let input = $('<input type="text" id="'+dataTitle+'-amount" readonly style="width: 90px; margin-left: 10px; border:0; color:#f6931f; font-weight:bold;">');
+
+    let colorTiles = $('<span class="sidebar-content__buttons"><span class="sidebar-content__button-label">&nbsp;&nbsp;&nbsp;&nbsp;Kartenfärbung&nbsp;</span><input type="radio" name="color" id="'+dataTitle+'-color" class="sidebar-content__button"></span>');
+    $('#sidebar-content').append(colorTiles);
+    colorTiles.click((e) => {
+//    let stadtraumName = polygonToStadtraum[e.target._leaflet_id];
+        let defaultStyle = {
+                weight: 1,
+                dashArray: '',
+                fillOpacity: 0.4};
+            for(poly in polygonToStadtraum) {
+                let data = stadtraumData[polygonToStadtraum[poly]];
+                let color;
+                if($(e.target).is(':checked')) {
+                    color = getColor(data[dataTitle]['default'], min, max);
+                } else {
+                    color = getColor(data['Wohlbefinden']['default'], min, max);
+                }
+                let style = Object.assign({color: color}, defaultStyle);
+                map._layers[poly].setStyle(style);
+            }
+    })
+
+    //    let layerToggle = $('<input type="checkbox" id="'+dataTitle+'-layer" style="margin-left: 10px;">');
+    $('#sidebar-content').append(label);
+    $('#sidebar-content').append(input);
+//    $('#sidebar-content').append(layerToggleLabel);
+    
+    if(targetCols[0].indexOf('cls:') > 0) {
+        let start = targetCols[0].indexOf('cls:')+4;
+        let end = targetCols[0].indexOf(')');
+        addWms(dataTitle, targetCols[0].substring(start,end));
+        let layerToggle = $('<span class="sidebar-content__buttons"><span class="sidebar-content__button-label">Anzeigen</span><input type="checkbox" id="'+dataTitle+'-layer" class="sidebar-content__button"></span>');
+        $('#sidebar-content').append(layerToggle);
+        layerToggle.click((e) => {
+//        let stadtraumName = polygonToStadtraum[e.target._leaflet_id];
+            if(typeof controlLayers[dataTitle] !== 'undefined') {
+                if(controlLayers[dataTitle]['added']) {
+                    controlLayers[dataTitle].remove();
+                    controlLayers[dataTitle]['added'] = false;
+                } else {
+                    controlLayers[dataTitle].addTo(map);
+                    controlLayers[dataTitle]['added'] = true;
+                }
+            }
+        })
+    }
+    
+    let slider = $('<div id="'+dataTitle+'-slider"></div>');
+    $('#sidebar-content').append(slider);
+
+    if(typeof stadtraumData[stadtraumName][dataTitle] !== 'undefined') {
+        stadtraumData[stadtraumName][dataTitle]['min'] = min;
+        stadtraumData[stadtraumName][dataTitle]['max'] = max;
+    }
+    
     $( function() {
         $("#"+dataTitle+"-slider").slider({
             value:-1,
@@ -301,13 +368,14 @@ function addToStadtraumDataAndAddSlider(dataTitle, targetCols, data) {
             }
         });
         $("#"+dataTitle+"-slider").attr('init', false);
+        $("#"+dataTitle+"-slider").slider("disable");
         $( "#"+dataTitle+"-amount" ).val( $( "#"+dataTitle+"-slider" ).slider( "value" ));
     });
 }
 
 function addAggregatedCsvData(file_name, index_cols, successCb) {
     $.ajax({method: 'POST',
-        url: 'opendata_dd_export_aggregated_csv/',
+        url: '/map/opendata_dd_export_aggregated_csv/',
         dataType: 'json',
         data: {
             file_name: file_name,
@@ -324,7 +392,7 @@ function addAggregatedCsvData(file_name, index_cols, successCb) {
 
 function addData(successCb) {
     $.ajax({method: 'GET',
-        url: 'opendata_dd_lebensbedingungen/',
+        url: '/map/opendata_dd_lebensbedingungen/',
         dataType: 'json',
         async: true,
         cache: false,
@@ -374,7 +442,6 @@ function getColor(current, min, max) {
 
 function addStadtteilePrefetched() {
     let bounds = JSON.parse(stadtraumBounds);
-    
     let dataCb = (data) => {
         return data['Wohlbefinden'][currentYear]['Glücksindex'];
     }
@@ -384,7 +451,24 @@ function addStadtteilePrefetched() {
     let input = $('<input type="text" id="happiness-amount" readonly style="margin-left: 10px; border:0; color:#f6931f; font-weight:bold;">');
     $('#sidebar-content').append(label);
     $('#sidebar-content').append(input);
-    $('#sidebar-content').append($('</br>'));
+
+    let colorTiles = $('<span style="float: right">Kartenfärbung&nbsp;<input type="radio" checked="checked" name="color" id="Wohlbefinden-color" style="margin-left: 10px;"></span>');
+    $('#sidebar-content').append(colorTiles);
+    colorTiles.click((e) => {
+//    let stadtraumName = polygonToStadtraum[e.target._leaflet_id];
+        let defaultStyle = {
+                weight: 1,
+                dashArray: '',
+                fillOpacity: 0.4};
+            for(poly in polygonToStadtraum) {
+                let data = stadtraumData[polygonToStadtraum[poly]];
+                let color = getColor(data['Wohlbefinden']['default'], min, max);
+                let style = Object.assign({color: color}, defaultStyle);
+                map._layers[poly].setStyle(style);
+            }
+    })
+    $('#sidebar-content').append("<br/>");
+    
     
     let defaultStyle = {
         weight: 1,
@@ -400,6 +484,7 @@ function addStadtteilePrefetched() {
         polygon.on('click', onStadtraumClick);
         polygon.on('mouseover', highlightFeature);
         polygon.on('mouseout', () => polygon.setStyle(style));
+        
 //         // zoom the map to the polygon
     }
 }
