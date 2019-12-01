@@ -44,7 +44,7 @@ def opendata_dd_export_aggregated_csv(request):
 
 def opendata_dd_lebensbedingungen(request):
     df = pd.read_csv("map/scripts/csv/opendata_dresden/export/aggregated/de-sn-dresden-kbu_-_lebensbedingungen_1993ff_gesundheit__wohlbefinden_nach_stadtraum.csv", 
-                     sep=";", header=0, encoding = 'ansi')
+                     sep=";", header=0, encoding = 'cp1252')
     json = {}
     for r in df.iterrows():
         if r[1].Stadtraum not in json:
