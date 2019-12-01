@@ -375,7 +375,7 @@ function addToStadtraumDataAndAddSlider(dataTitle, targetCols, data) {
 
 function addAggregatedCsvData(file_name, index_cols, successCb) {
     $.ajax({method: 'POST',
-        url: '/map_app/opendata_dd_export_aggregated_csv/',
+        url: '/map/opendata_dd_export_aggregated_csv/',
         dataType: 'json',
         data: {
             file_name: file_name,
@@ -392,7 +392,7 @@ function addAggregatedCsvData(file_name, index_cols, successCb) {
 
 function addData(successCb) {
     $.ajax({method: 'GET',
-        url: '/map_app/opendata_dd_lebensbedingungen/',
+        url: '/map/opendata_dd_lebensbedingungen/',
         dataType: 'json',
         async: true,
         cache: false,
