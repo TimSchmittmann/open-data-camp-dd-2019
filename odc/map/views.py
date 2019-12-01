@@ -8,11 +8,11 @@ import pandas as pd
 # Create your views here.
 def index(request):
     context = {}
-    return render(request, 'map_app/index.html', context)
+    return render(request, 'map/index.html', context)
 
 def historie(request):
     context = {}
-    return render(request, 'map_app/historie.html', context)
+    return render(request, 'map/historie.html', context)
 
 def add_data(current, remaining_index_cols, index_cols, row):
     if len(remaining_index_cols) == 0:
@@ -33,7 +33,7 @@ def add_data(current, remaining_index_cols, index_cols, row):
 def opendata_dd_export_aggregated_csv(request):
     file_name = request.POST.get('file_name')
     index_cols = request.POST.getlist('index_cols[]')
-    df = pd.read_csv("map_app/scripts/csv/opendata_dresden/export/aggregated/"+file_name, 
+    df = pd.read_csv("map/scripts/csv/opendata_dresden/export/aggregated/"+file_name, 
                      sep=",", header=0, encoding = 'UTF-8')
     json = {}
     print(index_cols)
@@ -43,7 +43,7 @@ def opendata_dd_export_aggregated_csv(request):
 
 
 def opendata_dd_lebensbedingungen(request):
-    df = pd.read_csv("map_app/scripts/csv/opendata_dresden/export/aggregated/de-sn-dresden-kbu_-_lebensbedingungen_1993ff_gesundheit__wohlbefinden_nach_stadtraum.csv", 
+    df = pd.read_csv("map/scripts/csv/opendata_dresden/export/aggregated/de-sn-dresden-kbu_-_lebensbedingungen_1993ff_gesundheit__wohlbefinden_nach_stadtraum.csv", 
                      sep=";", header=0, encoding = 'ansi')
     json = {}
     for r in df.iterrows():

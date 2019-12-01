@@ -21,7 +21,7 @@ def agg_and_sum_bezirk(df, mapping_dict):
     return(df)
 
 def agg_and_sum(stat_bezirk_file_to_transform, transform_to = 'Stadtraum'):
-    mappings_file = os.path.join(settings.BASE_DIR, 'map_app/scripts/csv/opendata_dresden/export/de_sn_dresden_kleinraeumige_stru.csv')   
+    mappings_file = os.path.join(settings.BASE_DIR, 'map/scripts/csv/opendata_dresden/export/de_sn_dresden_kleinraeumige_stru.csv')   
     df_to_transform = pd.read_csv(stat_bezirk_file_to_transform, sep=";", header=0, encoding = 'ansi')
     df_mappings = pd.read_csv(mappings_file, sep=";", header=0, encoding = 'ansi')
     df_mappings['Statistischer Bezirk'] = df_mappings['Statistischer Bezirk'].str.slice(0,3)
