@@ -1,7 +1,7 @@
 let p = L.CRS.EPSG3857.project(L.point(51.050407, 13.737262));
 
 //var styles = {}
-var currentYear = '2018';
+var currentYear = 2018;
 var polygonToStadtraum = {};
 var stadtraumData = {
         "17 Briesnitz und westliche OS": "Test"
@@ -154,7 +154,7 @@ function onStadtraumClick(e) {
         let data = stadtraumData[stadtraumName];
         updateSlider(stadtraumName);
 
-        $('#happiness-amount').val(stadtraumData[stadtraumName]['Wohlbefinden']['default']);
+        $('#happiness-amount').val(stadtraumData[stadtraumName]['Wohlbefinden'][currentYear]['default']);
         $('#sidebar').show("slide", { direction: "right" }, 750);
         
 //        popup
@@ -168,78 +168,93 @@ function onStadtraumClick(e) {
 
 function addInitialData(data) {
     stadtraumData = Object.assign(stadtraumData, data);
+    let title = 'Wohlbefinden';
+    let targetCols = ['Wohlbefinden', currentYear, 'Glücksindex'];
+    addToStadtraumDataAndAddSlider(title, targetCols, (current, min, max) => {
+    	current = parseFloat(10 * normalize(current, min, max)).toPrecision(2);
+    	return current;
+    }, false, data);
     addStadtteilePrefetched();
+    $('input#Wohlbefinden-color').click();
+    
     let url = 'de-sn-dresden-kbu_-_einkommen_aequivalenz-_1993ff_stadtraum.csv';
     let indexCols = ['Stadtraum', 'Jahr'];
-    let title = 'Einkommen';
-    let targetCols = [currentYear, 'Einkommen-Haushalt (Äquivalenz-)'];
-    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols));
+    indexCols = ['Stadtraum', 'Jahr'];
+    title = 'Einkommen';
+    targetCols = [currentYear, 'Einkommen-Haushalt (Äquivalenz-)'];
+    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols, null, false));
     
     url = 'de-sn-dresden-kbu_-_wohnkosten_1995ff_nach_stadtraum.csv';
     indexCols = ['Stadtraum', 'Jahr'];
-    title = 'Wohnkosten';
+    title = 'Grundmiete_€_pro_qm';
     targetCols = [currentYear, 'Grundmiete'];
-    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols));
+    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols, (current, min, max) => {
+    	current = parseFloat(current.toPrecision(2));
+    	return current;
+    }, true));
     
     url = 'de-sn-dresden-einwohner_-_haushalte_md21e_1999_-_2018_od_bevoelkerung_ab_stadtbezirk_kinderanzahl_no_kids.csv';
     indexCols = ['Stadtraum', 'Jahr'];
     title = 'Anteil_Haushalte_ohne_Kinder_in_prozent';
     targetCols = [currentYear, 'Anteil_Haushalte_ohne_Kinder'];
-    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols));
+    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols, (current, min, max) => {
+    	current = parseInt(current * 100);
+    	return current;
+    }, false));
 
     url = 'de-sn-dresden-einwohner___md_33e_1999_-_2018_od_bevoelkerung_ab_stadtraum_hauptwohner_deutsche__auslaender_wohndauer.csv';
     indexCols = ['Stadtraum', 'Jahr'];
     title = 'Mittlere_Wohndauer';
     targetCols = [currentYear, 'mean_Wohndauer'];
-    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols));
+    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols, null, false));
 
     url = 'Bibliotheken.csv';
     indexCols = ['Statistischer Bezirk'];
     title = 'Bibliotheken';
     targetCols = ['Bibliotheken (cls:L494)'];
-    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols));
+    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols, null, false));
 
     url = 'Ausstellungen, Galerien.csv';
     indexCols = ['Statistischer Bezirk'];
     title = 'Galerien';
     targetCols = ['Ausstellungen, Galerien (cls:L496)'];
-    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols));
+    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols, null, false));
 
     url = 'Berufsbildende Schulen.csv';
     indexCols = ['Statistischer Bezirk'];
     title = 'Berufsbildende_Schulen';
     targetCols = ['Berufsbildende Schulen (cls:L546)'];
-    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols));
+    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols, null, false));
 
     url = 'Einkaufen & Service.csv';
     indexCols = ['Statistischer Bezirk'];
     title = 'Lebensmittelmärkte';
     targetCols = ['Lebensmittelmärkte (cls:L700)'];
-    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols));
+    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols, null, false));
 
     url = 'Grundschulen.csv';
     indexCols = ['Statistischer Bezirk'];
     title = 'Grundschulen';
     targetCols = ['Grundschulen (cls:L542)'];
-    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols));
+    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols, null, false));
 
     url = 'Gymnasien.csv';
     indexCols = ['Statistischer Bezirk'];
     title = 'Gymnasien';
     targetCols = ['Gymnasien (cls:L545)'];
-    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols));
+    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols, null, false));
 
     url = 'Horte.csv';
     indexCols = ['Statistischer Bezirk'];
     title = 'Horte';
     targetCols = ['Horte (cls:L606)'];
-    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols));
+    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols, null, false));
 
     url = 'Kirchen, Religiöse Einrichtungen.csv';
     indexCols = ['Statistischer Bezirk'];
     title = 'Kirchen_Religiöse_Einrichtungen';
     targetCols = ['Kirchen, Religiöse Einrichtungen (cls:L121)'];
-    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols));
+    addAggregatedCsvData(url, indexCols, addToStadtraumDataAndAddSlider.bind(this, title, targetCols, null, false));
 
     
 }
@@ -247,9 +262,12 @@ function addInitialData(data) {
 function updateSlider(stadtraumName) {
     for(key in stadtraumData[stadtraumName]) {
         let slider = $('#'+key+'-slider');
-        if(slider.length>0 && !stadtraumData[stadtraumName][key]['sliderinit']) {
-            slider.slider({value: stadtraumData[stadtraumName][key]['default']});
-            $( "#"+key+"-amount" ).val(stadtraumData[stadtraumName][key]['default']);
+        if(slider.length>0 && typeof stadtraumData[stadtraumName][key] !== 'undefined' 
+        	&& typeof stadtraumData[stadtraumName][key][currentYear] !== 'undefined'
+//    		&& !stadtraumData[stadtraumName][key][currentYear]['sliderinit']
+        ) {
+            slider.slider({value: stadtraumData[stadtraumName][key][currentYear]['default']});
+            $( "#"+key+"-amount" ).val(stadtraumData[stadtraumName][key][currentYear]['default']);
         }
     }
 }
@@ -265,74 +283,111 @@ function addWms(dataTitle, cls) {
     controlLayers[dataTitle]['added'] = false;
 }
 
-function addToStadtraumDataAndAddSlider(dataTitle, targetCols, data) {
+//function addDataTitleDataToStadtraumData(dataTitle, data, targetCols) {
+//	for(stadtraumName in stadtraumData) {
+//        if(typeof stadtraumData[stadtraumName][dataTitle] === 'undefined') {
+//            stadtraumData[stadtraumName][dataTitle] = {}
+//        }
+////        if(typeof data[stadtraumName] !== 'undefined' 
+////        	&& typeof data[stadtraumName][dataTitle] !== 'undefined') {
+////        	if(typeof data[stadtraumName][dataTitle][currentYear] === 'undefined') {
+////        		stadtraumData[stadtraumName][dataTitle][currentYear] = data[stadtraumName];
+////        	} else {
+////        		stadtraumData[stadtraumName][dataTitle] = data[stadtraumName][dataTitle];
+////        	}
+////        } 
+////        if(typeof stadtraumData[stadtraumName][dataTitle][currentYear] !== 'undefined') {
+////            stadtraumData[stadtraumName][dataTitle][currentYear]['sliderinit'] = false;
+////        }
+//    }
+//}
+
+function transformStadtraumDataValues(dataTitle, min, max, cb) {
     for(stadtraumName in stadtraumData) {
-        if(typeof stadtraumData[stadtraumName][dataTitle] === 'undefined') {
-            stadtraumData[stadtraumName][dataTitle] = {}
-        }
-        stadtraumData[stadtraumName][dataTitle] = data[stadtraumName];
-        if(typeof stadtraumData[stadtraumName][dataTitle] !== 'undefined') {
-            stadtraumData[stadtraumName][dataTitle]['sliderinit'] = false;
-        }
+    	if(typeof stadtraumData[stadtraumName][dataTitle] !== 'undefined'
+	    	&& typeof stadtraumData[stadtraumName][dataTitle][currentYear] !== 'undefined') {
+    		stadtraumData[stadtraumName][dataTitle][currentYear]['default'] = cb(stadtraumData[stadtraumName][dataTitle][currentYear]['default'], min, max);
+    	}
     }
-    
-    let dataCb = (data, stadtraumName) => {
-        data = data[dataTitle];
-        if(typeof data === 'undefined') {
-            return false;
-        }
-        for(col of targetCols) {
-            data = data[col];
-        }
-        let result = parseFloat(data)
-        if(dataTitle === 'Anteil_Haushalte_ohne_Kinder_in_prozent') {
-            result = parseInt(result * 100)
-        }
-        if(dataTitle === 'Mittlere_Wohndauer') {
-            result = parseInt(result)
-        }
-        if(targetCols[0].indexOf('cls:') > 0) {
-            result = parseInt(result / 3);
-        }
-        stadtraumData[stadtraumName][dataTitle]['default'] = result;
-        return result;
+}
+
+function addDefaultStylesToStadtraumData(dataTitle, min, max) {
+    for(stadtraumName in stadtraumData) {
+    	if(typeof stadtraumData[stadtraumName][dataTitle] !== 'undefined'
+	    	&& typeof stadtraumData[stadtraumName][dataTitle][currentYear] !== 'undefined') {
+	        let defaultStyle = {
+	                weight: 1,
+	                dashArray: '',
+	                fillOpacity: 0.4,
+	                color: getColor(stadtraumData[stadtraumName][dataTitle][currentYear]['default'], min, max)
+	                };
+	        stadtraumData[stadtraumName][dataTitle][currentYear]['defaultStyle'] = defaultStyle;
+	    }
     }
-    let min = dataMin(dataCb);
-    let max = dataMax(dataCb);
-        
+}
+
+function dataExtractCb(dataTitle, targetCols, data) {
+//    data = data[dataTitle];
+//    if(typeof data === 'undefined') {
+//        return false;
+//    }
+//    data = data[currentYear];
+//    if(typeof data === 'undefined') {
+//        return false;
+//    }
+    for(col of targetCols) {
+        data = data[col];
+    }
+    let result = parseFloat(data)
+    if(dataTitle === 'Mittlere_Wohndauer') {
+        result = parseInt(result)
+    }
+    if(String(targetCols[0]).indexOf('cls:') > 0) {
+        result = parseInt(result / 3);
+    }
+//    if(typeof stadtraumData[stadtraumName][dataTitle][currentYear] === 'undefined') {
+//    	stadtraumData[stadtraumName][dataTitle][currentYear] = [];
+//    }
+//    stadtraumData[stadtraumName][dataTitle][currentYear]['default'] = result;
+    return result;
+}
+
+function setContextDefaultStyle(polygon) {
+	let dataTitle = $('input[name="color"]:checked').val();
+	let data = stadtraumData[polygonToStadtraum[polygon._leaflet_id]];
+	polygon.setStyle(data[dataTitle][currentYear]['defaultStyle']);
+}
+
+function addSidebarLabelAndButtons(dataTitle, targetCols) {
     let label = $('<label for="'+dataTitle+'-amount">'+dataTitle.replace(/_/g, ' ')+':</label>');
     let input = $('<input type="text" id="'+dataTitle+'-amount" readonly style="width: 90px; margin-left: 10px; border:0; color:#f6931f; font-weight:bold;">');
 
-    let colorTiles = $('<span class="sidebar-content__buttons"><span class="sidebar-content__button-label">&nbsp;&nbsp;&nbsp;&nbsp;Kartenfärbung&nbsp;</span><input type="radio" name="color" id="'+dataTitle+'-color" class="sidebar-content__button"></span>');
+    let colorTiles = $(
+    		'<span class="sidebar-content__buttons">'
+	    		+'<span class="sidebar-content__button-label">&nbsp;&nbsp;&nbsp;&nbsp;Kartenfärbung&nbsp;</span>'
+	    		+'<input type="radio" name="color" id="'+dataTitle+'-color" class="sidebar-content__button" value="'+dataTitle+'">'
+    		+'</span>');
     $('#sidebar-content').append(colorTiles);
+    
     colorTiles.click((e) => {
-//    let stadtraumName = polygonToStadtraum[e.target._leaflet_id];
-        let defaultStyle = {
-                weight: 1,
-                dashArray: '',
-                fillOpacity: 0.4};
+    	if($(e.target).is(':checked')) {
             for(poly in polygonToStadtraum) {
-                let data = stadtraumData[polygonToStadtraum[poly]];
-                let color;
-                if($(e.target).is(':checked')) {
-                    color = getColor(data[dataTitle]['default'], min, max);
-                } else {
-                    color = getColor(data['Wohlbefinden']['default'], min, max);
-                }
-                let style = Object.assign({color: color}, defaultStyle);
-                map._layers[poly].setStyle(style);
+            	let polygon = map._layers[poly];
+            	setContextDefaultStyle(polygon);
+//            	let data = stadtraumData[polygonToStadtraum[poly]];
+//            	map._layers[poly].setStyle(data[$(e.target).val()][currentYear]['defaultStyle']);
             }
+        }
     })
 
-    //    let layerToggle = $('<input type="checkbox" id="'+dataTitle+'-layer" style="margin-left: 10px;">');
     $('#sidebar-content').append(label);
     $('#sidebar-content').append(input);
-//    $('#sidebar-content').append(layerToggleLabel);
-    
-    if(targetCols[0].indexOf('cls:') > 0) {
-        let start = targetCols[0].indexOf('cls:')+4;
-        let end = targetCols[0].indexOf(')');
-        addWms(dataTitle, targetCols[0].substring(start,end));
+
+    let targetCol = String(targetCols[0]);
+    if(targetCol.indexOf('cls:') > 0) {
+        let start = targetCol.indexOf('cls:')+4;
+        let end = targetCol.indexOf(')');
+        addWms(dataTitle, targetCol.substring(start,end));
         let layerToggle = $('<span class="sidebar-content__buttons"><span class="sidebar-content__button-label">Anzeigen</span><input type="checkbox" id="'+dataTitle+'-layer" class="sidebar-content__button"></span>');
         $('#sidebar-content').append(layerToggle);
         layerToggle.click((e) => {
@@ -348,14 +403,12 @@ function addToStadtraumDataAndAddSlider(dataTitle, targetCols, data) {
             }
         })
     }
-    
+
+}
+
+function addSlider(dataTitle, min, max) {
     let slider = $('<div id="'+dataTitle+'-slider"></div>');
     $('#sidebar-content').append(slider);
-
-    if(typeof stadtraumData[stadtraumName][dataTitle] !== 'undefined') {
-        stadtraumData[stadtraumName][dataTitle]['min'] = min;
-        stadtraumData[stadtraumName][dataTitle]['max'] = max;
-    }
     
     $( function() {
         $("#"+dataTitle+"-slider").slider({
@@ -371,6 +424,40 @@ function addToStadtraumDataAndAddSlider(dataTitle, targetCols, data) {
         $("#"+dataTitle+"-slider").slider("disable");
         $( "#"+dataTitle+"-amount" ).val( $( "#"+dataTitle+"-slider" ).slider( "value" ));
     });
+}
+
+//function addToStadtraumDataAndAddButtonsWithoutSlider(dataTitle, targetCols, data) {
+//	
+//}
+
+function addToStadtraumDataAndAddSlider(dataTitle, targetCols, transformCb, invertColors, data) {
+//	addDataTitleDataToStadtraumData(dataTitle, data, targetCols);
+	let resultCb = dataExtractCb.bind(null, dataTitle, targetCols);
+	addDataToStadtraumData(data, dataTitle, resultCb);
+	let stadtraumDataResultCb = (d) => {
+		if(typeof d[dataTitle] === 'undefined') {
+			return false;
+		}
+		return d[dataTitle][currentYear]['default'];
+	}
+    let min = dataMin(stadtraumData,stadtraumDataResultCb);
+    let max = dataMax(stadtraumData,stadtraumDataResultCb);
+    if(transformCb !== null) {
+    	transformStadtraumDataValues(dataTitle, min, max, transformCb);
+    	min = transformCb(min, min, max);
+    	max = transformCb(max, min, max);
+    }
+    if(invertColors) {
+    	addDefaultStylesToStadtraumData(dataTitle, max, min); 
+    } else {
+    	addDefaultStylesToStadtraumData(dataTitle, min, max); 
+    }
+    addSidebarLabelAndButtons(dataTitle, targetCols);
+    addSlider(dataTitle, min, max);
+//    	(data, stadtraumName) => {
+//
+//    }
+    
 }
 
 function addAggregatedCsvData(file_name, index_cols, successCb) {
@@ -402,26 +489,40 @@ function addData(successCb) {
     });
 }
 
-function dataMin(dataCb) {
-    result = Infinity;
-    for(let stadtraumName in stadtraumData) {
-        let data = stadtraumData[stadtraumName];
-        let t = dataCb(data,stadtraumName);
-        if(t !== false)  {
-            result = Math.min(result, t);
+function addDataToStadtraumData(data, dataTitle, resultCb) {
+	for(let stadtraumName in data) {
+        if(typeof stadtraumData[stadtraumName][dataTitle] === 'undefined') {
+            stadtraumData[stadtraumName][dataTitle] = {}
         }
+	    if(typeof stadtraumData[stadtraumName][dataTitle][currentYear] === 'undefined') {
+	    	stadtraumData[stadtraumName][dataTitle][currentYear] = [];
+	    }
+		stadtraumData[stadtraumName][dataTitle][currentYear]['default'] = resultCb(data[stadtraumName]);
+	}
+}
+
+function dataMin(data, dataCb) {
+    result = Infinity;
+    for(let stadtraumName in data) {
+    	if(typeof data[stadtraumName] !== 'undefined') {
+    		let t = dataCb(data[stadtraumName]);
+    		if(t !== false)  {
+    			result = Math.min(result, t);
+    		}
+    	}
     }
     return result;
 }
 
-function dataMax(dataCb) {
+function dataMax(data, dataCb) {
     result = -Infinity;
-    for(let stadtraumName in stadtraumData) {
-        let data = stadtraumData[stadtraumName];
-        let t = dataCb(data,stadtraumName);
-        if(t !== false)  {
-            result = Math.max(result, t);
-        }
+    for(let stadtraumName in data) {
+    	if(typeof data[stadtraumName] !== 'undefined') {
+    		let t = dataCb(data[stadtraumName]);
+    		if(t !== false)  {
+    			result = Math.max(result, t);
+    		}
+    	}
     }
     return result;
 }
@@ -442,49 +543,48 @@ function getColor(current, min, max) {
 
 function addStadtteilePrefetched() {
     let bounds = JSON.parse(stadtraumBounds);
-    let dataCb = (data) => {
-        return data['Wohlbefinden'][currentYear]['Glücksindex'];
-    }
-    let min = dataMin(dataCb);
-    let max = dataMax(dataCb);
-    let label = $('<label for="happiness-amount">Zufriedenheit</label>');
-    let input = $('<input type="text" id="happiness-amount" readonly style="margin-left: 10px; border:0; color:#f6931f; font-weight:bold;">');
-    $('#sidebar-content').append(label);
-    $('#sidebar-content').append(input);
-
-    let colorTiles = $('<span style="float: right">Kartenfärbung&nbsp;<input type="radio" checked="checked" name="color" id="Wohlbefinden-color" style="margin-left: 10px;"></span>');
-    $('#sidebar-content').append(colorTiles);
-    colorTiles.click((e) => {
-//    let stadtraumName = polygonToStadtraum[e.target._leaflet_id];
-        let defaultStyle = {
-                weight: 1,
-                dashArray: '',
-                fillOpacity: 0.4};
-            for(poly in polygonToStadtraum) {
-                let data = stadtraumData[polygonToStadtraum[poly]];
-                let color = getColor(data['Wohlbefinden']['default'], min, max);
-                let style = Object.assign({color: color}, defaultStyle);
-                map._layers[poly].setStyle(style);
-            }
-    })
-    $('#sidebar-content').append("<br/>");
+//    let dataCb = (data) => {
+//        return data['Wohlbefinden'][currentYear]['Glücksindex'];
+//    }
+//    let min = dataMin(dataCb);
+//    let max = dataMax(dataCb);
+//    let label = $('<label for="happiness-amount">Zufriedenheit</label>');
+//    let input = $('<input type="text" id="happiness-amount" readonly style="margin-left: 10px; border:0; color:#f6931f; font-weight:bold;">');
+//    $('#sidebar-content').append(label);
+//    $('#sidebar-content').append(input);
+//
+//    let colorTiles = $('<span style="float: right">Kartenfärbung&nbsp;<input type="radio" checked="checked" name="color" id="Wohlbefinden-color" style="margin-left: 10px;"></span>');
+//    $('#sidebar-content').append(colorTiles);
+//    colorTiles.click((e) => {
+////    let stadtraumName = polygonToStadtraum[e.target._leaflet_id];
+//        let defaultStyle = {
+//                weight: 1,
+//                dashArray: '',
+//                fillOpacity: 0.4};
+//            for(poly in polygonToStadtraum) {
+//                let data = stadtraumData[polygonToStadtraum[poly]];
+//                let color = getColor(data['Wohlbefinden']['default'], min, max);
+//                let style = Object.assign({color: color}, defaultStyle);
+//                map._layers[poly].setStyle(style);
+//            }
+//    })
+//    $('#sidebar-content').append("<br/>");
     
-    
-    let defaultStyle = {
-        weight: 1,
-        dashArray: '',
-        fillOpacity: 0.4};
+//    let defaultStyle = {
+//        weight: 1,
+//        dashArray: '',
+//        fillOpacity: 0.4};
     for(let key in bounds) {            
-        let color = getColor(dataCb(stadtraumData[key]), min, max);
-        stadtraumData[key]['Wohlbefinden']['default'] = normalize(dataCb(stadtraumData[key]), min, max) * 10;
-        let style = Object.assign({ color: color}, defaultStyle);
-        let polygon = L.polygon(bounds[key], style).addTo(map);
+//        let color = getColor(dataCb(stadtraumData[key]), min, max);
+//        stadtraumData[key]['Wohlbefinden'][currentYear]['default'] = normalize(dataCb(stadtraumData[key]), min, max) * 10;
+//        let style = Object.assign({ color: color}, defaultStyle);
+        let polygon = L.polygon(bounds[key], {}).addTo(map);
 //
         polygonToStadtraum[polygon._leaflet_id] = key;
         polygon.on('click', onStadtraumClick);
         polygon.on('mouseover', highlightFeature);
-        polygon.on('mouseout', () => polygon.setStyle(style));
-        
+        polygon.on('mouseout', setContextDefaultStyle.bind(null, polygon));
+//        setContextDefaultStyle(polygon);
 //         // zoom the map to the polygon
     }
 }
@@ -532,7 +632,7 @@ function addStadtteileViaSoap(wfsBaseUrl) {
             let polygon = L.polygon(turfPolygon.geometry.coordinates[0], defaultStyle).addTo(map);
 //
             polygon.on('mouseover', highlightFeature);
-            polygon.on('mouseout', () => polygon.setStyle(defaultStyle));
+            polygon.on('mouseout', setContextDefaultStyle.bind(null,polygon));
 //         // zoom the map to the polygon
             map.fitBounds(polygon.getBounds());
         }

@@ -1,0 +1,48 @@
+{% load static %}
+<!DOCTYPE link PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+    <head>
+        <link rel="stylesheet" href="{% static 'map/bootstrap-4.3.1-dist/css/bootstrap.css' %}" />
+        <link rel="stylesheet" href="{% static 'map/wfs2csv.css' %}" />
+    </head>
+    <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#">What if...?</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="/map/">Karte</a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="/wfs2csv/">Wfs2Csv Service <span class="sr-only">(current)</span></a>
+      </li>
+    </ul>
+  </div>
+</nav>
+    <div class="jumbotron main">
+        {% if error %}
+        <p class="text-danger">{{error}}</p>
+        {% endif %}
+        <p>Mit diesem Service lassen sich Features aus den WFS von <a href="https://opendata.dresden.de/DreiD">Opendata Dresden</a> 
+        extrahieren und den einzelnen Statistischen Bezirken in Dresden zuordnen. <br/>Dies kann dann wiederum genutzt werden, 
+        um Zuordnungen zu den einzelnen Stadtteilen zu aggregieren.</p>
+        <p>Einfach die NodeId des gewünschten WFS eintragen und auf Generieren klicken. <br/> 
+        Je nach Menge der verfügbaren Features im WFS kann das Generieren eine Weile dauern.</p>
+        <form id="wfs2csv-form" method="get" action="/wfs2csv">
+            <input type="text" id="node-id" name="node-id" placeholder="NodeId. Z.B. 159" />
+            <button type="submit" >Generieren</button>
+        </form> 
+        <small>
+        Es werden nur Features mit Punktkoordinaten berücksichtigt. 
+        Außerdem werden Gewässerdaten derzeit ignoriert, weil die Zuordnung dieser zu Statistischen Bezirken nicht sinnvoll ist.
+        </small>
+    </div>
+     <script src="{% static 'jquery/dist/jquery.min.js' %}" charset="UTF-8"></script>
+     <script src="{% static 'map/bootstrap-4.3.1-dist/js/bootstrap.js' %}" charset="UTF-8"></script>
+     <script src="{% static 'map/wfs2csv.js' %}" charset="UTF-8"></script>
+    </body>
+</html>

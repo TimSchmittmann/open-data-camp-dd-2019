@@ -1,9 +1,14 @@
 from django.shortcuts import render
 from .scripts import stadtraum_mappings
+from .scripts import wsfToCsv
 from django.http import JsonResponse
 from django.conf import settings
+from shapely.geometry import Point, Polygon
 import os
 import pandas as pd
+from fileinput import filename
+from django.http import FileResponse
+from django.shortcuts import redirect
 
 # Create your views here.
 def index(request):
@@ -13,6 +18,22 @@ def index(request):
 def historie(request):
     context = {}
     return render(request, 'map/historie.html', context)
+
+def wfs2Csv(request, node_id=False):
+    if node_id is not False:
+        filename = wsfToCsv.fromNodeIdToCsv(node_id)
+        
+        if filename is not False:
+            response = FileResponse(open('map/scripts/csv/'+filename+'.csv', 'rb'))
+            response['Content-Disposition'] = 'attachment; filename="'+filename+'.csv"'
+            return response
+        request.session['error'] = 'Keine verfügbaren Features für NodeId '+str(node_id)
+        return redirect('/wfs2csv/')
+    context = {}
+    if 'error' in request.session:
+        context['error'] = request.session['error']
+        request.session['error'] = False
+    return render(request, 'map/wfs2csv.html', context)
 
 def add_data(current, remaining_index_cols, index_cols, row):
     if len(remaining_index_cols) == 0:
